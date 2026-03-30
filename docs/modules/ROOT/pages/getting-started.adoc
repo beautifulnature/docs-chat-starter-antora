@@ -1,0 +1,7 @@
+= Getting Started
+
+To build the docs site, run Antora with the playbook file.
+
+To start the backend, run Spring Boot from the `java-backend` directory.
+
+To start the web UI, run Astro from the `astro-ui` directory.

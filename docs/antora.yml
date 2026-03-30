@@ -1,0 +1,5 @@
+name: docs
+version: ~
+title: Docs Chat Starter
+nav:
+  - modules/ROOT/nav.adoc

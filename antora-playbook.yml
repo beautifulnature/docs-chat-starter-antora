@@ -1,0 +1,13 @@
+site:
+  title: Docs Chat Starter
+  start_page: docs::index.adoc
+content:
+  sources:
+    - url: .
+      start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/raw/master/build/ui-bundle.zip
+    snapshot: true
+output:
+  dir: build/site
