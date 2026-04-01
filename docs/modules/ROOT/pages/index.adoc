@@ -3,3 +3,7 @@
 This sample documentation site is built with Antora.
 
 Use the chat UI to ask questions about setup, datasource configuration, and indexing.
+
+Below table is generated from JSON.
+
+include::partial$generated/products-table.adoc[]

@@ -1,0 +1,77 @@
+:leveloffset: +1
+= Insulating Materials
+
+(Electricals & Thermal Insulating Materials including Insulating Varnishes, Insulated Conductor and Cables, but excluding Non-Metals)
+
+Details of Basic Category
+
+image:media/image12.png[media/image12,width=596,height=101]
+
+[width="99%",cols="6%,4%,90%",options="header",]
+|===
+|2 |X |
+|2 |1 |Papers, Paper-Boards and other allied products (including Vulcanized Fibre Boards)
+|2 |2 |Plastics including Fibre Glass Reinforced Plastics and Resinous Laminates including Perma Woods, Moulding Powder, etc.)
+|2 |3 |Woven Fibres and Allied Products
+|2 |4 |Cutting Tools (Abrasives)
+|2 |5 |Mica, Glass and allied products including Mineral Wool and Glass Wool, etc.
+|2 |6 |Refractory including Ceramics and Heat Resisting Cement
+|2 |7 |Insulating Oils, Paints and Varnishes
+|2 |8 |Insulated Conductors and Cables / Magnet Wires
+|2 |9 |Miscellaneous
+|===
+
+
+[width="99%",cols="4%,3%,3%,90%",options="header",]
+|===
+|2 |1 |X |
+|2 |1 |0 |Commercial Quality where quality of basic pulp is not specified
+|2 |1 |1 |Fibrous Product Naturals - Cellulose, Vulcanized Fibre, Natural Fibre (Wood Pulp), Bast Fibres (Jute, Sisal, Hemp, etc.), Rags (cloth cuttings)
+|2 |1 |5 |Inorganic materials - Asbestos etc.
+|2 |1 |7 |Synthetic materials - Polyamides (Nylon, etc.), Cellulose Derivatives (Rayon, etc.)
+|2 |1 |9 |Others not covered by above
+|2 |2 |X |
+|2 |2 |0 |Plastics and Resinous laminates, commercial quality i.e. where quality of basic resin is not specified
+|2 |2 |1 |Natural resins - Bitumen, Copal, Gilsonite, Shellac, Oleo-Resins, etc.
+|2 |2 |2 |Plastics and resinous laminates including fabric paper reinforced with phenolic resin, etc. (Bakelite for mica etc.)
+|2 |2 |3 |Alkyds (Glyptal, etc.), Melamine Moulding Powder
+|2 |2 |4 |Plastics and resinous laminates including Fibre Glass Reinforced Plastics, Polyethers, Epoxies (Araldite, Epikote), etc.
+|2 |2 |5 |PVC (Poly Vinyl Chloride), Poly Carbonates, Poly VinyI Fluoride
+|2 |2 |6 |Silicones (Polysiloxane)
+|2 |2 |8 |Polyester Film, Polypropylene Film for Capacitors, Heat Shrinkable Polyester Film, Polyesters including Fibre Glass Reinforced Resinous Products, Polypropyline, Polytetra Fluoroethylene, Acrylics, etc.
+|2 |2 |9 |Other synthetics not covered above e.g. Polyamides (Nylon, etc.), Polyurethanes, etc., Polythene, Polystyrene (Expanded), Polyester, etc.
+|2 |3 |X |
+|2 |3 |0 |Commercial Quality i.e. where basic fibre is not specified
+|2 |3 |1 |Natural origin - Vegetable, Cotton, Linen, Felt, Wool, etc., Bast Fibres - Jute, Sisal, Hemp, etc., Animal-Wool, Silk Cobweb, etc.
+|2 |3 |5 |Inorganic (Asbestos etc.)
+|2 |3 |7 |Synthetic Fibres i.e. Polyamides (Nylon, etc.), Polyesters (Terylene, etc.) Cellulose Derivatives (Rayon, etc.)
+|2 |3 |9 |Others not covered by above
+|2 |5 |X |
+|2 |5 |0 |Mica without any backing materials i.e. Splittings, Mica Papers, Molded Micanite etc.
+|2 |5 |1 |Paper Organic i.e. Cellulose / Wood Pulp, Paper, Mica with single backing material etc.
+|2 |5 |2 |Paper Organic i.e. Asbestos, Glass, Mica with more than one baking materials, Mica Glass, Synthetic Film Composites etc.
+|2 |5 |3 |Synthetic sheet i.e. Polyamides
+|2 |5 |4 |Cloth Inorganic i.e. Cotton, Linen etc.
+|2 |5 |5 |Cloth Inorganic i.e. Asbestos, Glass etc.
+|2 |5 |6 |Packing Rope, Unvarnished Glass Braided Sleeving, Unvarnished Fibre Glass Tape, Braided Glass Cord, Glass Fibre Woven Cloth, Glass and allied products, untreated-tape, cloth, sleeving, etc., all 'FRP' materials to be covered in group 22X
+|2 |5 |7 |Glass and Allied Products-Treated, Impregnated, Treated Cloth, Tapes etc.
+|2 |5 |9 |Ceramic / Porcelain Insulators
+|2 |6 |X |
+|2 |7 |X |
+|2 |7 |1 |Insulating Minerals, Oils
+|2 |7 |2 |Askarels (synthetic oils used in capacitors), etc.
+|2 |7 |4 |Paints and Pigmented Enamels and their Hardeners
+|2 |7 |5 .2+|Varnish, Enamels (other than pigmented) and Lacquers including impregnating varnishes
+|2 |7 |8
+|2 |7 |6 .2+|Putty, Solvents-Mixed (other than straight solvents), Catalysts, Accelerators and other Insulating Compounds and Adhesives including Impregnating/ Insulating Compounds
+|2 |7 |7
+|2 |8 |X |Insulated Conductors and Cables / Magnet Wires
+|2 |8 |1 |Insulated Copper Conductors
+|2 |8 |2 |Insulated Aluminium Conductors
+|2 |8 |3 |Insulated Conductors other than Copper and Aluminium (Cu-Ni resistance wire, etc.)
+|2 |8 |5 |Insulated Copper Cables
+|2 |8 |6 |Insulated Aluminium Cables
+|2 |8 |9 |Other Cables not covered by above, Thermo Couple Cables
+|2 |9 |X |Miscellaneous
+|2 |9 |9 |Insulating materials - miscellaneous exclusively for plant level operations from 29901 to 29999
+|===

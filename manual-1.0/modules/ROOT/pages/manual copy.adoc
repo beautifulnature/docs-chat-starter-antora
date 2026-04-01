@@ -1,0 +1,1957 @@
+
+
+====  +
+
+[#_Toc180407866 .anchor]####Standard Items
+
+(Fasteners, Bearings, Pipe Fittings, Instrumentation, Hoses etc.)
+
+image:media/image17.png[media/image17,width=622,height=588]
+
+Standard Items
+
+(Fasteners, Bearings, Pipe Fittings, Instrumentation, Hoses etc.)
+
+=== Basic Categories
+
+[width="100%",cols="5%,3%,3%,89%",options="header",]
+|===
+|7 |1 |0 |Fasteners (Sub classification not defined)
+|7 |1 |1 |Bolts
+|7 |1 |2 |Screws
+|7 |1 |4 |Studs
+|7 |1 |5 |Nuts, Thin Nuts, Lock nuts / inserts
+|7 |1 |6 |Washers, circlips
+|7 |1 |7 |Pins (Dowels), rivets, nails
+|7 |1 |8 |Keys
+|7 |1 |9 |Others not covered by above (Clevis pin hanger rod, welded clevis, clevis with bolt, threaded Clevis, bust etc.)
+|7 |2 |1 |Antifriction bearings (More details in page 22A)
+|7 |2 |2 |other transmission products
+|7 |2 |4 |Standard Mechanical components, fittings, like Packing components for sealing, lining, etc., (seals, grommets, gaskets, Pipe/ conduit fittings (excluding water fittings and sanitary appliances etc. Flanges, ASA Flanges, Lifting tackles, ropes, chains etc.) Water fittings and sanitary appliances
+|7 |2 |5 |Monograms, name plates, Rating Plates, labels, Cables Markers, Arrow Plate and other identification Tags
+|7 |2 |6 |Standard Mech. Components (O Ring, Angular joint Etc.
+|7 |3 |1 |Pressure measuring and control devices
+|7 |3 |2 |Temperature measuring, Sensors & Control device
+|7 |3 |3 |Level measuring and control devices
+|7 |3 |4 |Pneumatic control devices
+|7 |3 |5 |Electrical and electronic control devices
+|7 |3 |6 |Control Valves
+|7 |3 |8 |Analyzers
+|7 |3 |9 |Miscellaneous measuring & control devices (speed, weight, density etc.)
+|7 |4 |X |Electrical / Electronic Components
+|7 |5 |X |Valves
+|7 |6 |X |Bought Out Components
+|7 |7 |0 |Brazing Alloys, Soldering Alloys and Fluxes
+|7 |7 |1 |Welding Electrodes, Filler Rods, Wires Fluxes
+|7 |7 |2 |Abrasive papers, cloth, etc.
+|7 |7 |3 |Foundry Consumables
+|7 |7 |4 |Painting, Marking, Lubricating and Cleaning accessories
+|7 |7 |5 |Welding Accessories
+|7 |7 |9 |Hoses and Pipes
+|===
+
+Standard Items
+
+==== 7 1 X X for Fasteners
+
+===== The Structure
+
+image:media/image18.png[media/image18,width=547,height=310]
+
+===== Fasteners - Sub Classification
+
+image:media/image19.png[media/image19,width=562,height=91]
+
+[width="84%",cols="8%,4%,88%",options="header",]
+|===
+|711 |X |Bolts (Details of 6th digit)
+.5+| |1 |Product Gr. A (Precision)
+|2 |Product Gr. A (Precision and attested quality conforming to National Standard only)
+|3 |Product Gr. B (Semi precision)
+|4 |Product Gr. C, (Black) Square Head, Foundation Bolts
+|9 |Others not covered by above,’ T’ Bolts etc.
+|712 |X |Screws (Details of 6th digit)
+.6+| |1 |Hexagonal Head
+|2 |Countersunk Head
+|3 |Round Head
+|4 |Cheese Head
+|5 |Headless (Grub), Hexagonal socket set
+|6 |Self Tapping
+|===
+
+===== Standard Items
+
+===== 7 1 X X for Fasteners
+
+[width="97%",cols="7%,3%,90%",options="header",]
+|===
+|714 |X |Studs (Details of 6th digit)
+.5+| |1 |Product Gr. A (Precision) General Purpose
+|2 |Product Gr. A (Precision) Quality
+|3 |Product Gr.C (Black)
+|5 |Auto-weld (with and without break off)
+|9 |Others not covered by above
+|715 |X |Nuts / Thin Nuts / Inserts Lock Nuts (Details of 6th digit)
+.5+| |1 |Nuts / Lock nuts, hexagonal / Thin nuts
+|2 |Nuts (Attested quality to National standards
+|3 |Nuts / Lock Nuts slotted / Castle / Thin nuts
+|4 |Nuts - Wing
+|7 |Inserts
+|716 |X |Washers / Circlips (details of 6th digit)
+.3+| |1 |Washers plain (machined / punched, taper)
+|4 |Washer-spring eg. Single coil, rectangular / square section, girder section, double coil (Thackray)
+|7 |Circlips
+|718 |X |Keys (Details of 6th digit)
+.4+| |1 |Parallel keys
+|2 |Gib Head keys
+|3 |Wood Ruff keys
+|4 |Taper key
+|===
+
+===== Fasteners – Thread Form
+
+[width="100%",cols="7%,3%,3%,87%",options="header",]
+|===
+a|
+711
+
+712
+
+714
+
+715
+
+a|
+X
+
+X
+
+X
+
+X
+
+a|
+X
+
+X
+
+X
+
+X
+
+|Threads (Details of 7th digit)
+| | |0 |Unthreaded fasteners - unplated
+| | |1 |Metric coarse pitch (unplated)
+| | |2 |Metric fine pitch
+| | |3 |Unthreaded fasteners - Plated
+| | |4 |Metric coarse pitch - Plated
+| | |5 |Metric fine pitch - Plated
+| | |8 |Pipe
+| | |9 |Others not covered by above e.g. Helical thread for wood screws, Hammer driven screws, etc. (These are to be differentiated under specification).
+|===
+
+Standard Items
+
+==== 7 2 1 X X for Antifriction Bearings
+
+===== Details of The Scheme
+
+image:media/image20.png[media/image20,width=614,height=102]
+
+[width="100%",cols="6%,4%,90%",options="header",]
+|===
+|721 |01 |Single Row Rigid Radial (Deep Groove) Ball Bearings
+| |02 |Double Row Rigid Radial (Deep Groove) Ball Barings
+| |06 |Single Row Self Aligning (Radial Ball Bearings
+| |07 |Double Row Self Aligning (Radial) Ball Bearings
+| |08 |Double Row Self Aligning (Radial) Ball Bearings with Combinations
+| |11 |Single Row Angular Contact (Radial) Ball Bearings
+| |12 |Double Row Angular Contact (Radial) Ball Bearings
+| |15 |Single Row Cylindrical (Radial) Roller Bearings
+| |16 |Double Row Cylindrical (Radial) Roller Bearings
+| |17 |Four Row Cylindrical (Radial) Roller Bearings
+| |18 |Cylindrical Roller Bearings with Long Rollers
+| |22 |Single Row Self-Aligning (Spherical) Radial Roller Bearings
+| |23 |Double Row Self - Aligning (Spherical) Radial Roller Bearings
+| |27 |Single Row Rigid Radial Needle Roller Bearings (without Inner Ring)
+| |28 |Double Row Rigid Radial Needle Roller Bearings (without Inner Ring)
+| |29 |Single Row Rigid Radial Needle Roller Bearings (Complete with Inner Rings)
+| |30 |Double Row Rigid Radial Needle Roller Bearings (Complete with Inner Rings) / Double Row Shell Type Needle Roller Bearings
+| |31 |Adjustable Needle Roller Bearings
+| |32 |Self-Aligning Needle Roller Bearings
+| |33 |Combined Radial Needle Roller and Thrust Ball Bearings
+| |34 |Combined Radial Needle Roller and Thrust Roller Bearings
+| |36 |Needle Roller Double Thrust Bearings
+| |40 |Cylindrical Roller Single Thrust Bearings
+| |41 |Cylindrical Roller Double Thrust Bearings
+| |45 |Single Row Flexible Roller Bearings
+| |46 |Double Row Flexible Roller Bearings
+| |49 |Single Row Tapered Roller Bearings
+| |50 |Double Row Tapered Roller Bearings
+| |51 |Four Row Tapered Roller Bearings
+| |52 |Tapered Roller Thrust Bearings
+|===
+
+Standard Items
+
+7 2 1 X X for Antifriction Bearings
+
+image:media/image20.png[media/image20,width=524,height=87]
+
+[width="86%",cols="7%,5%,88%",options="header",]
+|===
+|721 |55 |Single Thrust Ball Bearings
+| |56 |Double Thrust Ball Bearings
+| |57 |Thrust Ball Bearings - Angular Contact
+| |58 |Single Thrust Ball Bearings
+| |59 |Double Thrust Ball Bearings - Self Aligning
+| |64 |Spherical Roller Thrust Bearings - Self Aligning
+| |65 |Reserve from 72165 up to 72179
+| |80 |Spherical Plain Bearings
+3+|72181 to 72199 Accessories for Bearings
+| |87 |Pads & Collars
+| |88 |Seals and Sealing Rings for Ball and Roller Bearings
+| |89 |Circlips and Snap Rings for Needle Bearings
+| |90 |Seals and Sealing Rings for Needle Bearings
+| |91 |Needle Cages
+| |92 |Plummer Blocks
+| |93 |Lock (Shaft) Nuts & Withdrawal Nuts
+| |94 |Locking Washers
+| |95 |Withdrawal Sleeves
+| |96 |Adapter Sleeve Assemblies
+| |97 |Needle Rollers
+| |98 |Cylindrical Rollers
+| |99 |Balls
+|===
+
+Standard Items
+
+==== 724, 725, 779 - Standard Mechanical Components, Rating Plates & Hoses
+
+7 2 4 X X - Standard Mechanical Components
+
+7 2 5 X X - Rating Plates
+
+7 7 9 X X - Hoses and Pipes
+
+===== The Structure
+
+image:media/image21.png[media/image21,width=601,height=508]
+
+Standard Items
+
+==== 724 - Standard Mechanical Components
+
+[width="79%",cols="8%,4%,88%",options="header",]
+|===
+|724 |X |Category of Components (Details Of 6th Digit)
+| |0 |Packing Components for sealing, lining, etc., (Seals, Grommets, Gaskets etc.)
+| |2 |Pipe / Conduit fittings (excluding water fittings and sanitory appliances)
+| |4 |Flanges
+| |6 |ASA Flanges
+| |8 |Lifting tackles, ropes, chains etc.
+| |9 |Water Fittings and Sanitory Appliances
+|===
+
+===== 7240 - Packing Components (Seals, Grommets, Gaskets)
+
+[width="40%",cols="17%,9%,74%",options="header",]
+|===
+|7240 |X |Type: SMC (Details of 7th digit)
+| |1 |Seals (Toroidal, Sealing Rings)
+| |2 |Grommets
+| |3 |Packing Washer, Gaskets
+| |9 |Others not covered above
+|===
+
+===== 7242 - Pipe / Conduit Fittings
+
+[width="100%",cols="8%,3%,89%",options="header",]
+|===
+|7242 |X |Type: SMC (Details of 7th digit)
+| |1 |Conduit Fittings for Electrical Wiring (Couplings, Elbows, Bends, Tees, Junction Boxes, Clips, Gaddles, Pipe Hooks, Reducers, Iron Plugs, etc.)
+| |3 |Screwed Pipe Fittings (Sockets, Couplers, Unions, Iron Bands, Bushes, Nipples, Tees, Elbows, Plugs, Caps)
+| |5 |Weldable Pipe Fittings for Pressure Purposes (90, 45 Elbows, 180 Return Bends)
+| |8 |Pipe Fittings and Standard Components made of Synthetic Materials (e.g.: PVC, etc)
+| |9 |Others not covered above
+|===
+
+===== 7244 - Flanges
+
+[width="58%",cols="13%,9%,78%",options="header",]
+|===
+|7244 |X |Type
+| |1 |Integral Flanges
+| |2 |Welding Neck Flanges
+| |3 |Plate Flanges
+| |4 |Screwed Boss Flanges
+| |5 |Slip on Boss Flanges
+| |6 |Loose Flanges for Welded on Lapped Pipe Ends
+| |7 |Blank Flanges
+| |9 |Others (not covered above)
+|===
+
+Standard Items
+
+===== 7248 - Lifting Tackles, Ropes, Chains etc
+
+[width="82%",cols="8%,5%,87%",options="header",]
+|===
+|7248 |X |Type
+| |1 |Eye Bolts, Swing Bolts, Hooks, Shackles, Rings etc.
+| |3 |Ropes and Chains (excluding General Purposes Ropes and Transmission Chains
+| |4 |Slings - Steel Wire Rope
+| |5 |Slings - Chains
+| |6 |Slings – Bost Fibre, Polyster Yarn
+| |8 |Small Lifting Mechanism
+| |9 |Others (not covered above)
+|===
+
+===== 7249 - Water Fittings and Sanitary Appliances
+
+[width="39%",cols="29%,71%",options="header",]
+|===
+|7249 X |
+|1 |Pipe Fittings for Water Supply
+|===
+
+==== 725 - Rating Plates
+
+===== 725X - Rating Plates (Details of 6th digit)
+
+[width="41%",cols="30%,70%",options="header",]
+|===
+|725 X |
+|0 |Company Monogram
+|1 |Name Plate
+|2 |Arrow Plate
+|===
+
+===== 7250 – Company Monogram
+
+[width="35%",cols="35%,65%",options="header",]
+|===
+|7250 X |Type
+|1 |Nickel-Chromium
+|5 |Anodized
+|===
+
+===== 7251 - Name Plate
+
+[width="21%",cols="55%,45%",options="header",]
+|===
+|7251 X |Type
+|6 |Bilingual
+|===
+
+===== 7252 - Arrow Plate
+
+[width="29%",cols="41%,59%",options="header",]
+|===
+|7252 X |Type
+|6 |Nickel Chromium
+|===
+
+Standard Items
+
+==== 7 3 X - Measuring and Control Devices
+
+===== The Structure
+
+image:media/image22.png[media/image22,width=601,height=355]
+
+===== Type of Device
+
+[width="73%",cols="7%,5%,88%",options="header",]
+|===
+|73 |X |Measuring and Control Devices (Detail of 5th digits)
+| |1 |Pressure measuring & Control devices
+| |2 |Temperature measuring, Sensors & Control device
+| |3 |Flow & Level measuring and Control devices
+| |4 |Pneumatic control devices
+| |5 |Electrical/Electronic Control devices
+| |6 |Control Valves
+| |8 |Analysers
+| |9 |Miscellaneous measuring & Control devices (speed, weight, density etc.)
+|===
+
+Standard Items
+
+7 3 X X X for Measuring and Control Devices
+
+===== Sub Classification of Device
+
+image:media/image23.png[media/image23,width=601,height=100]
+
+[width="74%",cols="8%,5%,87%",options="header",]
+|===
+|731 |01 |Vacuum/combined vacuum and pressure gauges-bourdon type
+.30+| |02 |Vacuum/combined vacuum and pressure gauges-other types
+|04 |Pressure gauges-bourdon type
+|05 |Pressure gauges-other types
+|06 |Contact pressure gauges
+|08 |Differential pressure gauges-bourdon type
+|09 |Differential pressure gauges – other types
+|10 |Differential pressure gauges with contacts
+|12 |Receiver type pressure indicator - Pneumatic
+|14 |Receiver pressure indicator - Electronic
+|16 |Receiver type differential- pressure indicator-Pneumatic
+|18 |Receiver type differential pressure indicator - Electronic
+|30 |Pressure transmitters-Pneumatic-blind
+|31 |Pressure transmitters-Pneumatic- indicating
+|32 |Pressure transmitters - Electronic-Blind
+|33 |Pressure transmitters - Electronic - Indicating
+|36 |Differential pressure transmitters - Pneumatic - Blind
+|37 |Differential pressure transmitters - Pneumatic - Indicating
+|38 |Differential pressure transmitters - Electronic - Blind
+|39 |Differential pressure transmitters - Electronic Indicating
+|40 |Pressure switches in weather roof enclosure
+|41 |Pressure switches in Explosion roof enclosure
+|43 |Differential pressure switches in weather roof enclosure
+|44 |Differential pressure switches in Explosion roof enclosure
+|46 |Receiver type pneumatic pressure switches in weather roof enclosure
+|49 |Pressure filter regulators
+|50 |Pressure recorders - Pneumatic
+|51 |Pressure recorders - Electronic
+|61 |Pressure stubs
+2+|62 to 80 - Accessories to pressure measuring & control devices
+|81 |Spares
+|===
+
+Standard Items
+
+7 3 X X X for Measuring and Control Devices
+
+[width="77%",cols="6%,^11%,83%",options="header",]
+|===
+|732 ^|XX |Level measuring and control devices
+.24+| ^|01 |Mercury - in - glass Thermometers
+^|03 |Mercury - in—Steel Rigid Stem Thermometers
+^|04 |Mercury —in—Steel Rigid Stem Thermometers—with contacts
+^|05 |Mercury —in—Steel capillary Thermometers
+^|06 |Mercury —in—Steel capillary Thermometers—with contacts
+^|08 |Bimetallic Thermometers
+^|09 |Bimetallic Thermometers—with contacts
+^|12 |Receiver type Temperature Indicator—Pneumatic
+^|14 |Receiver type Temperature Indicator—Electronic
+^|20 |Thermocouple Temperature Detectors
+^|26 |Resistance Temperature Detector
+^|30 |Temperature transmitter—Pneumatic—Blind
+^|31 |Temperature transmitter—Pneumatic—lndicating
+^|32 |Temperature transmitter—Electronic—Blind
+^|33 |Temperature transmitter—Electronic—lndicating
+^|40 |Temperature Switches — Weather roof
+^|41 |Temperature Switches — Explosion roof
+^|50 |Temperature recorders — Pneumatic
+^|51 |Temperature recorders — Electronic
+^|60 |Thermo well
+^|61 |Temperature Stubs
+^|62 to 80 |Accessories to temperature measuring, sensors and control devices
+^|81 |Spares
+^|82 to 90 |Reserve
+|733 ^|XX |Flow & Level Measuring and Control Devices
+.13+| ^|01 |Reflex type level gauges
+^|02 |Transparent glass level gauges
+^|03 |Tubular glass level gauges
+^|06 |Float type level Gauges
+^|12 |Receiver type level indicator — Pneumatic
+^|14 |Receiver type level indicator — Electronic
+^|20 |Liquid level transmitter — pneumatic
+^|40 |Level switches — Weather roof
+^|41 |Level switches — Explosion roof
+^|50 |Level recorders — Pneumatic
+^|51 |Level recorders — Electronic
+^|55 |Flow indicator
+^|81 |Spares
+|===
+
+Standard Items
+
+7 3 X X X for Measuring and Control Devices
+
+[width="73%",cols="7%,11%,82%",options="header",]
+|===
+|734 |XX |Pneumatic control devices
+| |01 |Indicating controllers with fixed scale - Pneumatic
+| |02 |Indicating control stations
+| |03 |Field mounted controllers
+| |04 |Indicating controllers’ field mounted
+| |07 |Manual loading stations
+| |08 |Computers
+| |09 |Computing relays
+| |10 |Ratio relays
+| |11 |Selector relay
+| |12 |Booster relay
+| |14 |Square root extractors
+| |15 |Recorders
+| |17 |Indicators
+| |19 |Pneumatic impulse transmitter
+| |61 |Instrument mounting trays
+| |62 |Pneumatic cables
+| |63 |Electrical cables for pneumatic instruments
+| |64 to 80 |Reserved for accessories to pneumatic measuring & control devices
+| |81 |Spares
+|739 |XX |Miscellaneous measuring & control devices
+| |01 |Speed measuring
+| |02 |Limit switches
+| |03 |Vibration measuring equipment
+| |04 |Meters not covered above
+|74X |XX |Electrical & Electronic Components
+|===
+
+Standard Items
+
+==== 7 4 X X X for Electrical / Electronic Components
+
+===== The Structure
+
+image:media/image24.png[media/image24,width=601,height=458]
+
+Standard Items
+
+7 4 X X X for Electrical / Electronic Components
+
+===== Details of the Scheme
+
+74 001 to 74 500 - Electrical Components
+
+74 501 to 74 599 - Free Zone
+
+(To be allotted in ascending order from 501 for Electrical Components and in descending order from 599 for Electronic components)
+
+74 600 to 74 999 - Electronic Components
+
+[width="99%",cols="6%,3%,91%",options="header",]
+|===
+|74 |0 |Equipment for Generation, Transmission and Conversion of electric power
+| |1 |Equipment for Utilization of Electric Power
+| |2 |Distribution circuit devices and circuit elements
+| |3 |Conducting and connecting devices
+| |6 |Resistors, Capacitors, Diodes, Transistors, Thyristors, Electronic Hardware (Rack), Integrated Circuits, Electronic, Modules, Optoelectronic Devices, Potentiometer, Trimpot,
+| |7 |Electronic Modules
+| |8 |Electronic components
+| |9 |Electrical and Electronic components (Temperature switches, pressure switches etc.)
+|===
+
+===== Components
+
+[width="80%",cols="9%,7%,84%",options="header",]
+|===
+|74 |001 |Tacho generators
+| |011 |D cells and D batteries
+| |012 |Liquid cells and batteries
+| |014 |Accumulators
+| |020 |Power Converter (AC to DC, DC to AC, DC to DC, AC to AC)
+| |030 |Transformer-Power, above 5 kVA
+| |031 |Transformer-Control/Power, U to & including 5 kVA
+| |032 |Transformer-Current
+| |034 |Transformer-Pulse
+| |035 |Transformer-Synchronizing
+| |036 |Auto Transformer
+| |040 |Chokes Inductors
+| |099 |Low Power Filter
+|74 |101 |Signal lamp assembly
+| |102 |Lamps, fluorescent tubes and fittings
+| |131 |Fans and Blowers
+| |159 |Heaters
+| |162 |AC. Single Phase Induction Motors
+| |163 |Universal Motors
+| |165 |3 Phase AC. Squirrel Cage Motors
+| |166 |3 Phase AC. Slip Ring Motors
+| |167 |Synchronous Motors
+| |169 |DC. Motors
+| |182 |Motor Starters
+| |190 |Audio Alarm Devices-Bells, Buzzers, Hooters, Sirens, etc.
+|===
+
+Standard Items
+
+7 4 X X X for Electrical / Electronic Components
+
+[width="80%",cols="7%,7%,86%",options="header",]
+|===
+|74 |195 |Toggle / Tumbler Switches
+| |196 |Knife Switches & Isolators
+| |197 |Limit / Door / Micro / Mercury Foot switches
+| |198 |Rotary Switches
+| |199 |Programmable / Cam operated switches
+|74 |200 |Heavy duty & Motor duty Switches
+| |201 |Master controller / Cam controller
+| |203 |Switch Fuse Units
+| |204 |Push Buttons
+| |205 |Circuit Breakers - Miniature
+| |206 |Circuit Breakers - Moulded case and/or Motor Protection
+| |207 |Circuit Breakers - Conventional and Current limiting
+| |208 |Circuit Breakers - H.T.
+| |214 |Contactor - L.T. Air break, Electromagnetic for A.C. system
+| |216 |Contactor - L.T. Air break, Electromagnetic for D.C. system
+| |217 |Contactor - H.T. Air break, Electro magnetic
+| |218 |Contactor - LT. Vacuum
+| |219 |Contactor - H.T. Vacuum
+| |220 |Contactor-Electro-Pneumatic for A.C. and D.C. systems
+| |223 |Auxiliary Relays / Contactors
+| |224 |Relays - Current operated, Instantaneous
+| |225 |Relays - Current operated, Inverse time with or without Instantaneous unit
+| |227 |Relays - Current operated, Definite time delay
+| |228 |Relays - Bimetallic and Motor protection
+| |229 |Relays - Voltage
+| |230 |Relays - Differential Protection
+| |231 |Relays - Distance Protection
+| |232 |Relays - Reed type
+| |233 |Relays - Solid state
+| |234 |Relays - Miscellaneous
+| |235 |Alarm Annunciators
+| |237 |Timers
+| |251 |Ammeters
+| |252 |Multimeter
+| |253 |Voltmeters
+| |254 |Watt meters
+| |255 |Energy Meters
+| |257 |VAR Meters
+| |258 |PF Meters
+| |259 |Frequency Meters
+| |260 |Meters (Mechanical parameters Speed RPM, Synchroscope)
+| |282 |Shunts
+| |286 |Solenoids
+|===
+
+Standard Items
+
+7 4 X X X for Electrical / Electronic Components
+
+[width="97%",cols="7%,6%,12%,75%",options="header",]
+|===
+|74 |312 2+|Glass Cartridge Fuses
+| |313 2+|D Type Cartridge Fuses
+| |314 2+|I-IRC Fuses - Std. duty and Isolating links
+| |315 2+|I-IRC Fuses - Motor duty
+| |316 2+|HRC Fuses - For Semi-conductors
+| |321 2+|Fuse Fittings
+| |331 2+|Terminal ends/Cable lugs - Soldering/ Crimping type
+| |332 2+|Cable glands
+| |333 2+|Plugs, Sockets, Unions & Other fittings
+| |334 2+|Terminal Blocks
+| |335 2+|Cable Markers/Ferrules
+| |336 2+|Cable Channel Racks, Flexible conduits, Wiring cleats, Cable straps, Clamps, etc.
+|74 |580 2+|Computer Accessories
+| |599 2+|Information Technology Items (Printer, Scanner, LCD / LED Displays, Console)
+|74 |600 .11+|Resistors |Carbon film, fixed
+| |601 |Metal film, fixed
+| |603 |Wire wound, fixed, axial
+| |604 |Wire wound, fixed, radial
+| |606 |Wire wound, adjustable
+| |608 |Potentiometer, current
+| |609 |Potentiometer, wire wound
+| |610 |Trimpot. Wire wound
+| |611 |Trimpot, current
+| |614 |Special purpose Resistors
+| |634 |Special purpose Resistors – High power applications
+| |635 .7+|Capacitors |Ceramic
+| |636 |Metallized Polyester
+| |638 |Polystyrene (Styroflex)
+| |641 |Paper Dielectric
+| |643 |Electrolytic, Tantalum
+| |645 |Electrolytic. Aluminium
+| |649 |High power Capacitors
+| |651 |Diodes |
+| |656 |Transistors |
+| |661 .4+|Thyristors |Converter Grade, BHEL make Thyristors
+| |662 |Inverter Grade, BHEL make
+| |663 |Converter Grade, other than BHEL make
+| |664 |Inverter Grade, other than BHEL make
+|===
+
+Standard Items
+
+7 4 X X X for Electrical / Electronic Components
+
+[width="99%",cols="8%,6%,26%,60%",options="header",]
+|===
+|74 |670 |ICs |Linear ICs
+| |672 .5+| |Interface ICs
+| |673 |Digital ICs
+| |674 |Memory ICs
+| |675 |Microprocessor ICs
+| |677 |Special purpose ICs
+| |680 |Optoelectronic components |Photo Transistors, photodiodes, LED, LDR, Optocouplers
+| |681 |Optoelectronic accessories |Optical transmitters, receivers, Flore cables, etc.
+| |690 .5+|Electronic Hardware (Rack) |Surge suppressors
+| |691 |Electronic hardware
+| |694 |Racks & Rack hardware
+| |695 |Heat sink extrusions/castings
+| |696 |Heat sinks
+|74 |701 .5+|Electronic Modules |Electronic modules, fixed
+| |702 |Electronic modules, flexible, Network Cables / Switches / Devices
+| |703 |Electronic sub-assemblies
+| |707 |Power modules, Thystack BHEL make
+| |710 |Power modules, Thystack
+| |801 | |Probes, Patch Cards, Interface Cables, Bus Cables & Connectors
+| |811 | |PCB
+| |812 | |Electronic components (not classified above)
+|===
+
+Standard Items
+
+==== 7 5 X X X for Valves
+
+===== The Structure
+
+image:media/image25.png[media/image25,width=601,height=333]
+
+Standard Items
+
+7 5 X X for Valves
+
+===== Category (Based on Type & Operation)
+
+[width="72%",cols="8%,6%,86%",options="header",]
+|===
+|75 |XX |Category
+| |00 |Valves (Classification defined)
+| |01 |Global valve hand operand
+| |02 |Globe valve hand operand (with or without gland sealing not defined)
+| |06 |Globe valve hand operand with gland sealing
+| |11 |Globe Valve
+| |16 |Regulating globe valve gland sealing
+| |21 |Wedge gate valve
+| |26 |Wedge gate valve with gland sealing
+| |31 |Piston Lift type check valve
+| |36 |Piston Lift type spring assisted check valve
+| |41 |Swing check valve
+| |46 |Swing check valve with gland sealing
+| |51 |Screwed down check valve
+| |56 |Parallel slide valve
+| |61 |Parallel slide valve with gland sealing
+| |67 |Ball flow type steam trap
+| |68 |Inverted bucket type steam trap
+| |69 |Thermo disc types steam trap
+| |70 |Needle valve
+| |71 |Diaphragm valve
+| |72 |Butterfly valve
+| |73 |Float valve
+| |77 |Strainer
+| |78 |Port valve
+| |79 |Ball valve
+| |80 |Cock - 3 ways
+| |81 |Cock - Male threaded
+| |82 |Cock - Female threaded
+| |83 |Cock - One Side Male & One Side Female threaded
+| |84 |Plug valve
+| |85 |Plug valve
+| |86 |Plug valve
+| |87 |Plug valve
+| |88 |Plug Valve
+| |89 |Plug Valve with gland Sealing
+| |90 |Plug Valve with gland Sealing
+| |91 |Plug Valve with gland Sealing
+| |92 |Plug Valve with gland Sealing
+| |93 |Plug Valve with gland Sealing
+| |60 |Steam Trap
+| |94 |Cock (not classified), Plug valve (not classified)
+|===
+
+Standard Items
+
+==== 7 7 0 - Brazing Alloys, Soldering Alloys and Fluxes
+
+===== The Structure
+
+image:media/image26.png[media/image26,width=573,height=513]
+
+Standard Items
+
+==== 771, 775 - Welding Electrodes, Filler Rods, Wires Fluxes & Accessories
+
+===== The Structure
+
+image:media/image27.png[media/image27,width=601,height=457]
+
+Standard Items
+
+===== 771 XX (6^th^ & 7^th^ Digit Allocation)
+
+[width="77%",cols="9%,8%,83%",options="header",]
+|===
+|771 |XX |Welding Electrodes, Filler Rods, Wires and Welding Fluxes etc.
+| |01 |Covered Electrodes for Carbon steels
+| |02 |Covered Electrodes for Low Alloy steels
+| |03 |Covered Electrodes for Stainless steels
+| |04 |Covered Electrodes for General hard facing
+| |05 |Covered Electrodes for Stellite hard facing
+| |06 |Covered Electrodes for Cast Iron
+| |07 |Covered Electrodes for Copper and Copper alloys
+| |08 |Covered Electrodes for Aluminium & Aluminium alloys
+| |09 |Covered Electrodes for Bronze
+| |10 |Covered Electrodes for Other non-ferrous materials not covered above
+| |11 |Covered Electrodes for Monel
+| |12 |Covered Electrodes for Inconel
+| |13 |Covered Electrodes for Cupro Nickel
+| |14 |Covered Electrodes for Low heat input
+| |15 |Covered Electrodes for Cutting, Chamfering and grooving
+| |19 |Covered electrodes for Special purpose and miscellaneous
+| |31 |Solid Wire/rod in cut length for Carbon Steel
+| |32 |Solid Wire/rod in cut length for low alloy steel
+| |33 |Solid Wire/rod in cut length for Stainless steel
+| |35 |Solid Wire/rod in cut length for Stellite hard facing
+| |36 |Solid Wire/rod in cut length for Nickel and Nickel alloys
+| |37 |Solid Wire/rod in cut length for copper and Copper alloys
+| |38 |Solid Wire/rod in cut length for Aluminium and Aluminium alloys
+| |39 |Solid Wire/rod in cut length for Non-ferrous not covered above
+| |41 |Wires in continuous length for SAW process
+| |42 |Wires in continuous length for ESW process
+| |44 |Wires in continuous length for MIG / MAG / TIG / PLASMA process
+| |45 |Flux Cored wires in continuous length
+| |50 |Fluxes
+| |51 |Tungsten electrodes
+| |52 |Gouging electrodes
+| |53 |Strip electrodes
+| |54 |Powders
+| |55 |Consumable inserts
+| |56 |Backing Strips
+| |57 |Tabular electrodes
+|===
+
+Standard Items
+
+===== 775 XX (6^th^ & 7^th^ Digit Allocation)
+
+[width="77%",cols="11%,10%,79%",options="header",]
+|===
+|775 |XX |Welding Accessories, Such as Blow Pipes. Nozzles. Torches, etc.
+| |01 |Gas Welding and Cutting Accessories
+| |02 |Arc Welding Accessories
+| |03 |TIG Welding Accessories
+| |04 |MIG / MAG Welding Accessories
+| |05 |Submerged Arc Welding Accessories
+| |06 |Electro Slag Welding Accessories
+| |07 |Resistance Welding Accessories
+| |08 |Hydrogen Welding Accessories
+| |09 |Plasma Cutting Accessories
+| |10 |Plasma Welding Accessories
+| |11 |Narrow Gap Welding Accessories
+| |12 |Electron Beam Welding Accessories
+| |13 |High Frequency Induction Brazing Accessories
+| |14 |Stud Welding Accessories
+|778 |XX |Safety Equipment
+|===
+
+===== 779 - Hoses and Pipes
+
+[width="55%",cols="12%,11%,77%",options="header",]
+|===
+|779 |XX |Hoses and Pipes (Details of 6th & 7th digit)
+| |01 |Air
+| |02 |Water
+| |04 |Welding
+| |09 |Accessories
+|===
+
+[#_Toc180407878 .anchor]####Maintenance Spares
+
+=== The Structure
+
+image:media/image28.png[media/image28,width=610,height=494]
+
+=== Main Category
+
+image:media/image29.png[media/image29,width=572,height=92]
+
+[width="84%",cols="8%,7%,85%",options="header",]
+|===
+|8 |1 |Power Services
+|8 |2 |Cooling, Air conditioning and Office Equipment
+|8 |3 |Power Distribution Equipment
+|8 |4 |Machinery & Equipment
+|8 |5 |Instruments, Equipment for Test Room of Steam Turbines & Turbo - Alternators
+|8 |6 |Transport Means and Construction Equipment
+|8 |7 |Pneumatic & Electrical Tools
+|===
+
+Maintenance Spares
+
+=== Main Class
+
+image:media/image30.png[media/image30,width=543,height=87]
+
+[width="89%",cols="8%,5%,5%,82%",options="header",]
+|===
+|8 |1 |1 |E.O.T. (Electric Overhead Travel) cranes
+|8 |1 |2 |Lifts and hoists and power trucks
+|8 |1 |3 |Telephones
+|8 |2 |1 |Water cooler and air conditioning Plant
+|8 |2 |2 |Cooling Towers
+|8 |2 |3 |Typewriters
+|8 |2 |4 |Electrically operated office machines
+|8 |2 |5 |Duplicating machines and blue printing Machines
+|8 |3 |0 |Common material for erection & equipment
+|8 |3 |1 |Machines & equipment for electric power and measuring instruments
+|8 |3 |2 |Machines & equipment for heat energy
+|8 |3 |3 |Machines & equipment for gas storage
+|8 |3 |4 |Distribution equipment for electrical energy
+|8 |3 |5 |Distribution equipment for heat energy
+|8 |3 |6 |Distribution of gas and compressed air
+|8 |3 |7 |Fans and blowers
+|8 |3 |8 |l.C. Engines (Stationary)
+|8 |3 |9 |Distribution equipment for electrical energy, Impregnating equipment
+|8 |4 |1 |Furnaces & furnace equipment
+|8 |4 |2 |Machinery& equipment for moulding. casting and welding
+|8 |4 |3 |Machinery & equipment for forming materials
+|8 |4 |4 |Machinery & equipment for machining materials (Lathes, etc.)
+|8 |4 |5 |Machinery & equipment for machining materials (Milling, grinding & sawing machines)
+|8 |4 |6 |Machinery & equipment for surface treatment
+|8 |4 |7 |Machinery & equipment pumping fluids
+|8 |4 |8 |Manually operated machines, checking machine and equipment
+|8 |4 |9 |Hydraulically operated machines other than machines for forming materials
+|8 |5 |1 |Balances and weighing machines
+|8 |5 |2 |Instruments for measuring and magnetic quantities
+|8 |5 |3 |Instruments for measuring heat energy
+|8 |5 |4 |Instruments for inspection and test
+|8 |5 |5 |Laboratory instruments and accessories
+|8 |5 |6 |Equipment for test room of steam turbines
+|8 |5 |7 |Equipment for test room of steam turbo alternators
+|===
+
+Maintenance Spares
+
+Main Class
+
+[width="75%",cols="9%,6%,6%,79%",options="header",]
+|===
+|8 |5 |8 |Miscellaneous instruments
+|8 |6 |1 |Locomotives
+|8 |6 |2 |Automobile, diesel, vehicles
+|8 |6 |3 |Automobile, petrol vehicles
+|8 |6 |5 |Diesel Road roller / trailors
+|8 |6 |6 |C.C Mixer, pan mixers & vibraters, etc.
+|8 |6 |7 |Manually driven vehicles
+|8 |7 |1 |Pneumatic tools
+|8 |7 |2 |Electrical Tools
+|===
+
+[#_Toc180407882 .anchor]####Product Components
+
+=== The Structure
+
+image:media/image31.png[media/image31,width=564,height=481]
+
+[#_Toc180407884 .anchor]####Significant Features
+
+The Significant features of the 12-digit material codification scheme are as follows:
+
+* The scheme has flexibility for operation at Corporate/ Plant / Product levels.
+* To collaborate further, materials rationalized at corporate level can be covered by corporate codes, exclusive plant requirements by plant codes and special requirement of Products such as Castings, Forgings, Sub-deliveries, and Styled Components etc. by Product codes; all in a single scheme. The Alphabetical prefixes and blocking in the rest of the digits facilitate this flexibility.
+* The Classification is tailored to the needs of BHEL without sacrificing the generic nature, and facilitates retrieval of information to suit corporate Management Information Reporting.
+* The material code numbers, Standard Numbers and Specification numbers are integrated for easy identification / communication / control.
+* The check digit ensures correctness of the codes while inputting to the computerised systems.
+
+[#_Toc180407885 .anchor]####3-Tier System
+
+Special Features
+
+[width="94%",cols="35%,24%,41%",options="header",]
+|===
+a|
+CORPORATE CODES
+
+(Materials Rationalized at Corporate level)
+
+|АА 1 Х Х Х Х Х Х Х Х Х |METALS
+.4+| |АА 2 Х Х Х Х Х Х Х Х Х |INSULATING MATERIALS
+|АА 5 Х Х Х Х Х Х Х Х Х |NON-METALS
+|АА 6 Х Х Х Х Х Х Х Х Х |STANDARD TOOLS
+|АА 7 Х Х Х Х Х Х Х Х Х |STANDARD COMPONENTS
+.7+a|
+PLANT CODES
+
+(Exclusive plant materials)
+
+|НY 1 Х Х Х Х Х Х Х Х Х |RAW METALS
+|НY 2 Х Х Х Х Х Х Х Х Х |INSULATING MATERIALS
+|НY 5 Х Х Х Х Х Х Х Х Х |NON-METALS
+|НY 6 Х Х Х Х Х Х Х Х Х |STANDARD TOOLS
+|HY 7 Х Х Х Х Х Х Х Х Х |STANDARD COMPONENTS
+|НY 8 Х Х Х Х Х Х Х Х Х |MAINTENANCE SPARES
+|НY 9 Х Х Х Х Х Х Х Х Х |PLANT STYLED COMPONENTS
+.10+a|
+PRODUCT CODES
+
+(Product Components i.e., Castings & Forgings,
+
+Sub-deliveries: Product Styled Components, Sub- Contracted components.)
+
+|АМ 9 Х Х Х Х Х Х Х Х Х |А.C MOTORS
+|ВА 9 Х Х Х Х Х Х Х Х Х |BOWL MILLS
+|FP 9 X X X X X X X X X |PUMPS
+|НЕ 9 Х Х Х Х Х Х Х Х Х |НЕАТ EXCHANGERS
+|HG 9 X X X X X X X X X |SYNCHRONOUS CONDENSERS
+|ОЕ 9 Х Х Х Х Х Х Х Х Х |ОIL FIELD EQUPMENT
+|SG 9 X X X X X X X X X |SWITCH GEAR
+|ST 9 X X X X X X X X X |STEAM TURBINES
+|TC 9 Х Х Х Х Х Х Х Х Х |INDUSTRIAL TURBINES COMPRESSORS
+|TG 9 X X X X X X X X X |TURВО - GENERATORS
+|===
+
+[#_Toc180407886 .anchor]####Integrated Material Code / Standard / Specification Numbering
+
+Special Features
+
+12-Digit Material Code
+
+image:media/image32.png[media/image32,width=602,height=154]
+
+9-Digit Standard Number
+
+image:media/image33.png[media/image33,width=598,height=152]
+
+7-Digit Specification Number
+
+image:media/image34.png[media/image34,width=609,height=156]
+
+=== Raw Materials
+
+Details of the Integrated Numbering
+
+12-Digit Code Number
+
+image:media/image35.png[media/image35,width=572,height=213]
+
+7-Digit Raw Material Standard Number
+
+image:media/image36.png[media/image36,width=573,height=216]
+
+=== Standard Items
+
+Details of the Integrated Numbering
+
+12-Digit Material Code Number
+
+image:media/image37.png[media/image37,width=545,height=184]
+
+9-Digit Standard Number
+
+image:media/image38.png[media/image38,width=545,height=184]
+
+[#_Toc180407889 .anchor]####Check Digit
+
+Code Number precisely identifies the materials and hence any mistakes committed would lead to issue of wrong material to production shop / Central Despatch Centre. Code Numbers are indicated in the indenting as well as Technological documents and many agencies are involved in carrying over the Code Numbers from one document to another like Indent, MPR, Purchase Order etc.
+
+The different types of errors encountered are as follows:-
+
+TYPES OF ERRORS
+
+[width="57%",cols="32%,30%,38%",options="header",]
+|===
+|Transcription Error a|
+73[.underline]#734#53231
+
+as
+
+73[.underline]#137#53231
+
+|A wrong number is written completely
+|Transposition Error a|
+101[.underline]#34#28635
+
+as
+
+101[.underline]#43#28635
+
+|Position of Numbers Reversed
+a|
+Shift
+
+Error
+
+a|
+7001275386
+
+as
+
+700[.underline]#01#27538
+
+|Addition or Deletion of Zero
+|Random Error a|
+6432173852
+
+as
+
+643[.underline]#12#73[.underline]#05#2
+
+|Any Error
+|===
+
+Transcription errors occur up to 90%, Single Transcription errors up to 5%, and others 5%.
+
+Due to the numerable code numbers and the voluminous work involved, manual checking of code numbers at various stages is found to be not practicable. The above difficulty is obviated in the 12-digit scheme by the introduction of check digit (12^th^ digit).
+
+Check digit is calculated by ‘Modulus 11’ formula. There is no check on the alpha prefixes but the first nine numerical digits of the Code Number shall comply with the check digit. When data from the different documents like indents, schedule of parts has to be processed through computer, computer system provides for checking of each and every code number and if any wrong code number is found, error indication is given. Such documents are returned back to the concerned agency for taking corrective action.
+
+A typical calculation of ‘Modulus 11’ formula is illustrated:
+
+MODULUS 11 FORMULA
+
+AA 102 04 08 14 X
+
+[width="32%",cols="19%,10%,11%,10%,10%,10%,10%,10%,10%",options="header",]
+|===
+|1 |0 |2 |0 |4 |0 |8 |1 |4
+| | | | | | | | |
+|10 |9 |8 |7 |6 |5 |4 |3 |2
+| | | | | | | | |
+2+|1 |X 2+|10 2+|= 2+|10
+2+|0 |X 2+|9 2+|= 2+|0
+2+|2 |X 2+|8 2+|= 2+|16
+2+|0 |X 2+|7 2+|= 2+|0
+2+|4 |X 2+|6 2+|= 2+|24
+2+|0 |X 2+|5 2+|= 2+|0
+2+|8 |X 2+|4 2+|= 2+|32
+2+|1 |X 2+|3 2+|= 2+|3
+2+|4 |X 2+|2 2+|= 2+|8
+2+| | 2+|Sum 2+|= 2+|93
+|===
+
+This number is to be divided by 11 to get the remainder
+
+[width="60%",cols="12%,8%,9%,7%,28%,36%",options="header",]
+|===
+|11) |93 |(8 | | |
+| |88 | | | |
+| |5 | | 2+|Check Digit = 11-5 = 6
+4+|Special Cases: a|
+11 - 0 = 11
+
+11 - 1 = 10
+
+|In both the cases Check Digit = 0
+|===
+
+Check digit ensure 100% accuracy for transcription, transposition and shift errors and 90.9% accuracy for Random errors.
+
+[#_Toc180407890 .anchor]####Material Codification
+
+=== Basic Guidelines for Codification
+
+[arabic]
+. The Interplant Standardization Committee (IPSC) has set the following guidelines which have been followed by the Unified Material Code Directory (UMCD) for codification of Metals (Carbon Steel, Alloy Steel, Non-Ferrous Metals), Insulating Materials, Non-Metals, Standard Tools, Standard Items while allotting the code numbers.
+
+[arabic, start=7]
+. Metric standard sizes (as far as possible to Indian Standards) only shall be allotted Corporate Code numbers. But in the case of tubes/pipes, inch/schedule sizes shall also be codified as it is not possible to avoid the use of this category of tubes / pipes.
+. When a material is being used by more than one Unit, the same shall be identified for codification at corporate level.
+. Non-standard sizes including inch sizes shall be operated at the plant level only with a long term plan to switch over to Corporate except in the case of tubes/ pipes as stated in clause 2 above.
+. In the case of steel sheets, plates, shims, etc. Corporat Code Numbers shall be allotted on the basis of thickness only, irrespective of the width and length. However, coil form shall get a separate code number.
+. Straight lengths and coils of the same materials will be covered under one specification only and the differentiation shall be made by suitable size codes.
+. Corporate level specification / standard numbers shall be operated from 01-60 only (except Carbon Steel & Anti Friction Bearings) with the code '00' reserved for commercial / off-grade quality materials.
+. Plant level specification / standards shall be operated from 99-61 (except Carbon Steel & Anti Friction Bearings) in the descending order prefixed with the plants 'alphabetical code’.
+. Corporate level size codes shall be operated from 01-60 (except Carbon Steel & Anti Friction Bearings).
+. Size codes 61-99 (except Carbon Steel & Anti Friction Bearings) shall be reserved for plant level operation with the plant prefix and with the corporate specification / standard number. These plant code numbers shall be operated in the descending order i.e. from 99-61 and NOT from 61-99.
+. When a plant has consumed their allotted plant codes of "99-61", against a particular Corporate Standard and require further Plant codes, fold over of the Corporate Standard number, shall be resorted to. The fold over number shall be allotted only from the blank numbers.
+. A one page Corporate document of the fold over Standard No. will be issued which would cross-refer to the original Corporate Standard No. for technical requirements and also state that, "Corporate Stndard Number is being issued only for codification".
+. Only Standard Metric preferred sizes, as laid down in the respective Indian Standard, shall be codified.
+. Whenever a Plant code number is lifted to Corporate level or Withdrawn / Cancelled / Superseded, this already allotted plant code shall be freezed & not reallotted / reused for a different size, at a later date.
+. It shall be ensured that the persons allotting the Code Nos. in the various units are completely conversant with the guidelines for codification.
+
+==== Guidelines for Codification of Carbon Steels
+
+[arabic]
+. Corporate level specification / standard numbers shall be operated from 01-80 only with the code '00' reserved for commercial / off-grade quality materials.
+. Plant level specification / standards shall be operated from 99-81 in the descending order prefixed with the plants 'alphabetical code’.
+. Corporate level size codes shall be operated from 01-80.
+. Size codes 81-99 shall be reserved for plant level operation with the plant prefix and with the corporate specification / standard number. These plant code numbers shall be operated in the descending order i.e. from 99-81 and NOT from 81-99.
+
+==== Guidelines for Codification of Alloy Steels
+
+[arabic]
+. In the case of items like electrical steel sheets, the width, length and insulation, if any shall also be taken into account while allotting corporate code numbers, if they are so specified in the corporate specification. If specification covers insulated and un-insulated, block could be allotted within the code barrel.
+
+==== Guidelines for Codification of Non-Ferrous Metals
+
+[arabic]
+. Non-standard sizes shall be operated at the Plant level to facilitate to switch over to standard metric size / corporate code numbers in shape barrel 98 to 99.
+. The tubes shall be codified on the basis of outer diameter and thickness only irrespective of length. The tubes procured in fixed lengths shall not be covered at Corporate level.
+
+==== Guidelines for Codification of Insulating Materials, Insulated Conductors and Cables
+
+[arabic]
+. In the case of paper, sheets, boards, etc. code numbers shall be allotted on the basis of thickness only. irrespective of the width and length. However, code numbers for fixed length x width x thickness combination may also be codified as a special requirement.
+. The tubes shall be codified on the basis of nominal bore (N.B.) x thickness only irrespective of length. Tubes procured in specified cut lengths shall not be covered at Corporate level.
+
+==== Guidelines for Codification of Capital Goods
+
+[arabic]
+. Main Group categorization (XX) range is as follows:
++
+Plant & Machinery - 01-50
++
+Civil related - 51-65
++
+Services related - 66-90
++
+Welfare related (includes medical) - 91-92
++
+Reserve for future use - 93-99
+. Each unit or region has been assigned a specific range of codes (XX) for Spec / Variant as mentioned below in table. These codes range from 01 to 99 and are used to classify machines or facilities based on their specifications and locations within the organization.
+
+[width="96%",cols="10%,23%,^6%,^16%,2%,6%,15%,^6%,^16%",options="header",]
+|===
+|S. No. |Unit |Digits range |Range assigned to units for Spec / Variants barrel | |S. No. |Unit |Digits range |Range assigned to units for Spec / Variants barrel
+|1 |HEEP ^|8 ^|00 - 07 | |16 |Industry Sector ^|2 ^|69 - 70
+|2 |HEP ^|8 ^|08 - 15 | |17 |ROD ^|2 ^|71 - 72
+|3 |HPEP ^|8 ^|16 - 23 | |18 |SSBG ^|2 ^|73 - 74
+|4 |HPBP ^|8 ^|24 - 31 | |19 |SBD ^|2 ^|75 - 76
+|5 |BAP ^|5 ^|32 - 36 | |20 |PPPU ^|2 ^|77 - 78
+|6 |TP ^|5 ^|37 - 41 | |21 |SSTP ^|2 ^|79 - 80
+|7 |EDN ^|5 ^|42 - 46 | |22 |PE&SD ^|2 ^|81 - 82
+|8 |CFP ^|3 ^|47 - 49 | |23 |TBG ^|2 ^|83 - 84
+|9 |CFFP ^|3 ^|50 - 52 | |24 |Corp office ^|2 ^|85 - 86
+|10 |HERP ^|3 ^|53 - 55 | |25 |ESD ^|2 ^|87 - 88
+|11 |FSIP ^|3 ^|56 - 58 | |26 |ISG ^|2 ^|89 - 90
+|12 |HPVP ^|3 ^|59 - 61 | |27 |Reserve ^|9 ^|91 - 99
+|13 |PS-HQ / PS Marketing / PSER / PSNR / PSWR / PSSR / PEM ^|3 ^|62 - 64 | | | | |
+|14 |IVP ^|2 ^|65 - 66 | | | | |
+|15 |Corp R&D ^|2 ^|67- 68 | | | | |
+|===
+
+==== Guidelines for Codification of Non-Metals
+
+[arabic]
+. In the case of paper, film, sheets, boards, etc. code numbers shall be allotted on the basis of thickness, thickness X width and / or thickness X width X length depending on the requirements.
+
+==== Guidelines for Codification of Standard Tools
+
+[arabic]
+. Material code numbers for Standard Tools shall be allotted under the Primary category 6.
+. Standard Tools conforming to National Standards / Leading suppliers catalogue and available off the shelf from reputed manufacturers shall be considered for codification.
+. The method of indicating sizes shall be as given in Indian Standards to facilitate procurement.
+. It has been decided to include accessories and spares exclusively used for a particular cutting tool under the same sub-group to which the concerned tool belong to. The type barrel of 6th and 7th digit in this case will be designated with the numerals 99.
+
+Example:
+
+[loweralpha]
+. 633 XX XX XX indicates Taps
++
+633 99 XX XX indicates Spares/Auxiliaries for Taps
++
+633 99 05 XX indicates Tap Wrenches
+. 622 XX XX XX indicates Files
++
+622 99 XX XX indicates Spares/Auxiliaries for Files
++
+622 99 01 XX indicates File Handles
+
+[arabic, start=5]
+. Specific Guidelines (Group - wise)
+
+[loweralpha]
+. Clamping & Holding Tools (Group 611): T-Bolts which are not exactly tools, shall not be codified under standard Tools (Primary category 6).
+. Hand Tools (Group 614) - Spanners: Upto size 46 mm double ended open jaw spanners shall be codified. Above 46 mm single ended open jaw spanners shall be given code numbers.
+. Portable Tools (group 681): Portable powered tools like grinders, drills, chippers shall be codified under Primary category 6. The spares for these items shall be codified under Primary category 8 by the Plants.
+. Major Machine Tool Accessories like, Machine Vices, Rotary Tables, Indexing Head, Taper turning attachments, Lathe chucks, magnetic chucks, turret head accessories, etc. are being dealt by Maintenance, Technology & Services Dept. in most of the Units and therefore do not come under the purview of this group. Also these are durable items and do not come under stores inventory. These shall be codified under Primary category 8.
+
+[arabic, start=6]
+. Items like Tongs, Pokers, Spades, Shovels, Carpentry Tools, Blow Pipes, Welding accessories etc., which are special trade items and shall not be codified under Primary category 6.
+. Coated abrasives like Emery cloth / Paper, Belts etc., and items like rotary wire brush, polishing mops, Lapping compound etc., which are consumable items and shall not be codified under Primary category 6.
+
+==== Guidelines for Codification of Fasteners
+
+[arabic]
+. Material Code Numbers for Fasteners shall be allotted under the main Group 71.
+. Fasteners conforming to National Standards / leading supplier's catalogue and available off the shelf from reputed manufacturers shall be considered for codification.
+. Items such as eye bolts, plugs etc. shall not be covered under fasteners (Group-71) but shall be codified under ‘Standard Mechanical Components’ under Group - 724.
+. The method of indicating sizes shall be as given in Indian Standards to facilitate procurement.
+
+==== Guidelines for Codification of Antifriction Bearings
+
+[arabic]
+. Material Code Numbers for Antifriction bearings shall be allotted under the main group 721. This group covers ball and roller bearings and also other types of bearings covered by specific standard series of reputed manufacturers.
+. Coding structure has been developed to identify each bearing on the basis of its boundary dimensions only and not taking into consideration variations in the design of bearing of different manufactures.
+. The code structure will cover all bearings used for production as well as for maintenance. Accessories of bearings like balls, rollers, adapter sleeves, withdrawal sleeves, etc. are also codified.
+. Metric bearings only are codified at corporate level. However, provision has been made in the coding Structure for inch bearings to facilitate plant level operation.
+. Corporate level size cods for metric bearings shall be operated from 01 to 80 and plant cods from 99 to 81 in descending order.
+. The code scheme shall cover normal clearance and zero precision bearings in a significant manner. Other grades and precision bearings are to be covered sequentially at the plant level only.
+. In addition to the codification of basic bearings, the structure also provides for combination of bearings and its accessories, such as lock nuts, locking washers, etc.
+. Equivalent bearings from different manufacturers are to be codified under one material code only.
+. ISO designations, wherever applicable, shall be indicated.
+. Wherever possible two or three sub-classifications of bearing shall be accommodated under one major classification to ensure better utilization of the scheme.
++
+Eg.: AA 721 33 01 to AA 721 33 15 covers Single Row Needle and Single Thrust Ball Bearings and AA 721 33 16 onwards covers Double Row Needle And Single Thrust Ball Bearings.
+
+==== Guidelines for Codification of Electrical & Electronic Components
+
+[arabic]
+. Material Code Numbers for Electrical and Electronic components shall be allotted under the main group 74.
+. The Code structure will cover all Electrical and Electronic components used for production as well as maintenance. But components which are exclusively required for maintenance (such as motors for machine tools of BHEL factory, components of power house, sub-station, distribution network, etc.) will not be covered under group 74. This will be codified under Primary category 8.
+. All components which are bought by supplying drawings and product specifications by BHEL shall be codified under Primary category 9.
+. In the electronic components the values of resistance and capacitance shall be based on E 24 series as per IEC 63. The values not covered by E 24 series shall be codified at Plant / Product level.
+. Spares/Accessories, wherever applicable for each component are also coded and they are allotted a specific block of numbers from 71 to 80 in the 8th and 9th digits in the 12-digit code structure. Spares/Accessories at Corporate level will be operated from 71 to 76 in ascending order and at plant level from 77 to 80 in descending order from 80.
++
+For example:
++
+AA7410171 represents spare bulbs in signal lamp assembly represented by AA74101 and AA 74 101 72 represents spare lenses in the same assembly.
++
+A block of 81 to 99 in the 8^th^ and 9^th^ digits i.e. for specification details of a component will be reserved for plant level operation. These numbers will be operated in descending order from 99 to 81.
+. A material code can have equivalents of supplier / manufacturer references.
+
+==== Guidelines for Codification of Valves
+
+[arabic]
+. All standard pressure ratings and material of valves are pre-coded in pressure and material barrel (3 digits) from 001 to 600. For non-standard pressure ratings and material combinations numbers from 601 to 999 in the barrel.
+
+==== Guidelines for Codification of Measuring and Control Devices
+
+[arabic]
+. Measuring and Control devices for pressure, temperature, level, speed, weight, time density etc. including penumatic, electrical / electronic controllers shall be covered under group '73' in Codification Structure.
+. Ordinary valves used in the pipelines for flow regulation, stopping and safety relief purposes covering globe, gate, check, safety valves etc. which are generally classified as mechanical valves shall not be covered under this group.
+. Items to National / Inter-national standards and supplier's catalogues shall be considered for codification. However, codification shall not be based on supplier's brand names or designations, but shall be based on BHEL Standards formulated by specifying the requirements. BHEL standards thus formulated shall be used as purchasing specifications for these items.
+
+==== Guidelines for Codification of Welding Consumables
+
+[arabic]
+. As regards the Codification of Electrodes, efforts are made to codify them as per AWS grade or Specification and not as per Brand name. However, wherever it was not possible, the Brandwise codifications are done in few cases.
+. For Electrodes, the sizes 2.5 mm, 3.15 mm and 5 mm have been codified as these sizes are widely used in various plants. However, it has been decided that Electrodes received in sizes 2.4 mm, 3.2 mm and 4.8 mm shall be codified as 2.5 mm, 3.15 mm and 5 mm respectively.
++
+While in case of wires in continuous length/cut length the sizes of 2.4 mm, 3.2 mm, 4.8 mm and 6.3 mm have been codified.
++
+However, wires in continuous length/cut length received in sizes 2.5 mm, 3.15 mm, and 5 mm are codified under the nearest sizes of 2.4 mm, 3.2 mm and 4.8 mm respectively.
+
+=== Shapes
+
+==== Shape Code Definitions for Ferrous Metals
+
+===== Wire
+
+Solid circular section that has been reduced by cold drawing through a die having diameters from 0.125 mm to 5mm, both inclusive.
+
+===== Bar
+
+Any solid section having diameter/greatest distance between parallel faces above 5mm
+
+===== Shim
+
+A flat product having thickness from 0.05 mm to 0.49mm both inclusive and widths up to and including 650 mm. shims to be codified on the basis of thickness.
+
+===== Strip
+
+A flat product having thickness from 0.50 mm to 4.99mm, both inclusive& Widths up to and including 650 mm in coil/flat form to be codified on the basis of width and thickness.
+
+===== Sheet
+
+A flat product having thickness from 0.50 mm to 4.99mm both inclusive& widths over 650mm.Sheet to be codified on the basis of thickness only.
+
+===== Plate
+
+A flat product of thickness 5 mm and above. Plates to be codified on the basis of thickness only.
+
+===== Tubes
+
+====== Seamless Tube
+
+A hollow product of round cross-section having a continuous periphery produced by drawing or extrusion process. Tube to be codified on the basis of O.D and thickness.
+
+====== Welded Tube
+
+Tube formed from plate, sheet or strip with a longitudinal welded joint. Tube to be codified on the basis of O.D. and thickness.
+
+===== Billet/Bloom
+
+A cast solid product of specific size and shape intended for re-melting/forging of size 50 mm square and above.
+
+==== Shape Codes for Non-Ferrous Metals
+
+===== Wire
+
+Solid circular section that has been reduced by cold drawing through a die to a diameter up to and including 6 mm.
+
+===== Rod
+
+A round solid section with diameter greater than 6 mm usually in straight lengths manufactured by rolling, drawing, extrusion or by a combination of these processes.
+
+===== Bar
+
+Any solid section other than round whose width or greatest distance between parallel faces is greater than 6 mm.
+
+===== Foil
+
+A rolled product of thickness up to and including 0.15 mm and width up to and including 800 mm, generally not cut to length, usually in coil form but may also be in flat or folded form.
+
+===== Strip
+
+A rolled product of thickness over 0.15 mm and up to and including 6 mm, and width up to and including 800 mm, generally not cut to length, usually in coil form but may also be in flat or folded form.
+
+===== Sheet
+
+A rolled product of thickness over 0.15 and up to and including 6 mm, and width over 800 mm supplied flat with sheared or slit edges.
+
+===== Plate
+
+A rolled product of thickness over 6 mm and width over 800 mm. supplied flat with sheared, milled or sawn edges and with less control of surface finish and tolerance which applies to sheet.
+
+===== Tubes
+
+====== Seamless Tube
+
+A hollow product of round cross section having a continuous periphery produced by drawing or extrusion process.
+
+====== Welded Tube
+
+Tube formed from plate, sheet or strip with a longitudinal welded joint.
+
+====== Drawn Tube
+
+A hollow product of uniform wall thickness not produced by cold drawing.
+
+====== Extruded Tube
+
+A hollow extrusion of uniform wall thickness not produced by cold drawing.
+
+===== Ingot
+
+A cast solid product of specific size and shape (usually weighing between 9 to 16 kg) intended for remelting. It is usually notched to facilitate breaking in to smaller pieces.
+
+===== Wire Bar
+
+A horizontally or vertically cast product of approximately square cross section with sides and ends slightly tapered and weighing between 100 to 120 kg intended for the manufacture of wire rod.
+
+===== Wire Rod
+
+Rod like product of uniform cross section exceeding 6 mm obtained by casting and rolling or extrusion used as intermediate product for further processing, supplied in straight length or coil.
+
+===== Forging
+
+A shape produced by hammering or pressing usually when hot.
+
+===== Stamping
+
+A forging produced between open or closed dies.
+
+===== Pressing
+
+A shape produced between closed dies on a hydraulic or mechanical press.
+
+[width="99%",cols="12%,7%,29%,29%,23%",options="header",]
+|===
+| | 3+|Shape
+|Group |Shape Code |Ferrous Metals |Alloy Steels |Non-Ferrous
+.7+|Bars |01 3+^|Hexagonal
+|02 3+^|Round
+|03 3+^|Rectangular (Flat) (Does not include plate, sheet & strip)
+|04 3+^|Square
+|05 3+^|Semi-Round
+|06 3+^|Octagonal
+|07 3+^|Trapezoidal
+.7+|Pipes |10 2+^|Tube/Pipes - Metric, certified (Unattested) ^|Circular
+|11 2+^|Tube/Pipes - Metric, certified (Unattested) (fold over of 10) ^|Circular (f/o of 10)
+|12 2+^|Tube/Pipes - Metric, certified (Unattested) (f/o of 11) ^|Circular (f/o of 11)
+|13 2+^|Tube/Pipes - Inch/Schedule, certified (Unattested) ^|Circular (f/o of 12)
+|14 2+^|Tube/Pipes - Inch/Schedule, certified (Unattested) (f/o of 13) ^|
+|15 2+^|Tube/Pipes – Inch/Schedule, certified (Unattested) (f/o of 14) ^|
+|16 3+^|Others (including Rectangular, Square, Elliptical, etc.)
+.7+|Flats |17 3+^|Sheet
+|18 3+^|Plate
+|19 3+^|Strip
+|20 3+^|Strip (fold over of 19)
+|21 3+^|Strip (fold over of 20)
+|22 3+^|Strip (fold over of 21)
+|23 3+^|Foil/Shim
+.10+|Structural Sections |25 3+^|Equal angle
+|26 3+^|Unequal angle
+|27 3+^|Channel
+|28 3+^|I-Beam (Joist), UC Beam, Beam
+|29 3+^|Wide flanged I Beam, H Beam, UB Beam
+|30 3+^|Tee
+|31 3+^|H- Section (Column)
+|32 3+^|Rails
+|33 3+^|Parallel Flanged I-Beam
+|35 3+^|Universal Beam (U Beam)
+|===
+
+[width="100%",cols="12%,7%,27%,27%,,27%",options="header",]
+|===
+| | 4+|Shape
+|Group |Shape Code |Ferrous Metals 2+|Alloy Steels |Non-Ferrous
+.4+|Structural Sections | 4+^|
+| 4+^|
+|36 4+^|Special sections (Bulb angle, Lipped channels, etc.)
+|38 4+^|Narrow Parallel Flanged Beam (NPB)
+.31+|Others |40 4+^|Wire - Round
+|41 4+^|Wire - other than round
+|42 4+^|Wire fabric
+|43 4+^|Mesh Sieve/Cloth
+|44 4+^|Cable / Cord
+|45 4+^|Braid
+|46 4+^|Expanded metal
+|47 4+^|Perforated
+|48 4+^|Chequered plate
+|49 4+^|Cladded plate
+|50 4+^|Ingot / Blocks / Bricks
+|51 4+^|Lumps
+|52 4+^|Billet / Bloom
+|53 4+^|Slab
+|54 4+^|Wire - Bars
+|55 4+^|Wire - Rod
+|57 4+^|Powder
+|58 4+^|Crystals
+|59 4+^|Granules
+|60 4+^|Shots & Grit
+|61 4+^|Pigs
+|62 2+^|Rifle tube 2+^|Reserve
+|70 4+^|Chippings
+|71 4+^|Sinterings
+|72 4+^|Shreddings
+|73 4+^|Scrap
+|76 ^|Plain Tube 2+^|Reserve ^|Reserve
+|77 ^|ERW Tube 2+^|Sheet (f/o of 17) ^|Reserve
+|78 4+^|Plates (f/o of 18)
+|79 3+^|Tube/Pipes – Metric, certified (Unattested) (fold over of 12) ^|Reserve
+|80 4+^|Special Profiles
+|===
+
+[width="99%",cols="13%,12%,30%,30%,15%",options="header",]
+|===
+| | 3+|Shape
+|Group |Shape Code |Ferrous Metals |Alloy Steels |Non-Ferrous
+.19+|Attested Materials |81 2+^|Hexagonal .17+|Reserve
+|82 2+^|Round
+|83 2+^|Rectangular (Flat) (Does not include Plate, Sheet & Strip)
+|84 2+^|Square
+|85 2+^|Billet/Bloom
+|86 ^|Spiral Finned Tube ^|Reserve
+|87 2+^|Sheet
+|88 2+^|Plate
+|89 2+^|Strip
+|90 2+^|Tube/Pipes – Metric (Non-Schedule)
+|91 2+^|Tube/Pipes – Metric (Non-Schedule) (fold over of 90)
+|92 2+^|Tube/Pipes – Metric (Non-Schedule) (fold over of 91)
+|93 2+^|Tube/Pipes – Inch/Schedule
+|94 2+^|Tube/Pipes – Inch/Schedule (fold over of 93)
+|95 2+^|Tube/Pipes – Inch/Schedule (fold over of 94)
+|96 2+^|ID Tube / Pipe
+|97 2+^|OD Tube / Pipe
+|98 ^|ERW Pipe ^| |Strip (f/o of 22)
+|99 2+^| |Strip (f/o of 98)
+|===
+
+==== Shape Codes for Insulating Materials
+
+===== Shape Codes for Insulating Materials and Insulated Cables
+
+[width="94%",cols="8%,46%,46%",options="header",]
+|===
+|Shape Code |Insulating Materials |Insulated Cables
+|00 |Liquids, Gases |
+|01 |Hexagonal Bar |
+|02 |Circular Rod/Bar |
+|03 |Rectangular Bar |
+|04 |Square Bar |
+|10 |Pipe / Sleeve / Tube Braid and Hollow Shapes |
+|11 |Rectangular Hollow |Single Core, 440/500 V
+|12 | |Single Core, 660/1100 V
+|13 | |Single Core, 3.3 kV
+|14 | |Single Core, 6.6 kV
+|15 |Paper Rolls including Films, Thin Sheets (thickness up to & incl. 0.5 mm) |Single Core, 11 kV
+|16 |Tapes |Single Core, other Voltage Grades/Taped Cables
+|17 |Sheets / Boards ++>++ 0.5mm thick |
+|18 |Felt, Foam sheets, Glass wool, Raw Cotton, etc. Other materials having cushioning property |
+|19 |Strips |
+|21 | |Two Core, 440 V
+|22 |Corrugated |Two Core, 660/1100 V
+|23 | |Two Core, 3.3 kV
+|24 | |Two Core, 6.6 kV
+|25 | |Two Core, 11 kV
+|26 | |Two Core, other Voltage Grades / Taped Cables
+|31 | |Three Core, 440 V
+|32 | |Three Core, 660/1100 V
+|33 | |Three Core, 3.3 kV
+|34 | |Three Core, 6.6 kV
+|35 | |Three Core, 11 kV
+|36 | |Three Core, other Voltage Grades / Taped Cables
+|40 |Yarn, Thread, Filament Rovings |
+|41 | |Four Core, 440 V
+|42 | |Four Core, 660/1100 V
+|43 | |Four Core, 3.3 kV
+|44 |Rope, Cord, Twin Thick/Thin Braided Cord |Four Core, 6.6 kV
+|45 |Cord-Rectangular |Four Core 11 kV
+|46 |Cord-Square |Four Core other Voltage Grades / Taped Cables
+|50 |Block / Bricks / Ingots |
+|51 |Lumps |Multi Core, 440 V
+|52 | |Multi Core, 660/1100 V
+|53 | |Multi Core, 3.3 kV
+|54 | |Multi Core, 6.6 kV
+|55 | |Multi Core, 11 kV
+|56 | |Multi Core, Other Voltage Grades taped cables
+|57 |Powder, Granular Form, Ground Particles |
+|58 |Crystals |
+|59 |Granules |
+|61 | |Twin Twisted, 250/440 V
+|64 |Woven Cloth |
+|72 | |3½ Core, 660/1100V
+|73 |Scrap / Cutting |Welding Cables
+|75 |Splittings / Flakes |
+|90 |Semisolid / Paste |
+|===
+
+===== Shape Codes for Enamel Insulated Copper Conductors
+
+Shape Code No 00 to 30 - Round AND 31 to 99 - Rectangular
+
+[width="82%",cols="17%,34%,15%,34%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm |Shape Code |Thickness of Insulation, mm
+|00 | | |
+|01 .10+|Fine (Round) |21 .10+|Thick (Round)
+|02 |22
+|03 |23
+|04 |24
+|05 |25
+|06 |26
+|07 |27
+|08 |28
+|09 |29
+|10 |30
+|11 .10+|Medium (Round) |31 .10+|Fine (Rectangular)
+|12 |32
+|13 |33
+|14 |34
+|15 |35
+|16 |36
+|17 |37
+|18 |38
+|19 |39
+|20 |40
+|===
+
+[width="82%",cols="17%,34%,15%,34%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm |Shape Code |Thickness of Insulation, mm
+|41 .10+|Medium (Rectangular) |51 .10+|Thick (Rectangular)
+|42 |52
+|43 |53
+|44 |54
+|45 |55
+|46 |56
+|47 |57
+|48 |58
+|49 |59
+|50 |60
+|===
+
+===== Shape Codes for Glass and Composite Insulated Copper Conductors
+
+Shape Code No 00 to 30 - Round and 31 to 99 - Rectangular
+
+[width="84%",cols="15%,34%,13%,38%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm |Shape Code |Thickness of Insulation, mm
+|00 | | |
+|01 .5+|0.15 to less than 0.25 (Round) |26 .5+|0.55 and above (Round)
+|02 |27
+|03 |28
+|04 |29
+|05 |30
+|06 .5+|0.25 to less than 0.35 (Round) |31 .5+|0.15 to less than 0.25 (Rectangular)
+|07 |32
+|08 |33
+|09 |34
+|10 |35
+|11 .5+|0.35 to less than 0.45 (Round) |36 |
+|12 |37 |
+|13 |38 |
+|14 |39 |
+|15 |40 |
+|16 | |41 .5+|0.25 to less than 0.35 (Rectangular)
+|17 | |42
+|18 | |43
+|19 | |44
+|20 | |45
+|21 .5+|0.45 to less than 0.55 (Round) |46 |
+|22 |47 |
+|23 |48 |
+|24 |49 |
+|25 |50 |
+|===
+
+[width="84%",cols="15%,34%,13%,38%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm |Shape Code |Thickness of Insulation, mm
+|51 .5+|0.35 to less than 0.45 (Rectangular) |76 |
+|52 |77 |
+|53 |78 |
+|54 |79 |
+|55 |80 |
+|56 | |81 .5+|0.55 and above (Rectangular)
+|57 | |82
+|58 | |83
+|59 | |84
+|60 | |85
+|61 | |86 |
+|62 | |87 |
+|63 | |88 |
+|64 | |89 |
+|65 | |90 |
+|66 | |91 |
+|67 | |92 |
+|68 | |93 |
+|69 | |94 |
+|70 | |95 |
+|71 .5+|0.45 to less than 0.55 (Rectangular) |96 |
+|72 |97 |
+|73 |98 |
+|74 |99 |
+|75 | |
+|===
+
+===== Shape Codes for Tape Insulated Copper Conductors
+
+Shape Code No 00 to 30 - Round and 31 to 99 - Rectangular
+
+[width="85%",cols="18%,33%,16%,33%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm |Shape Code |Thickness of Insulation, mm
+|00 | | |
+|01 | |31 |
+|02 | |32 |
+|03 | |33 |
+|04 | |34 |
+|05 | |35 |
+|06 | |36 |
+|07 | |37 |
+|08 | |38 |
+|09 | |39 |
+|10 | |40 |
+|11 | |41 |
+|12 | |42 |
+|13 | |43 |
+|14 | |44 |
+|15 | |45 |
+|16 | |46 |
+|17 | |47 |
+|18 | |48 |
+|19 | |49 |
+|20 | |50 |
+|21 | |51 |
+|22 | |52 |
+|23 | |53 |
+|24 | |54 |
+|25 | |55 |
+|26 | |56 |
+|27 | |57 |
+|28 | |58 |
+|29 | |59 |
+|30 | |60 |
+|===
+
+[width="100%",cols="11%,39%,9%,41%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm |Shape Code |Thickness of Insulation, mm
+|61 .2+|Up to 0.4mm thick Fine (Mica paper tape with / without glass fabric backing) - Rectangular |81 .2+|Above 0.55 and up to 0.66 Thick (Mica paper tape with or without polyester film) - Rectangular
+|62 |82
+|63 | |83 .3+|Above 0.65 and up to 0.85 (Mica paper tape with or without polyester film) - Rectangular
+|64 | |84
+|65 | |85
+|66 | |86 |
+|67 | |87 |
+|68 | |88 |Above 0.55 and up to 0.66Thick (Mica paper tape with or without polyester film) - Rectangular
+|69 | |89 |
+|70 .3+|Up to 0.4 mm. Fine (Mica paper tape with or without polyester film) - Rectangular |90 |
+|71 |91 |
+|72 |92 |
+|73 .2+|Above 0.4 to 0.55 mm, Medium (Mica paper tape with or without polyester film) - Rectangular |93 |Polyimide film (Rectangular)
+|74 |94 .3+|Paper covered, thickness above 10 mm and up to 20 mm - Rectangular
+|75 | |95
+|76 | |96
+|77 | |97 .3+|Paper covered, thickness up to and including 10 mm - Rectangular
+|78 | |98
+|79 | |99
+|80 | | |
+|===
+
+==== Shape Codes for Non-Metals
+
+[width="87%",cols="11%,89%",options="header",]
+|===
+|Shape Code |Shape
+|00 |Liquids, Gases, Semisolids, Paste
+|01 |Hexagonal Bar
+|02 |Circular Bar / Rod
+|03 |Rectangular Bar
+|04 |Square Bar
+|10 |Pipe / Sleeve / Tube / Hollow-Ware
+|15 |Paper Rolls, Films, Thin Sheets (Thickness up to & Incl. 0.5 mm)
+|16 |Tape
+|17 |Sheet & Board (Thickness above 0.5mm)
+|18 |Felt and other Materials Having Cushioning property (e.g. Wood Felt, Wood Wool etc.)
+|19 |Sleepers / Planks (Coding based on thickness and thickness X width)
+|20 |Strips
+|38 |Mouldings
+|44 |Rope / Round cord / Twine / Braided Cord
+|45 |Cord - Rectangular
+|46 |Cord - Square
+|49 |Blocks / Bricks / Beams / Battens
+|50 |Lumps
+|57 |Powder
+|58 |Crystal / Tables / Capsules
+|59 |Granules
+|65 |Graphite Electrodes for Boundary
+|73 |Scrap
+|75 |Splitings / Flakes
+|===
+
+====  Shape Code for 770 - Brazing Alloys, Soldering Alloys and Fluxes
+
+AA 770 XX (6^th^ & 7^th^ Digit Allocation)
+
+[width="40%",cols="35%,65%",options="header",]
+|===
+|Shape Code |Shape
+|00 |Liquid, Semi Liquid, Paste
+|02 |Round
+|03 |Rectangle
+|09 |Stick
+|19 |Strip
+|23 |Foil or shim
+|40 |Wire
+|50 |Ingot
+|57 |Powder
+|59 |Granules
+|===
+
+=== Codification vs Quality
+
+The specification parameters are built into the significant digits of the code number and hence it indicates the quality of the material. The indentor copies the code number along with the Standard Description of the material, the relevant Standard Number and grade.
+
+The Code Number along with other details is carried over from the indent to the Material Purchase Requisition, Purchase order, Stores Issue Vouchers, Bin Card etc., keeping the identity of the material.
+
+Thus, it ensures that the right quality material as per the requirement of the designer is procured, stocked and issued to the shop for the appropriate application.
+
+=== Code Number as Inventory Control Number
+
+In manufacturing industries, materials account for about 70% of the cost of the production. Modern industrial enterprises are giant establishments involving tremendous, capital investment. As a result of scientific inventory control techniques, if we can reduce the cost on materials by say 5%, it would result in substantial savings.
+
+Increased Inventories would result in unnecessary block-up of capital and lead to more inventory carrying costs while insufficient inventories would create stock-outs, failure of attaining the production targets and delivery dates, which finally lead to loosing customer good will and the reputation of the organization.
+
+Code Number will help to maintain the inventories at optimum level by exercising 'Variety Control'. All the new materials will be referred to standards section for code numbers. At these stages, the indents will be thoroughly scrutinized to see that whether any equivalent rationalized materials could be used instead of procuring new varieties. Discussions will be held by standards with concerned designer and other agencies. New varieties will be allowed when they are absolutely required. Code Number also enables to obtain classified computer out-puts to facilitate ABC analysis, fixing of minima and maxima levels to determine ordering quantities etc.
+
+=== Usefulness of Code Number
+
+Code Number facilitates the generation of the required computer outputs for analysis of data for various purposes:
+
+==== Designs
+
+[loweralpha]
+. *Selection of Right Material* - The computerized code catalogue is used for indenting the rationalized materials.
+. *Tendering & Estimation* - This is one of the critical functions of the designer and he is required to estimate the cost of the product as per customers specifications within a short time.
+
+____
+Code Number plays an important role in generating the computer outputs which are helpful in this connection.
+____
+
+[loweralpha]
+. Project wise consumption of materials
+. Work order-wise consumption of Material
+. Work order - wise cost details
+
+==== Material Control / Inventory Control
+
+____
+*Inventory Analysis and Control* — Computerised systems provides correct data on the consumption of stocks which can be further used for the following purposes:
+____
+
+[loweralpha]
+. Inventory Analysis
+. Maintaining stock levels
+. Procurement planning
+
+____
+Computerized code catalogue which given an indication of rationalized / non-rationalized, stock / non-stock can be effectively utilized by material control to generate a computer output on non-rationalized code numbers for taking the necessary corrective actions.
+____
+
+[loweralpha, start=4]
+. Consumption of non-rationalized materials for alternative application or by other plants of BHEL.
+. Disposal of non-rationalized / non-moving material which cannot be used otherwise.
+
+==== Stores
+
+____
+*Scientific Stocking* - Stocking of materials as per Code Number groups similar materials at one place, thereby eliminating duplicate stocking, reduction of floor space and inventory carrying costs. Since the issue and receipt of materials is based on Code Number, it facilitates even the unskilled workers to handle the stores. The indication regarding the correct and alternative store number given in the computerized material code catalogue helps to re-organize the store in case the same material is stocked in more than one stores.
+____
+
+==== Management Reporting
+
+____
+Generation of computerized information is one of the benefits of codification. Code Number is used in the computer systems for classification / sorting of data as per material category / group / shape / store-wise for generating quick and correct reports.
+____
+
+=== Systems Approach to Codification
+
+Code Numbers cut across various functions in the Organization. Many persons deal with them in their daily activity. In an organization adopting computerized systems, it is essential to ensure the correctness of code numbers. In this connection, IPSC lays down the following Instructions:
+
+*Indent:* It will be obligatory on the part of the various indentors to indicate code numbers in all their requisitions in addition to the description and specification of material by referring the codes catalogues.
+
+*UMCD:* In the case of non-availability of code number, new code number can be generated in UMCD.
+
+*Material Control:* In addition, Material Control shall check to ensure the correctness of code numbers in the Indents, Material Purchase Requisitions and Stores Receipt Vouchers. It is the particular responsibility of material control to see that no document is passed without the indication of code numbers.
+
+*Purchase Department:* Purchase department shall be responsible to indicate code numbers as appearing in Purchase Requisitions on documents like Tender enquiry, comparative statement and Purchase Orders.
+
+*Stores Department:* Stores department shall indicate code numbers from Purchase Order on Stores Receipt Voucher. They shall keep Bin cards in the sequence of code numbers.
+
+*Finance:* The material accounts shall indicate code numbers in the material ledgers and keep the books in such a way as to identify the ledger sheets by referring material code numbers.
+
+In spite of the above instructions, the following problems are faced in practice.
+
+==== Indent Stage:
+
+==== Some of the indents are released without Code Numbers in an urgency to procure the materials. Since the indents by-pass the UMCD, the following cases may arise:
+
+[loweralpha]
+. Procurement of a new variety which could perhaps be eliminated by utilizing another rationalized and stock material.
+. Insufficient specification details which lead to procurement of inferior quality of material.
+. Lack of specification details which poses problems for the inspector at the Inward inspection stage.
+
+==== Lack of information whether an item is recurring / non-recurring, stock / non-stock and its annual consumption.
+
+==== Inability of the indenter to provide complete specification details, particularly in the case of new projects and imported items. This leads to importing of the materials and components which could perhaps be procured indigenously as per relevant Indian Standards.
+
+==== Acceptance of a deviation / amendment to the original specification without effecting the corresponding corrections to the Code Number. For example, Indenting of Black fasteners and amending the indent for plated fasteners at a later date without any correction to the Code Numbers would create problem of mix-up to the plated fasteners with un-plated one in the Stores.
+
+==== The Code Number and the description may not tally. If the description is wrong, it leads to wrong procurement, whereas, wrong code leads to issue of wrong material to production shops / CDC.
+
+==== Lack of clarity on the part of indenter whether the materials would be procured as an assembly / individual items, sometimes Code Numbers are indicated as per individual items whereas the material is received in assembled form vice versa is also possible.
+
+==== Material Purchase Requisition (MPR) Stage:
+
+____
+Material Control used to process the indents without Code Numbers sometimes, due to which codification had to be done at SRV Stage. Hence the following difficulties are encountered.
+____
+
+[loweralpha]
+. The very purpose of codification which is 'Inventory Control' is defeated since materials are already procured.
+. Difficulty in inspecting the materials due to lack of correct and complete specification details.
+. Inability of the Stores personnel to provide the necessary specification details to Standards Section at SRV Stage for the purpose of codification.
+
+==== Purchase Stage
+
+____
+Amending the purchase orders as per the advice of indenters without correcting the relevant code numbers. This creates mix-up of Stocks of different specifications.
+____
+
+==== Systems Approach
+
+____
+The UMCD System has been implemented to facilitate the centralized search and generation of material codes across all units, operating at three levels from the indenter to the Plant Standards’ Committee Chairman (PSC) and the Central Authority.
+____
+
+[#_Toc180407923 .anchor]####Conclusion
+
+This manual has been designed to elevate the overall understanding of the subject for all relevant parties. It acts as a comprehensive resource for induction-level trainees, supervisors, and store personnel alike.
+
+Our aim is for this manual to serve as a practical reference guide for employees seeking clarity on pertinent structures and classification details. However, it is important to emphasize that this manual is not intended for users to create code numbers.
+
+Editorial Team
+
+Dr. K S Madhavan ++|++ AGM ++|++ Group Head (UMCC & SDG) ++|++ IPSC Convener
+
+Nagaraju Gumpini ++|++ Manager (SDG)
+
+Sreedhar Chimmi ++|++ Manager (SDG)
+
+Ravi Singh ++|++ Manager (UMC)

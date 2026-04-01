@@ -1,13 +1,42 @@
 site:
-  title: Docs Chat Starter
-  start_page: docs::index.adoc
+  title: UMCD Manual
+  start_page: manual::manual.adoc
 content:
   sources:
     - url: .
       start_path: docs
+    - url: .
+      start_path: manual-1.0
+    - url: .
+      start_path: manual-2.0
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/raw/master/build/ui-bundle.zip
+    # url: https://gitlab.com/antora/antora-ui-default/-/raw/master/build/ui-bundle.zip
+    # url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    url: ./ui/ui-bundle.zip
     snapshot: true
+  supplemental_files: ./supplemental-ui
+
 output:
   dir: build/site
+
+runtime:
+  fetch: true
+
+antora:
+  extensions:
+    - require: ./extensions/json-table-extension.js
+      data_dir: ./data
+      tables:
+        - file: products.json
+          component: docs
+          module: ROOT
+          version: ~
+          partial: generated/products-table.adoc
+          columns:
+            - key: id
+              header: ID
+            - key: name
+              header: Name
+            - key: price
+              header: Price

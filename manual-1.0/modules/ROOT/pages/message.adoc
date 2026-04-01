@@ -1,0 +1,35 @@
+:leveloffset: +1
+
+= Message by Director (E, R&D)
+
+image:media/image2.jpeg[media/image2,width=145,height=217]
+
+Dear Colleagues,
+
+It gives me great pleasure to announce the official release of the Unified Material Code Directory (UMCD) Manual across all our units. 
+This strategic initiative marks a critical advancement in our ongoing efforts to enhance material management, reduce costs, and streamline procurement processes.
+
+It is heartening to note the mission-mode efforts undertaken for rationalisation & standardization of material codes through the cohesive working of all Units/Regions/Divisions as “Unified BHEL” has resulted in rationalisation of 12 lakh plus material codes that were existing in the Company database as on 01.01.2023 and thereupon reduction to only 4 lakh material codes that will be used.
+
+The Unified Material Code Manual is a transformative step towards creating a more structured and efficient material management system. 
+By standardizing material codes, we aim to strengthen our resource utilisation, eliminate duplicity/ non-moving inventory, minimize inconsistencies, and significantly reduce material costs across the organization. 
+With clear and consistent coding, procurement processes will become more efficient, transparent, aiding faster execution, the need of the hour. 
+This initiative will enable us to address one of the longstanding challenges in procurement—ineffective sourcing and management of materials—which often leads to avoidable expenditures and operational inefficiencies., enable economic buying, etc. thus improving financial position of the Company in the long run.
+
+UMCD has been one of the top priorities of Dir (E, R&D) office, which shall form the basis of inventory digitalization & thereupon cost optimization, which shall ultimately decide company’s competitive strategy in the market. 
+Direct Material (DM) composition is the largest contribution in company’s product & needs to be constantly optimised to ensure sustained profits for the company. 
+Profit margins of BHEL in the current scenario is under severe pressure due to high DM content, and hence I am sure UMCD, the first step in supply chain, shall emerge as a critical driver for cost optimization, thereby enhancing margins.
+
+This is not merely a procedural change; it is a strategic initiative that aligns with our broader vision of operational excellence and resource optimization. 
+It will require the collective effort and commitment of every unit to ensure its success. 
+I encourage all teams to familiarize themselves with the manual, integrate its guidelines into daily operations, and actively collaborate to address any challenges that may arise during implementation. 
+I am confident that this step will not only enhance our material management capabilities but also set a new benchmark for operational efficiency across the organization. 
+Let us work together to make this initiative a resounding success and continue to drive our company towards a future of excellence.
+
+Let us maintain our unwavering dedication and commitment towards such transformation for Unified BHEL.
+
+With warm regards,
+
+(Jai Prakash Srivastava)
+
+Director (Engg. R&D)

@@ -1,0 +1,1 @@
+* xref:manual.adoc[UMCD Manual]

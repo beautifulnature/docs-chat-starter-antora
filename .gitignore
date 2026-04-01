@@ -1,0 +1,134 @@
+########################
+# OS / general
+########################
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.log
+
+########################
+# Node / Astro
+########################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Astro build output (default is dist/)
+dist/
+.astro/
+
+# Local tooling
+.env
+.env.*
+!.env.example
+
+########################
+# Antora
+########################
+# Default Antora output (playbook dir: build/site)
+build/
+build/site/
+
+# If you use a custom to_dir, add that too, e.g.:
+# public-docs/
+# docs-site/
+
+# Antora UI build (if you build UI bundle separately)
+ui/build/
+ui/dist/
+ui/node_modules/
+
+########################
+# Java / JVM
+########################
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+########################
+# Maven
+########################
+target/
+**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+########################
+# Gradle
+########################
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+.gradle-task-name-cache
+out/
+
+########################
+# IDEs
+########################
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+.history/
+
+# Eclipse
+.project
+.classpath
+.settings/
+*.launch
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+########################
+# Misc tools
+########################
+# Mac/Linux editors
+*.orig
+*~
+
+# Coverage / analysis
+.coverage
+coverage/
+jacoco.exec
+.site/
+.sonar/
+.snyk/
+
+# Local build / packaging
+.tmp/
+.cache/

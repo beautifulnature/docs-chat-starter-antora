@@ -1,0 +1,49 @@
+= UMCD Manual
+doctype:: book
+revnumber:: 1.0
+
+image:media/image1.png[media/image1,width=295,height=241]
+
+First issue 2024
+
+Date: 23-10-2024
+
+*_ISSUED BY_*
+
+*STANDARDS GROUP & UMC, Corporate R&D*
+
+*Bharat Heavy Electricals Limited*
+
+*Hyderabad- 500 042*
+
+include::message.adoc[]
+
+include::executive_summary.adoc[]
+
+include::foreward.adoc[]
+
+include::preface.adoc[]
+
+include::code_definition.adoc[]
+
+include::standardization_objectives.adoc[]
+
+include::introduction.adoc[]
+
+include::standardisation_pyramid.adoc[]
+
+include::12digit_schema.adoc[]
+
+include::alpha_prefixes.adoc[]
+
+include::primary_category.adoc[]
+
+include::metals.adoc[]
+
+include::insulating_materials.adoc[]
+
+include::capital_goods.adoc[]
+
+include::non-metals.adoc[]
+
+include::standard_tools.adoc[]
