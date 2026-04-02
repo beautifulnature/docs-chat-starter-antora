@@ -62,21 +62,21 @@ image:media/image16.png[media/image16,width=605,height=102]
 
 == 611 - Clamping Tools (Clamps, V-Blocks, Vices etc.)
 
-[width="79%",cols="10%,6%,32%,6%,20%,5%,21%",options="header",]
+[width="100%",cols="3%,2%,32%,2%,20%,2%,21%",options="header",]
 |===
-|611 |XX |                          |XX   3+|
-|    |01 |Clamps                    |00   3+|C Clamps medium duty
-|    |   |                          |01   3+|Strap Clamps (Type A & B)
-|    |   |                          |02   3+|U - Type Clamps without finger (Type A)
-|    |   |                          |03   3+|Bend strap clamps
-|    |   |                          |04   3+|Parallel Sided Clamp plates
-|    |   |                          |05   3+|Double ended clamps
-|    |   |                          |06   3+|Slotted clamps
-|    |   |                          |07   3+|U Clamps Type-B with round finger
-|    |   |                          |08   3+|Goose neck clamps
-|    |   |                          |09   3+|Nose Clamps
-|    |10 |Tool maker's clamp       |00    3+|
-|    |11 |V-Blocks, Plain       
+|611  |XX |                         |XX   3+|
+.22+| .10+|01 .10+|Clamps                   |00   3+|C Clamps medium duty
+|01   3+|Strap Clamps (Type A & B)
+|02   3+|U - Type Clamps without finger (Type A)
+|03   3+|Bend strap clamps
+|04   3+|Parallel Sided Clamp plates
+|05   3+|Double ended clamps
+|06   3+|Slotted clamps
+|07   3+|U Clamps Type-B with round finger
+|08   3+|Goose neck clamps
+|09   3+|Nose Clamps
+|10 |Tool maker's clamp        |00   3+|
+|11 |V-Blocks, Plain       
 2.3+.^a|
 1 Grade 0
 
@@ -85,282 +85,173 @@ image:media/image16.png[media/image16,width=605,height=102]
 1  Cast Iron
 
 2 Steel
-|    |12 |V-Blocks, Clamp Type
-|    |13 |V-Blocks, Magnetic
-|    |18 |Machine Vices
-4.4+.^|00
-|    |20 |Hand Vices
-|    |21 |Bench Vices - Fixed Base
-|    |22 |Bench Vices - Swivel Base
-|    |25 |Pipe Vices
-4+a|
-01 Open side type
+|12 |V-Blocks, Clamp Type
+|13 |V-Blocks, Magnetic
 
-02 Fixed side type
-
-03 Chain type
-
-04 Hinged type
+|18 |Machine Vices
+4.4+|00
+|20 |Hand Vices
+|21 |Bench Vices - Fixed Base
+|22 |Bench Vices - Swivel Base
+.4+|25 .4+|Pipe Vices             |01 3+|Open side type
+|02 3+|Fixed side type
+|03 3+|Chain type
+|04 3+|Hinged type
 |===
 
 == 612 - Forming and Shaping Tools (Hammers, Mallets, Tube Benders etc.)
 
-[width="81%",cols="8%,6%,44%,6%,36%",options="header",]
+[width="100%",cols="3%,6%,44%,6%,41%",options="header",]
 |===
-|612 |XX |                                         2+|XX
-|    |01 |Steel Hammer - Ball peen              2.16+|00
-|    |02 |Steel Hammer - Cross peen
-|    |03 |Steel Hammer - Sledge Double face
-|    |04 |Steel Hammer - Sledge Cross peen
-|    |05 |Steel Hammer - Sledge Straight peen
-|    |06 |Steel Hammer - Claw
-|    |07 |Steel Hammer-Chipping (Welder's)
-|    |11 |Nylon faced Hammer
-|    |12 |Copper Hammer
-|    |13 |Brass hammer
-|    |14 |Lead Hammer
-|    |17 |Raw hide Hammer
-|    |19 |Rubber Mallet
-|    |20 |Wooden mallet
-|    |31 |Tube benders
-|    |33 |Tube expanders
-|    |34 |Grooving Tool for Serrating tool holder .3+.^|01 .3+.^|MT shank
-|    |35 |Serrating tool holder
-|    |36 |Tube end facer
-|    |99 |Spares / Accessories                         2+a|
-01 Wooden handle
-
-02 Nylon faces
-
-03 Copper faces
-
-04 Brass faces
-
-05 Lead faces
-
-06 Raw hide faces
-
-07 Handle for Raw hide Hammers
-
-11 Rollers for tube expanders
-
-21 Mandrel for tube expanders
-
-22 Sleeves for tube expanders
-
-23 Guide for Tube expanders
-
-24 Cages for tube expanders
-
-25 Spares for Serrating tool holder
+|612 |XX |                                  2+|XX
+.32+|   |01 |Steel Hammer - Ball peen    2.16+|00
+|02 |Steel Hammer - Cross peen
+|03 |Steel Hammer - Sledge Double face
+|04 |Steel Hammer - Sledge Cross peen
+|05 |Steel Hammer - Sledge Straight peen
+|06 |Steel Hammer - Claw
+|07 |Steel Hammer-Chipping (Welder's)
+|11 |Nylon faced Hammer
+|12 |Copper Hammer
+|13 |Brass hammer
+|14 |Lead Hammer
+|17 |Raw hide Hammer
+|19 |Rubber Mallet
+|20 |Wooden mallet
+|31 |Tube benders
+|33 |Tube expanders
+|34 |Grooving Tool for Serrating tool holder .3+.^|01 .3+.^|MT shank
+|35 |Serrating tool holder
+|36 |Tube end facer
+.13+|99 .13+|Spares / Accessories                         |01 |Wooden handle
+|02 |Nylon faces
+|03 |Copper faces
+|04 |Brass faces
+|05 |Lead faces
+|06 |Raw hide faces
+|07 |Handle for Raw hide Hammers
+|11 |Rollers for tube expanders
+|21 |Mandrel for tube expanders
+|22 |Sleeves for tube expanders
+|23 |Guide for Tube expanders
+|24 |Cages for tube expanders
+|25 |Spares for Serrating tool holder
 |===
 
 == 613 - Handling & Marking Tools (Tongs, Shovels, Centre Punch etc.)
 
 [width="84%",cols="9%,5%,44%,5%,37%",options="header",]
 |===
-|613 |XX    |                                           |XX | 
-|    |01    |Centre Punch                           2.6+|00
-|    |02    |Number Punch (Hindu - Arabic)
-|    |05    |Letter Punch
-|    |08    |Letter Punch (English - Capital, upright)
-|    |14    |Special Punches
-|    |20    |Scribers
-|    |21    |Heli coil Inserting Tool   |01 |Mandrel
-|    |      |                           |02 |Pre-winder
-|    |      |                           |03 |Tang break off tool
-|    |      |                           |04 |Extracting tool
-|    |99    |Spares / Accessories |01 |Holders for number/ letter Punch
+|613 |XX    |                                         2+|XX
+.11+|    |01    |Centre Punch                       2.6+|00
+|02    |Number Punch (Hindu - Arabic)
+|05    |Letter Punch
+|08    |Letter Punch (English - Capital, upright)
+|14    |Special Punches
+|20    |Scribers
+.4+|21    .4+|Heli coil Inserting Tool   |01 |Mandrel
+|02 |Pre-winder
+|03 |Tang break off tool
+|04 |Extracting tool
+|99    |Spares / Accessories |01 |Holders for number/ letter Punch
 |===
 
 == 614 - Screw Drivers & Spanners
 
-[width="99%",cols="9%,4%,50%,4%,33%",options="header",]
+[width="100%",cols="3%,3%,50%,4%,40%",options="header",]
 |===
-|614 |XX | |XX |
-|    |01 |Engineers screw drivers round shank 2.34+|00 |
-|    |03 |Electrician's screw driver light duty plastic handle
-|    |05 |Flat blade screw driver (London Pattern)
-|    |10 |Screw drivers for recessed head screws
-|    |15 |Watch makers screw driver
-|    |16 |Phillips Head screw driver
-|    |20 |Hook spanners
-|    |21 |Open Jaw Wrenches (spanners) - double ended
-|    |22 |Open jaw. Wrenches (Spanners) - single ended
-|    |23 |Open jaw, Wrenches(spanners) single ended shortened
-|    |26 |Ring, double ended, straight
-|    |27 |Ring, double ended, cranked
-|    |28 |Ring, double ended, angled
-|    |29 |Ring, double ended, off-set
-|    |30 |Ring, single ended
-|    |31 |Ring, single ended, shortened
-|    |32 |Ring, slogging
-|    |33 |Pop spanners
-|    |35 |Box, tubular, hexagon, double ended
-|    |36 |Box, tubular, hexagon, single ended
-|    |41 |Box, solid, square
-|    |42 |Box, solid, hexagon
-|    |43 |Box, solid, square tee
-|    |44 |Box, solid, square cranked
-|    |46 |Square drive sockets (Hand operated)
-|    |47 |Square drive sockets (Power operated)
-|    |51 |Hex, socket screw keys. (Allen keys)
-|    |52 |Open Jaw, single ended, adjustable wrenches
-|    |53 |Pipe wrenches
-|    |54 |Chain, Pipe wrenches
-|    |55 |Pipe wrenches, foot print type
-|    |56 |Combination wrenches
-|    |60 |Spanner for tightening the retaining screw
-|    |61 |Click type torque wrenches
+|614 |XX | 2+|XX
+.36+|   |01 |Engineers screw drivers round shank            2.34+|00
+|03 |Electrician's screw driver light duty plastic handle
+|05 |Flat blade screw driver (London Pattern)
+|10 |Screw drivers for recessed head screws
+|15 |Watch makers screw driver
+|16 |Phillips Head screw driver
+|20 |Hook spanners
+|21 |Open Jaw Wrenches (spanners) - double ended
+|22 |Open jaw. Wrenches (Spanners) - single ended
+|23 |Open jaw, Wrenches(spanners) single ended shortened
+|26 |Ring, double ended, straight
+|27 |Ring, double ended, cranked
+|28 |Ring, double ended, angled
+|29 |Ring, double ended, off-set
+|30 |Ring, single ended
+|31 |Ring, single ended, shortened
+|32 |Ring, slogging
+|33 |Pop spanners
+|35 |Box, tubular, hexagon, double ended
+|36 |Box, tubular, hexagon, single ended
+|41 |Box, solid, square
+|42 |Box, solid, hexagon
+|43 |Box, solid, square tee
+|44 |Box, solid, square cranked
+|46 |Square drive sockets (Hand operated)
+|47 |Square drive sockets (Power operated)
+|51 |Hex, socket screw keys. (Allen keys)
+|52 |Open Jaw, single ended, adjustable wrenches
+|53 |Pipe wrenches
+|54 |Chain, Pipe wrenches
+|55 |Pipe wrenches, foot print type
+|56 |Combination wrenches
+|60 |Spanner for tightening the retaining screw
+|61 |Click type torque wrenches
 
-.3+| .3+|99 .3+|Spares / Accessories |01 |Tommy bars
+.3+|99 .3+|Spares / Accessories |01 |Tommy bars
 |02 |Accessories for Sq. Drive Sockets (Hand operated)
 |03 |Accessories for Sq. Drive Sockets (Hand operated) (Power operated)
 |===
 
 Standard Tools
 
-==== 616 - Pliers, Pincers, Wires & Cable Strippers, Knives
+== 616 - Pliers, Pincers, Wires & Cable Strippers, Knives
 
 [width="65%",cols="11%,8%,73%,8%",options="header",]
 |===
-|616 |XX | |XX
-| a|
-01
-
-02
-
-03
-
-04
-
-05
-
-06
-
-07
-
-08
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
-
-25
-
-26
-
-27
-
-a|
-Round long nose pliers
-
-Flat nose plier, without cutter, long
-
-Flat nose plier, without cutter, short
-
-Snipe nose pliers
-
-Combination side cutting plier without insulation
-
-Combination side cutting plier insulated
-
-Line man's plier
-
-Wire stripping plier
-
-Slip joint plier
-
-Burner pliers
-
-Pipe grip plier
-
-Vice grip plier
-
-Crimping plier
-
-Circlip plier, external
-
-Circlip plier, internal
-
-Pincers
-
-Nail pullers
-
-Strap tightening tools
-
-|00
+|616  |XX |                             |XX
+.18+| |01 |Round long nose pliers   .18+|00
+|02 |Flat nose plier, without cutter, long
+|03 |Flat nose plier, without cutter, short
+|04 |Snipe nose pliers
+|05 |Combination side cutting plier without insulation
+|06 |Combination side cutting plier insulated
+|07 |Line man's plier
+|08 |Wire stripping plier
+|10 |Slip joint plier
+|11 |Burner pliers
+|12 |Pipe grip plier
+|13 |Vice grip plier
+|14 |Crimping plier
+|15 |Circlip plier, external
+|16 |Circlip plier, internal
+|25 |Pincers
+|26 |Nail pullers
+|27 |Strap tightening tools
 |===
 
-==== 621 - Chipping and Shea Ring Tools
+== 621 - Chipping and Shea Ring Tools
 
 [width="73%",cols="13%,9%,54%,9%,15%",options="header",]
 |===
-|621 |XX | |XX |
-| a|
-01
-
-05
-
-11
-
-15
-
-31
-
-35
-
-40
-
-41
-
-50
-
-55
-
-a|
-Cold chisels
-
-Pneumatic chisels
-
-Nippers - diagonal cutting
-
-Bolt clippers
-
-Scissors
-
-Metal cutting shears
-
-Pipe cutters, three-wheel type
-
-Pipe cutters, link type
-
-Shear blades, for power shear
-
-Rotary shear cutters
-
-|00 |
-| |56 |Hollow punches |02 |Round
+|621    |XX |                  2+|XX
+.11+|   |01 |Cold chisels   2.10+|00
+|05 |Pneumatic chisels
+|11 |Nippers - diagonal cutting
+|15 |Bolt clippers
+|31 |Scissors
+|35 |Metal cutting shears
+|40 |Pipe cutters, two-wheel type
+|41 |Pipe cutters, link type
+|50 |Shear blades, for power shear
+|55 |Rotary shear cutters
+|56 |Hollow punches |02 |Round
 |===
 
-Standard Tools
-
-==== 622 - File Action Tools
+== 622 - File Action Tools
 
 [width="100%",cols="9%,4%,30%,4%,24%,3%,26%",options="header",]
 |===
 |622 |XX |(Type) |X |(Type of cut) |X |(Type of edges)
-.13+| |01 |File Engineer's - Flat .13+a|
+.15+| |01 |File Engineer's - Flat .13+a|
 0
 
 1
@@ -412,94 +303,122 @@ One round edge
 |30 |Rasps (All types)
 |35 |Scrapers, HSS (All Types)
 |36 |Scrapers, Carbide tipped (all types)
-| | | |XX | | |
-| |99 |Spares/ Accessories |01 |Handles | |
+2+| 4+|XX
+|99 |Spares/ Accessories |01 3+|Handles
 |===
 
 Note: Size codes for Bastard, second cut & smooth files are allotted serially
 
-==== 623 - Saw Action Tools
+== 623 - Saw Action Tools
 
 [width="89%",cols="8%,6%,38%,6%,42%",options="header",]
 |===
-|623 |XX | |XX |
-| a|
-01
-
-02
-
-05
-
-11
-
-15
-
-21
-
-25
-
-30
-
-a|
-Band saw, metal cutting
-
-Band saw blade, bi-metallic, HSS
-
-Band saw, wood cutting
-
-Hack saw blade - hand
-
-Hack saw blade - power
-
-Circular saws - segmental, HSS
-
-Circular saws - carbide tipped
-
-Circular saws for wood cutting
-
-|00 |
-| | | |XX |
-| |99 |Spare / Accessories a|
-01
-
-05
-
-06
-
-a|
-Hack saw frame adjustable, tubular
-
-Segments for circular saws
-
-Rivets for segmental Circular saws
-
+|623 |XX | 2+|XX
+.12+|   |01 |Band saw, metal cutting        2.8+|00
+|02 |Band saw blade, bi-metallic, HSS
+|05 |Band saw, wood cutting
+|11 |Hack saw blade - hand
+|15 |Hack saw blade - power
+|21 |Circular saws - segmental, HSS
+|25 |Circular saws - carbide tipped
+|30 |Circular saws for wood cutting
+|   |   2+|XX
+.3+|99 .3+|Spare / Accessories |01 |Hack saw frame adjustable, tubular
+|05 |Segments for circular saws
+|06 |Rivets for segmental Circular saws
 |===
 
-==== 625 - Broaching Tools
+== 625 - Broaching Tools
 
 [width="36%",cols="26%,22%,52%",options="header",]
 |===
-|625 |XX |
-| a|
-01
+|625 2+|XX
+.2+|    |01  |Charpy V Notch
+|02 |Charpy U Notch
+|===
 
-02
+== 626 - Cutting Tools - Single Point (including Indexable Type)
+
+[width="100%",cols="3%,36%,38%,23%",options="header",]
+|===
+|626 |XX |X (Type) |X (Material)
+| a|01 - ISO 1 Straight turning tool 
+
+02 - ISO 2 Cranked turning and facing tool
+
+03 - ISO 3 Cranked finishing tool
+
+04 - ISO 4 Broad turning tool
+
+05 - ISO 5 Cranked facing tool
+
+06 - ISO 6 Cranked turning tool
+
+07 - ISO 7 Parting off tool
+
+08 - ISO 8 Boring tool
+
+09 - ISO 9 Boring and facing tool
+
+10 - IND-1-Pointed turning tool
+
+11 - Straight round nose tool
+
+12 - Cranked round nose tool
+
+13 - Boring bits (Sandvik 140, round)
+
+14 - Boring bits (Sandvik 140, square)
+
+15 - Boring bits (Sandvik 141, round)
+
+16 - Boring bits (Sandvik 141, square)
+
+17 - Ifanger type boring tools for Jig boring
+
+19 - Recessing tool, cranked
+
+20 - Threading tool, external, metric
+
+21 - Threading tool, internal, metric
+
+22 - Threading tool, indexable
+
+23 - Pulley grooving tool (Sandvik's 164)
+
+24 - Copy turning tool
+
+25 - Criden, external
+
+26 - Criden, internal
+
+46 - P1 Straight planning tool
+
+47 - P2 Cranked planning tool
+
+48 - P3 Broad planning tool
+
+49 - P4 Cranked finishing tool
+
+50 - P5 Broad finishing tool
+
+51 - P6 Corner Cutting Planning tool
+
+52 - P7 Grooving tool
+
+53 - P8 Sideways Planning tool
+
+54 - Swan / Goose neck round nose tool
+
+55 - Swan / Goose neck square nose tool
+
+56 - Brazed blades for combination cutters
+
+57 - Deep grooving tool holder
+
+58 - Goose neck straight planning tool
 
 a|
-Charpy V Notch
-
-Charpy U Notch
-
-|===
-
-Standard Tools
-
-==== 626 - Cutting Tools - Single Point (including Indexable Type)
-
-[width="100%",cols="7%,4%,36%,28%,25%",options="header",]
-|===
-|626 |XX | |X (Type) |X (Material)
-.13+| |01 |ISO 1 Straight turning tool .13+a|
 1-HSS, Solid
 
 2-HSS, Brazed
@@ -516,7 +435,7 @@ Standard Tools
 
 8-Screw type positive rake
 
-.13+a|
+a|
 0-Material not specified
 
 1-AISI-M2HSS-Plain
@@ -533,53 +452,8 @@ Standard Tools
 
 7-Carbide Gr. K
 
-|02 |ISO 2 Cranked turning and facing tool
-|03 |ISO 3 Cranked finishing tool
-|04 |ISO 4 Broad turning tool
-|05 |ISO 5 Cranked facing tool
-|06 |ISO 6 Cranked turning tool
-|07 |ISO 7 Parting off tool
-|08 |ISO 8 Boring tool
-|09 |ISO 9 Boring and facing tool
-|10 |IND-1-Pointed turning tool
-|11 |Straight round nose tool
-|12 |Cranked round nose tool
-|13 |Boring bits (Sandvik 140, round)
-| |14 |Boring bits (Sandvik 140, square) | |
-| |15 |Boring bits (Sandvik 141, round) | |
-| |16 |Boring bits (Sandvik 141, square) | |
-| |17 |Ifanger type boring tools for Jig boring | |
-| |19 |Recessing tool, cranked | |
-| |20 |Threading tool, external, metric | |
-| |21 |Threading tool, internal, metric | |
-| |22 |Threading tool, indexable | |
-| |23 |Pulley grooving tool (Sandvik's 164) | |
-| |24 |Copy turning tool | |
-| |25 |Criden, external | |
-| |26 |Criden, internal | |
-| |46 |P1 Straight planning tool | |
-| |47 |P2 Cranked planning tool | |
-| |48 |P3 Broad planning tool | |
-| |49 |P4 Cranked finishing tool | |
-| |50 |P5 Broad finishing tool | |
-| |51 |P6 Corner Cutting Planning tool | |
-| |52 |P7 Grooving tool | |
-| |53 |P8 Sideways Planning tool | |
-| |54 |Swan / Goose neck round nose tool | |
-| |55 |Swan / Goose neck square nose tool | |
-| |56 |Brazed blades for combination cutters | |
-| |57 |Deep grooving tool holder | |
-| |58 |Goose neck straight planning tool | |
-|===
-
-Standard Tools
-
-==== 626 - Cutting Tools - Single Point (including Indexable Type)
-
-[width="95%",cols="7%,5%,38%,25%,25%",options="header",]
-|===
-|626 |XX | |X (Type) |X (Material)
-| |70 |Tool Blank .2+|0 .2+a|
+| |XX |X (Type) |X (Material)
+| |70 - Tool Blank  .2+|0   .2+|
 1-AISI M2 HSS Plain
 
 2-AISI M42 HSS with Co
@@ -588,8 +462,8 @@ Standard Tools
 
 4-ASP 60 HSS with Co
 
-| |71 |HSS Bits
-| |72 |Carbide Tips a|
+| |71 - HSS Bits
+| |72 - Carbide Tips a|
 1-Type A
 
 2-TypeB
@@ -602,10 +476,9 @@ Standard Tools
 
 6-TvpeG
 
-9-Special Type
+9-Special Type  |0
 
-|0
-| |73 |Indexable inserts plain, positive rake .5+a|
+| |73 - Indexable inserts plain, positive rake .5+a|
 1-Without chip breakers
 
 3-with chip breakers on one side
@@ -613,12 +486,12 @@ Standard Tools
 5-with chip breaker on both sides
 
 .5+|0
-| |74 |Indexable inserts plain, negative rake
-| |75 |Indexable inserts with hole
-| |76 |Indexable inserts with high {plus}ve rake
-| |98 |Micro bore cartridges & full units
-| |XX | |X |X
-| |99 |Spares a|
+| |74 - Indexable inserts plain, negative rake
+| |75 - Indexable inserts with hole
+| |76 - Indexable inserts with high {plus}ve rake
+| |98 - Micro bore cartridges & full units
+| |XX |X |X
+| |99 - Spares a|
 0-Interchangeable
 
 1-M/S Sandvik
@@ -634,12 +507,12 @@ a|
 
 Note: LH, RH shall be given alternatively in the size code
 
-==== 627 - Milling Adopter
+== 627 - Milling Adopter
 
-[width="36%",cols="26%,22%,52%",options="header",]
+[width="10%",cols="3%,2%",options="header",]
 |===
-|627 |XX |
-| |00 |
+|627 |XX
+| |00
 |===
 
 Standard Tools
@@ -1266,23 +1139,28 @@ a|
 | |03 |Mounted point Group W
 |===
 
-==== 643 - Bonded and Coated Specialities
+== 643 - Bonded and Coated Specialities
 
-[width="59%",cols="11%,8%,43%,31%,7%",options="header",]
+[width="59%",cols="11%,51%,31%,7%",options="header",]
 |===
-|643 |XX |Type |X (Abrasive) |X
-| |01 |Sharpening stone .4+a|
+|643 |XX - Type |X (Abrasive) |X
+| |01 - Sharpening stone
+
+02 - Honing sticks / Stones
+
+05 - Dressing sticks
+
+11 - Files
+
+|
 1-Alumin. Oxide
 
 5-SiIicon Carbide
 
-.4+|0
-| |02 |Honing sticks / Stones
-| |05 |Dressing sticks
-| |11 |Files
+|0
 |===
 
-==== 644 - Emery Sheet / Flap Wheel
+== 644 - Emery Sheet / Flap Wheel
 
 [width="10%",cols="54%,46%",options="header",]
 |===
@@ -1290,14 +1168,12 @@ a|
 | |00
 |===
 
-Standard Tools
-
-==== 645 - Diamond Tools (Wheels, Cutting Tools, Dressers etc.)
+== 645 - Diamond Tools (Wheels, Cutting Tools, Dressers etc.)
 
 [width="90%",cols="9%,4%,17%,24%,26%,20%",options="header",]
 |===
 |645 |X | 2+|XX |X
-| |1 |Wheels 2+a|
+.9+| |1 |Wheels 2+a|
 01 - Straight Cup
 
 02 - Double cup
@@ -1325,11 +1201,11 @@ a|
 
 5-Rubber
 
-| |3 |Turning tools 2.3+|00 .3+|0
-| |4 |Boring tools
-| |6 |Files
-| | | |X |X |X
-| |7 |Dressers a|
+|3 |Turning tools 2.3+|00 .3+|0
+|4 |Boring tools
+|6 |Files
+| | |X |X |X
+|7 |Dressers a|
 1-Single point
 
 3-Multi point
@@ -1344,52 +1220,50 @@ a|
 8-Miscellaneous
 
 |0
-| | | 2+|XX |
-| |8 |Indentor 2+|00 |0
-| |9 |Spares 2+|00 |0
+| | 2+|XX |
+|8 |Indentor 2.2+|00 .2+|0
+|9 |Spares
 |===
 
-Standard Tools
+== 661 - Linear and Angular Measuring Tools
 
-==== 661 - Linear and Angular Measuring Tools
-
-[width="91%",cols="12%,6%,23%,21%,7%,31%",options="header",]
+[width="100%",cols="3%,2%,25%,35%,35%",options="header",]
 |===
-|661 |XX |Type |X (Type) 2+|X (Material)
-| |01 |Scales |1 - Engineer's 2+|1-Stainless steel
-| | | |X (Material) 2+|X(Type)
-| |03 |Tapes a|
+|661 |XX |Type |X (Type) |X (Material)
+.100+| |01 |Scales |1 - Engineer's |1-Stainless steel
+| | |X (Material) |X(Type)
+|03 |Tapes a|
 1-Metallic-steel
 
 2-Linen
 
 3-Plastic coated
 
-2+a|
+a|
 1 - Push/pull type with metallic case
 
 2 - Winding type with leather case
 
-| | | |X (Type) 2+|X
-| |05 |Plain Calipers a|
+| | |X (Type) |X
+|05 |Plain Calipers a|
 1-Firm joint
 
 2-Spring joint
 
-2+a|
+a|
 1-Outside
 
 2-Inside
 
-| |07 |Dividers a|
+|07 |Dividers a|
 1-Firm joint
 
 2-Springjoint
 
-2+|0
-| |08 |Trammels | 2+|
-| | | 3+|XX (Type)
-| |10 |External Micrometers 3+a|
+|0
+|08 |Trammels | |
+| | 2+|XX (Type)
+|10 |External Micrometers 2+a|
 01 - Fixed anvil
 
 03 - Blank
@@ -1416,7 +1290,7 @@ Standard Tools
 
 20 - Groove micrometer
 
-| |11 |Internal Micrometers 3+a|
+|11 |Internal Micrometers 2+a|
 01 - with extension rods
 
 02 - Fixed type (25mm range)
@@ -1427,11 +1301,11 @@ Standard Tools
 
 09 - Stick micrometers (tubular type)
 
-| | | 2+|XX (Type) |
-| |12 |Depth Micrometers 2+|01-Standard |
-| | | 2+|X (Type) |X (Accuracy)
-| |13 |Dial Caliper gauge 2+|0 |1 - 0.025 mm
-| |14 |Dial Indicators 2+a|
+| | 2+|XX (Type)
+|12 |Depth Micrometers 2+|01-Standard
+| | |X (Type) |X (Accuracy)
+|13 |Dial Caliper gauge |0 |1 - 0.025 mm
+|14 |Dial Indicators a|
 1-Plunger type with offset back lug
 
 4-Lever type Pin dial, test
@@ -1447,19 +1321,11 @@ Standard Tools
 
 6- 0.01 mm
 
-| |15 |Dial Bore gauge 2+|0
-|===
-
-Standard Tools
-
-==== 661 - Linear and Angular Measuring Tools
-
-[width="99%",cols="8%,5%,24%,36%,9%,18%",options="header",]
-|===
-|661 |XX |Type 3+|XX (Type)
-| |16 |Surface gauges 3+|01-Universal
-| | | 2+|X (Type) |X (Least count)
-| |17 |Vernier calipers 2+a|
+|15 |Dial Bore gauge |0
+|XX |Type 2+|XX (Type)
+|16 |Surface gauges 2+|01-Universal
+| | |X (Type) |X (Least count)
+|17 |Vernier calipers a|
 1-Type-A Stainless steel with fine adjustment
 
 2-Type-B Stainless steel with fine adjustment
@@ -1477,36 +1343,36 @@ a|
 
 3- 0.01 mm
 
-| |18 |Vernier height Gauges 2+|1-Flat beam, stainless steel with fine adjustment .5+a|
+|18 |Vernier height Gauges |1-Flat beam, stainless steel with fine adjustment .5+a|
 1- 0.02 mm
 
 2- 0.01 mm
 
-| |19 |Vernier depth gauge 2.4+a|
+|19 |Vernier depth gauge .4+a|
 1- Stainless steel with fine adjustment
 
 2- Electronic digimatic
 
-| |20 |Ordinary depth gauge
-| |21 |Small hole gauge
-| |23 |Telescopic gauges
-| | | 3+|XX
-| |25 |Gear tooth Vernier caliper 3+|00
-| |33 |Bevels 3+a|
+|20 |Ordinary depth gauge
+|21 |Small hole gauge
+|23 |Telescopic gauges
+| | 2+|XX
+|25 |Gear tooth Vernier caliper 2+|00
+|33 |Bevels 2+a|
 01- Plain
 
 02- Universal
 
 03- Combination
 
-| |35 |Protractors 3+a|
+|35 |Protractors 2+a|
 01- Plain (Type D)
 
 05- Vernier with acute angle attachment and fine adjustment (Type A)
 
 09- Optical
 
-| |37 |Levels 3+a|
+|37 |Levels 2+a|
 01- Plain Spirit level for (Horizontal)
 
 02- Plain spirit level for (Horizontal & Vertical)
@@ -1519,30 +1385,30 @@ a|
 
 08- Clinometer
 
-| | | 3+|XX (Type)
-| |40 |Sine Bars 3+|00 - Type A
-| |41 |Sine Table 3+a|
+| | 2+|XX (Type)
+|40 |Sine Bars 2+|00 - Type A
+|41 |Sine Table 2+a|
 01 - Electromagnetic
 
 02 - Magnetic Heavy duty
 
-| | | |X (Type) 2+|X (Accuracy)
-| |61 |Engineer's Squares (Try Squares) a|
+| | |X (Type) |X (Accuracy)
+|61 |Engineer's Squares (Try Squares) a|
 1-Bevel with stock (Type 1of IS :2103)
 
 4-Flat edge without Stock (Type 2)
 
-2+a|
+a|
 1-Gr.A
 
 2-Gr.B
 
 3-Gr.C
 
-| | | 3+|XX (Type)
-| |62 |Combination set 3+|00
-| | | |X (Type & Material) 2+|X (Accuracy)
-| |63 |Straightedges a|
+| | 2+|XX (Type)
+|62 |Combination set 2+|00
+| | |X (Type & Material) |X (Accuracy)
+|63 |Straightedges a|
 1-I Beam. CI
 
 2-I Beam. Steel
@@ -1553,27 +1419,18 @@ a|
 
 7-Tool maker's (Bevel edged) steel
 
-2+a|
+a|
 0-Not specified
 
 1-Grade A (Inspection)
-
-|===
-
-Standard Tools
-
-==== 661 - Linear and Angular Measuring Tools
-
-[width="89%",cols="11%,5%,24%,30%,30%",options="header",]
-|===
-|661 |XX |Type 2+|XX
-| |64 |Engineers parallels 2+a|
+|XX |Type 2+|XX
+|64 |Engineers parallels 2+a|
 01-Gr.A
 
 02-Gr.B
 
-| | | |X (Material) |X (Accuracy)
-| |65 |Surface Plates a|
+| | |X (Material) |X (Accuracy)
+|65 |Surface Plates a|
 1-CI
 
 2-Blank
@@ -1589,8 +1446,8 @@ a|
 
 3-Gr.3
 
-| | | 2+|XX
-| |99 |Spares/ Accessories 2+a|
+| | 2+|XX
+|99 |Spares/ Accessories 2+a|
 00-
 
 01- Magnetic base with stand for dial indicators
@@ -1599,7 +1456,7 @@ a|
 
 03- Rack pinions pin for Vernier depth gauge
 
-04- Steel bail anvil++]++ for Vernier depth gauge
+04- Steel bail anvil for Vernier depth gauge
 
 05- Bronze packing strips for Vernier dept gauge
 
@@ -1618,74 +1475,94 @@ a|
 12- TP2 5-way probe for 3D Co-ordinated measuring
 
 99- Miscellaneous
-
 |===
 
-Standard Tools
+== 664 - Standard / Reference Gauges
 
-==== 664 - Standard / Reference Gauges
-
-[width="83%",cols="10%,6%,39%,29%,,16%",options="header",]
+[width="83%",cols="3%,2%,39%,29%,16%",options="header",]
 |===
-|664 |XX |Type |X 2+|X (accuracy)
-| |01 |Slip gauges .2+|0 2.2+a|
+|664 |XX |Type |X   |X (accuracy)
+.20+|   |01 |Slip gauges .2+|0 .2+|
 1-Gr.0
 
 2-Gr.1
 
 3-Gr.2
 
-| |02 |Length bars
-| | | |X (Type) 2+|X (Accuracy)
-| |03 |Feeler gauges and feeler strips a|
+|02 |Length bars
+| | |X (Type) |X (Accuracy)
+|03 |Feeler gauges and feeler strips .6+|
 1-Feeler stocks
 
 2-FeeIer blades / Leaves
 
 3-Feeler gauge sets
 
-2+a|
+.6+|
 1-Gr.1
 
 2-Gr.2
 
-| |04 |Measuring Pins | 2+|
-| |05 |Setting Rings | 2+|
-| |06 |Drill gauges | 2+|
-| |07 |Wire/Sheet gauges | 2+|
-| |08 |Angle gauges | 2+|
-| | | 3+|XX
-| |09 |Centre gauges 3+|00
-| | | 3+|XX (Thread form)
-| |10 |Screw Pitch gauges 3+|01-Metric
-| | | 3+|XX
-| |11 |Radius gauges 3+|00
-| |12 |Surface finish comparator blocks 3+|
-| |13 |Screw thread measuring wires 3+|
-| | | 2+|X (Type of taper) |X(Type)
-| |14 |Taper gauges 2+a|
+|04 |Measuring Pins
+|05 |Setting Rings
+|06 |Drill gauges
+|07 |Wire/Sheet gauges
+|08 |Angle gauges
+| | 2+|XX
+|09 |Centre gauges 2+|00
+| | 2+|XX (Thread form)
+|10 |Screw Pitch gauges 2+|01-Metric
+| | 2+|XX
+|11 |Radius gauges 2.3+|00
+|12 |Surface finish comparator blocks
+|13 |Screw thread measuring wires
+| | |X (Type of taper) |X(Type)
+|14 |Taper gauges |
 1-Morse taper, plain
 
 2-Metric taper
 
 5-ISO 7/24 taper
 
-a|
+|
 1-Plug
 
 2-Ring
 
-| |99 |Spares 3+|
+|99 |Spares 2+|
 |===
 
-Standard Tools
+== 665 - Limit Gauges-Plain
 
-==== 665 - Limit Gauges-Plain
-
-[width="91%",cols="7%,5%,45%,43%",options="header",]
+[width="91%",cols="7%,45%,48%",options="header",]
 |===
-|665 |XX |(Type) |XX (Tolerance class)
-| |01 |Plug, Single ended, GO .11+a|
+|665 |XX - (Type) |XX (Tolerance class)
+| |01 - Plug, Single ended, GO
+
+02 - Plug, Single ended, NOGO
+
+03 - Plug, double ended, GO & NOGO
+(size range 3 up to & incl. 40mm)
+
+04 - Plug, single ended, GO & NOGO
+(size range above 65 up to & incl. 100 mm)
+
+05 - Plug, Double ended, GO & NOGO
+(size range above 40 up to & incl. 65 mm)
+
+11 - Ring, GO
+
+12 - Ring, NOGO
+
+13 - Ring, GO & NOGO
+
+21 - Snap, GO & NOGO
+
+22 - Snap, adjustable, GO & NOGO
+
+99 - Spares
+
+|
 01- H8
 
 02- H7
@@ -1696,36 +1573,44 @@ Standard Tools
 
 31 to 99 - Blank
 
-| |02 |Plug, Single ended, NOGO
-| |03 a|
-Plug, double ended, GO & NOGO
-
-(size range 3 up to & incl. 40mm)
-
-| |04 a|
-Plug, single ended, GO & NOGO
-
-(size range above 65 up to & incl. 100 mm)
-
-| |05 a|
-Plug, Double ended, GO & NOGO
-
-(size range above 40 up to & incl. 65 mm)
-
-| |11 |Ring, GO
-| |12 |Ring, NOGO
-| |13 |Ring, GO & NOGO
-| |21 |Snap, GO & NOGO
-| |22 |Snap, adjustable, GO & NOGO
-| |99 |Spares
 |===
 
-==== 667 - Limit Gauges – Screw
+== 667 - Limit Gauges – Screw
 
-[width="100%",cols="9%,4%,33%,45%,4%,5%,",options="header",]
+[width="100%",cols="9%,39%,49%,3%",options="header",]
 |===
-|667 |XX |(Type) |XX (Thread Form) | 2+|
-| |01 |Plug single ended - GO .8+a|
+|667 |XX - (Type) |XX (Thread Form) |
+.4+|   .2+|
+01 - Plug single ended - GO
+
+02 - Plug single ended - NOGO
+
+03 - Plug double ended - GO & NOGO
+
+04 - Plug single ended - GO & NOGO
+
+05 - Plug step limit
+
+06 - Screw check plug gauge GO/NOGO double ended for ring gauges
+
+07 - Screw check plug gauge GO/NOGO Single ended for ring gauges
+
+08 - Master setting plug gauge GO/NOGO double ended for caliper gauge
+
+09 - Master setting plug gauge GO/NOGO single ended for caliper gauge
+
+11 - Ring - GO
+
+12 - Ring - NOGO
+
+13 - Ring -GO & NOGO
+
+14 - Ring - Step limit
+
+21 - Caliper - Go & NOGO
+
+22 - Caliper - Adjustable GO & NOGO
+|
 01 - Metric Fine 6H/6g
 
 02 - Metric Coarse 6H/6g
@@ -1750,16 +1635,8 @@ Plug, Double ended, GO & NOGO
 
 31 Conduit threads (pg)
 
-.8+| 2.8+|RH
-| |02 |Plug single ended - NOGO
-| |03 |Plug double ended - GO & NOGO
-| |04 |Plug single ended - GO & NOGO
-| |05 |Plug step limit
-| |06 |Screw check plug gauge GO/NOGO double ended for ring gauges
-| |07 |Screw check plug gauge GO/NOGO Single ended for ring gauges
-.2+| .2+|08 .2+|Master setting plug gauge GO/NOGO double ended for caliper gauge
-.8+a|
-33 - Metric fine 6H/6g
+.^|RH
+|33 - Metric fine 6H/6g
 
 34 - Metric coarse6H/6g
 
@@ -1777,271 +1654,195 @@ Plug, Double ended, GO & NOGO
 
 71 to 99 - Reserved for other than Metric pitches
 
-.8+| 2.8+|LH
-| |09 |Master setting plug gauge GO/NOGO single ended for caliper gauge
-| |11 |Ring - GO
-| |12 |Ring - NOGO
-| |13 |Ring -GO & NOGO
-| |14 |Ring - Step limit
-| |21 |Caliper - Go & NOGO
-| |22 |Caliper - Adjustable GO & NOGO
-| | | 3+|XX |
-| |99 |Spares 3+a|
+.^|LH
+
+| 2+|XX
+|99 - Spares 2+|
 01 Handles Taper
 
 02 Handles Screw
+|===
 
+== 681 - Portable Tools
+
+[width="87%",cols="8%,4%,16%,3%,47%,22%",options="header",]
+|===
+|681 |X |(Type) |XX |(Thread Form) |X
+.2+| .2+|
+1
+
+4
+
+7
+
+8   .2+|
+Manual 
+
+Pneumatic
+
+Electric
+
+Hydraulic
 |
-|===
+01
 
-Standard Tools
+02
 
-==== 681 - Portable Tools
+03
 
-[width="87%",cols="8%,4%,16%,50%,22%",options="header",]
-|===
-|681 |X |(Type) |XX (Thread Form) |X
-| |1 |Manual .9+a|
-01- Drills (excluding)
+05
 
-02- Rock drills
+07
 
-03- Grinders & Sanders
+08
 
-05- Deslagging / descaling derusting / pistols
+09
 
-07- Rivetters
+10
 
-08- Rammers
+11
 
-09- Chippers/Hammers
+12
 
-10- Scrappers
+13
 
-11 - Screw drivers
+15
 
-12- Wrenches
+16
+|
+Drills (excluding)
 
-13- Torque wrenches (multipliers)
+Rock drills
 
-15- Saws
+Grinders & Sanders
 
-16- Blowers
+Deslagging / descaling derusting / pistols
 
-.9+|0
-| |4 |Pneumatic
-| |7 |Electric
-| |8 |Hydraulic
-| | |
-| | |
-| | |
-| | |
-| | |
-| | | |17- Levelling Jack a|
+Rivetters
+
+Rammers
+
+Chippers/Hammers
+
+Scrappers
+
+Screw drivers
+
+Wrenches
+
+Torque wrenches (multipliers)
+
+Saws
+
+Blowers
+|0
+
+|17 |Levelling Jack |
 1- Conical point
 
 2- V Groove
-
+|
 |===
 
-==== 684 - Accessories/ Auxiliaries for Machine Tools
+== 684 - Accessories/ Auxiliaries for Machine Tools
 
-[width="73%",cols="9%,6%,15%,70%",options="header",]
+[width="73%",cols="3%,3%,25%,4%,65%",options="header",]
 |===
-|684 |XX | |XX
-| |01 |Sockets a|
-01- Extension, morse taper
-
-02- Extension for Turret lathes
-
-| |03 |Sleeves a|
-01- Reduction, morse taper
-
-02- For quick change chucks
-
-| |05 |Collets a|
-01- Collets for Ward 8
-
-02- Collets for Ward 11
-
-03- Collets for Ward 14
-
-11- Collets for Milling m/c ISO: 30
-
-12- Collets for Milling m/c ISO 40
-
-13- Collets for Milling m/c ISO: 50
-
-14- Collets for Milling m/c ISO: 60
-
-21- Collets for Cylindrical grinding m/c
-
-31- Collets for Cutter grinders
-
-35- Collets for quick change
-
-36- Collet for Auto lock chucks
-
-37- Parallel bore collets for clare chucks
-
-38- MT bore collets for clare chucks
-
-39- Collet for tapping attachment
-
-40- Collet for deep hole drilling m/c.
-
-|===
-
-Standard Tools
-
-==== 684 - Accessories/ Auxiliaries for Machine Tools
-
-[width="74%",cols="9%,6%,28%,57%",options="header",]
-|===
-|684 |XX | |XX
-| |07 |Holders a|
-01- For shell drills/reamers
-
-02- For shell taps
-
-03- Floating for reamers
-
-04- For boring tools
-
-05- For spot facing tools
-
-06- For counter boring cutters
-
-07- For spade drills
-
-08- for cardinal type counter boring cutters
-
-09- Boring and Facing
-
-10- Micro boring head
-
-11- Double sided spot facing attachment
-
-12- Micro boring bar
-
-13- Star wheel dresser
-
-14- End mills
-
-| |09 |Centres a|
-01- Dead. Full Hardened
-
-02- Dead. Full Hardened, Carbide tipped
-
-03- Dead, Half, Hardened
-
-04- Dead, Half, Hardened, Carbide tipped
-
-08- Revolving (live)
-
-11- Pipe, revolving
-
-12- Centering plug
-
-| |11 |Adopters a|
-01- For collets-milling
-
-02- For collets-grinding
-
-11- For morse taper-milling
-
-12- For morse taper-Grinding
-
-21- Drilling for Asguith tapping attachment
-
-26- Tapping for Asguith tapping attachment
-
-27- Tapping for SPV attachment
-
-28- Tapping for Czech design
-
-| |13 |Arbors a|
-01- Milling with self-release taper
-
-02- Milling with MT
-
-05- Stub with self-release taper
-
-06- Stub with MT
-
-11- For drill chucks
-
-| |15 |Chucks a|
-01- Drill-L type
-
-02- Drill-H type
-
-03- Drill-S type
-
-04- 3 Jaw self centering
-
-05- 4 Jaw independent
-
-06- Electromagnetic
-
-07- 4 Jaw self centering
-
-10- Quick change
-
-11- Auto lock
-
-12- Clare for drilling
-
-13- Clare for boring
-
-14- Clare Flange mounting
-
-15- Clare Reducer type
-
-16- Clare Rigigrip
-
+|684    |XX     |           |XX  |
+.84+|    .2+|01  .2+|Sockets    |01  |Extension, morse taper
+|02     |Extension for Turret lathes
+.2+|03  .2+|Sleeves    |01  |Reduction, morse taper
+|02     |For quick change chucks
+.15+|05 .15+|Collets    |01  |Collets for Ward 8
+|02 |Collets for Ward 11
+|03 |Collets for Ward 14
+|11 |Collets for Milling m/c ISO: 30
+|12 |Collets for Milling m/c ISO 40
+|13 |Collets for Milling m/c ISO: 50
+|14 |Collets for Milling m/c ISO: 60
+|21 |Collets for Cylindrical grinding m/c
+|31 |Collets for Cutter grinders
+|35 |Collets for quick change
+|36 |Collet for Auto lock chucks
+|37 |Parallel bore collets for clare chucks
+|38 |MT bore collets for clare chucks
+|39 |Collet for tapping attachment
+|40 |Collet for deep hole drilling m/c.
+.14+|07 .14+|Holders |01    |For shell drills/reamers
+|02 |For shell taps
+|03 |Floating for reamers
+|04 |For boring tools
+|05 |For spot facing tools
+|06 |For counter boring cutters
+|07 |For spade drills
+|08 |For cardinal type counter boring cutters
+|09 |Boring and Facing
+|10 |Micro boring head
+|11 |Double sided spot facing attachment
+|12 |Micro boring bar
+|13 |Star wheel dresser
+|14 |End mills
+.7+|09 .7+|Centres |01 |Dead. Full Hardened
+|02 |Dead. Full Hardened, Carbide tipped
+|03 |Dead, Half, Hardened
+|04 |Dead, Half, Hardened, Carbide tipped
+|08 |Revolving (live)
+|11 |Pipe, revolving
+|12 |Centering plug
+.8+|11 .8+|Adopters |01   |For collets-milling
+|02 |For collets-grinding
+|11 |For morse taper-milling
+|12 |For morse taper-Grinding
+|21 |Drilling for Asguith tapping attachment
+|26 |Tapping for Asguith tapping attachment
+|27 |Tapping for SPV attachment
+|28 |Tapping for Czech design
+.5+|13 .5+|Arbors |01  |Milling with self-release taper
+|02 |Milling with MT
+|05 |Stub with self-release taper
+|06 |Stub with MT
+|11 |For drill chucks
+.14+|15 .14+|Chucks |01 |Drill-L type
+|02 |Drill-H type
+|03 |Drill-S type
+|04 |3 Jaw self centering
+|05 |4 Jaw independent
+|06 |Electromagnetic
+|07 |4 Jaw self centering
+|10 |Quick change
+|11 |Auto lock
+|12 |Clare for drilling
+|13 |Clare for boring
+|14 |Clare Flange mounting
+|15 |Clare Reducer type
+|16 |Clare Rigigrip
+.2+|17 .2+|Tapping attachment |01   |Reversible
+|02 |Non-reversible
+|19 |Drill drifts 2+|00
+.2+|20 .2+|Lathe carrier |01  |Bent tail type
+|02 |Straight tail type
+|21 |Compensating cotter (locking wedge) 2.4+|00
+|22 |Drill chuck key
+|23 |Square socket key
+|29 |Tap adaptor quick change Bilz
+|99 |Spare for M/C tool Accessories |01 |Locking pins for Cardinal type counter boring cutters.
 |===
 
-Standard Tools
-
-==== 684 - Accessories/ Auxiliaries for Machine Tools
-
-[width="99%",cols="7%,5%,36%,52%",options="header",]
-|===
-|684 |XX | |XX
-| |17 |Tapping attachment a|
-01- Reversible
-
-02- Non-reversible
-
-| |19 |Drill drifts |00
-| |20 |Lathe carrier a|
-01- Bent tail type
-
-02- Straight tail type
-
-| |21 |Compensating cotter (locking wedge) |00
-| |22 |Drill chuck key |00
-| |23 |Square socket key |00
-| |29 |Tap adaptor quick change Bilz |00
-| |99 |Spare for M/C tool Accessories |01-Locking pins for Cardinal type counter boring cutters.
-|===
-
-==== 690 - Tube Expanders
+== 690 - Tube Expanders
 
 [width="10%",cols="54%,46%",options="header",]
 |===
 |690 |XX
-| |00
+|   |00
 |===
 
-==== 691 - Press Tools
+== 691 - Press Tools
 
 [width="37%",cols="16%,13%,71%",options="header",]
 |===
 |691 |XX |
-| |01 |Blanking Dies
-| |02 |Compound Dies
-| |03 |Notching Dies
-| |04 |Ceramic Tile Pressing Dies
+.4+| |01 |Blanking Dies
+|02 |Compound Dies
+|03 |Notching Dies
+|04 |Ceramic Tile Pressing Dies
 |===
