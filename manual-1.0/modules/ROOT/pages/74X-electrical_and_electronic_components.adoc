@@ -1,0 +1,160 @@
+= 7 4 X X X for Electrical / Electronic Components
+
+== The Structure
+
+image:media/image24.png[media/image24,width=601,height=458]
+
+== Details of the Scheme
+
+74 001 to 74 500 - Electrical Components
+
+74 501 to 74 599 - Free Zone
+
+(To be allotted in ascending order from 501 for Electrical Components and in descending order from 599 for Electronic components)
+
+74 600 to 74 999 - Electronic Components
+
+[width="99%",cols="6%,3%,91%",]
+|===
+|74 |0 |Equipment for Generation, Transmission and Conversion of electric power
+|   |1 |Equipment for Utilization of Electric Power
+|   |2 |Distribution circuit devices and circuit elements
+|   |3 |Conducting and connecting devices
+|   |6 |Resistors, Capacitors, Diodes, Transistors, Thyristors, Electronic Hardware (Rack), Integrated Circuits, Electronic, Modules, Optoelectronic Devices, Potentiometer, Trimpot
+|   |7 |Electronic Modules
+|   |8 |Electronic components
+|   |9 |Electrical and Electronic components (Temperature switches, pressure switches etc.)
+|===
+
+== Components
+
+[width="100%",cols="3%,6%,31%,60%",options="header",]
+|===
+|74 |001        2+|Tacho generators
+.150+| |011     2+|D cells and D batteries
+|012    2+|Liquid cells and batteries
+|014    2+|Accumulators
+|020    2+|Power Converter (AC to DC, DC to AC, DC to DC, AC to AC)
+|030    2+|Transformer-Power, above 5 kVA
+|031    2+|Transformer-Control/Power, U to & including 5 kVA
+|032    2+|Transformer-Current
+|034    2+|Transformer-Pulse
+|035    2+|Transformer-Synchronizing
+|036    2+|Auto Transformer
+|040    2+|Chokes Inductors
+|099    2+|Low Power Filter
+|101    2+|Signal lamp assembly
+|102    2+|Lamps, fluorescent tubes and fittings
+|131    2+|Fans and Blowers
+|159    2+|Heaters
+|162    2+|AC. Single Phase Induction Motors
+|163    2+|Universal Motors
+|165    2+|3 Phase AC. Squirrel Cage Motors
+|166    2+|3 Phase AC. Slip Ring Motors
+|167    2+|Synchronous Motors
+|169    2+|DC. Motors
+|182    2+|Motor Starters
+|190    2+|Audio Alarm Devices-Bells, Buzzers, Hooters, Sirens, etc.
+|195    2+|Toggle / Tumbler Switches
+|196    2+|Knife Switches & Isolators
+|197    2+|Limit / Door / Micro / Mercury Foot switches
+|198    2+|Rotary Switches
+|199    2+|Programmable / Cam operated switches
+|200    2+|Heavy duty & Motor duty Switches
+|201    2+|Master controller / Cam controller
+|203    2+|Switch Fuse Units
+|204    2+|Push Buttons
+|205    2+|Circuit Breakers - Miniature
+|206    2+|Circuit Breakers - Moulded case and/or Motor Protection
+|207    2+|Circuit Breakers - Conventional and Current limiting
+|208    2+|Circuit Breakers - H.T.
+|214    2+|Contactor - L.T. Air break, Electromagnetic for A.C. system
+|216    2+|Contactor - L.T. Air break, Electromagnetic for D.C. system
+|217    2+|Contactor - H.T. Air break, Electro magnetic
+|218    2+|Contactor - LT. Vacuum
+|219    2+|Contactor - H.T. Vacuum
+|220    2+|Contactor-Electro-Pneumatic for A.C. and D.C. systems
+|223    2+|Auxiliary Relays / Contactors
+|224    2+|Relays - Current operated, Instantaneous
+|225    2+|Relays - Current operated, Inverse time with or without Instantaneous unit
+|227    2+|Relays - Current operated, Definite time delay
+|228    2+|Relays - Bimetallic and Motor protection
+|229    2+|Relays - Voltage
+|230    2+|Relays - Differential Protection
+|231    2+|Relays - Distance Protection
+|232    2+|Relays - Reed type
+|233    2+|Relays - Solid state
+|234    2+|Relays - Miscellaneous
+|235    2+|Alarm Annunciators
+|237    2+|Timers
+|251    2+|Ammeters
+|252    2+|Multimeter
+|253    2+|Voltmeters
+|254    2+|Watt meters
+|255    2+|Energy Meters
+|257    2+|VAR Meters
+|258    2+|PF Meters
+|259    2+|Frequency Meters
+|260    2+|Meters (Mechanical parameters Speed RPM, Synchroscope)
+|282    2+|Shunts
+|286    2+|Solenoids
+|312    2+|Glass Cartridge Fuses
+|313    2+|D Type Cartridge Fuses
+|314    2+|I-IRC Fuses - Std. duty and Isolating links
+|315    2+|I-IRC Fuses - Motor duty
+|316    2+|HRC Fuses - For Semi-conductors
+|321    2+|Fuse Fittings
+|331    2+|Terminal ends/Cable lugs - Soldering/ Crimping type
+|332    2+|Cable glands
+|333    2+|Plugs, Sockets, Unions & Other fittings
+|334    2+|Terminal Blocks
+|335    2+|Cable Markers/Ferrules
+|336    2+|Cable Channel Racks, Flexible conduits, Wiring cleats, Cable straps, Clamps, etc.
+|580    2+|Computer Accessories
+|599    2+|Information Technology Items (Printer, Scanner, LCD / LED Displays, Console)
+|600 .11+|Resistors |Carbon film, fixed
+|601 |Metal film, fixed
+|603 |Wire wound, fixed, axial
+|604 |Wire wound, fixed, radial
+|606 |Wire wound, adjustable
+|608 |Potentiometer, current
+|609 |Potentiometer, wire wound
+|610 |Trimpot. Wire wound
+|611 |Trimpot, current
+|614 |Special purpose Resistors
+|634 |Special purpose Resistors – High power applications
+|635 .7+|Capacitors |Ceramic
+|636 |Metallized Polyester
+|638 |Polystyrene (Styroflex)
+|641 |Paper Dielectric
+|643 |Electrolytic, Tantalum
+|645 |Electrolytic. Aluminium
+|649 |High power Capacitors
+|651 |Diodes |
+|656 |Transistors |
+|661 .4+|Thyristors |Converter Grade, BHEL make Thyristors
+|662 |Inverter Grade, BHEL make
+|663 |Converter Grade, other than BHEL make
+|664 |Inverter Grade, other than BHEL make
+|670 |ICs |Linear ICs
+|672 .5+| |Interface ICs
+|673 |Digital ICs
+|674 |Memory ICs
+|675 |Microprocessor ICs
+|677 |Special purpose ICs
+|680 |Optoelectronic components |Photo Transistors, photodiodes, LED, LDR, Optocouplers
+|681 |Optoelectronic accessories |Optical transmitters, receivers, Flore cables, etc.
+|690 .5+|Electronic Hardware (Rack) |Surge suppressors
+|691 |Electronic hardware
+|694 |Racks & Rack hardware
+|695 |Heat sink extrusions/castings
+|696 |Heat sinks
+|701 .5+|Electronic Modules |Electronic modules, fixed
+|702 |Electronic modules, flexible, Network Cables / Switches / Devices
+|703 |Electronic sub-assemblies
+|707 |Power modules, Thystack BHEL make
+|710 |Power modules, Thystack
+|801 | |Probes, Patch Cards, Interface Cables, Bus Cables & Connectors
+|811 | |PCB
+|812 | |Electronic components (not classified above)
+|===

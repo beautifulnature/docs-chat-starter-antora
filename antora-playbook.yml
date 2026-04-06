@@ -1,14 +1,14 @@
 site:
   title: UMCD Manual
-  start_page: manual::manual.adoc
+  start_page: manual::index.adoc
 content:
   sources:
-    - url: .
-      start_path: docs
+    # - url: .
+    #   start_path: docs
     - url: .
       start_path: manual-1.0
-    - url: .
-      start_path: manual-2.0
+    # - url: .
+    #   start_path: manual-2.0
 ui:
   bundle:
     # url: https://gitlab.com/antora/antora-ui-default/-/raw/master/build/ui-bundle.zip

@@ -1,5 +1,3 @@
-:leveloffset: +1
-
 = Message by Director (E, R&D)
 
 image:media/image2.jpeg[media/image2,width=145,height=217]

@@ -1,0 +1,46 @@
+= 3-Tier System
+
+== Special Features
+
+[width="94%",cols="35%,24%,41%",options="header",]
+|===
+a|
+CORPORATE CODES
+
+(Materials Rationalized at Corporate level)
+
+|АА 1 Х Х Х Х Х Х Х Х Х |METALS
+.4+| |АА 2 Х Х Х Х Х Х Х Х Х |INSULATING MATERIALS
+|АА 5 Х Х Х Х Х Х Х Х Х |NON-METALS
+|АА 6 Х Х Х Х Х Х Х Х Х |STANDARD TOOLS
+|АА 7 Х Х Х Х Х Х Х Х Х |STANDARD COMPONENTS
+.7+a|
+PLANT CODES
+
+(Exclusive plant materials)
+
+|НY 1 Х Х Х Х Х Х Х Х Х |RAW METALS
+|НY 2 Х Х Х Х Х Х Х Х Х |INSULATING MATERIALS
+|НY 5 Х Х Х Х Х Х Х Х Х |NON-METALS
+|НY 6 Х Х Х Х Х Х Х Х Х |STANDARD TOOLS
+|HY 7 Х Х Х Х Х Х Х Х Х |STANDARD COMPONENTS
+|НY 8 Х Х Х Х Х Х Х Х Х |MAINTENANCE SPARES
+|НY 9 Х Х Х Х Х Х Х Х Х |PLANT STYLED COMPONENTS
+.10+a|
+PRODUCT CODES
+
+(Product Components i.e., Castings & Forgings,
+
+Sub-deliveries: Product Styled Components, Sub- Contracted components.)
+
+|АМ 9 Х Х Х Х Х Х Х Х Х |А.C MOTORS
+|ВА 9 Х Х Х Х Х Х Х Х Х |BOWL MILLS
+|FP 9 X X X X X X X X X |PUMPS
+|НЕ 9 Х Х Х Х Х Х Х Х Х |НЕАТ EXCHANGERS
+|HG 9 X X X X X X X X X |SYNCHRONOUS CONDENSERS
+|ОЕ 9 Х Х Х Х Х Х Х Х Х |ОIL FIELD EQUPMENT
+|SG 9 X X X X X X X X X |SWITCH GEAR
+|ST 9 X X X X X X X X X |STEAM TURBINES
+|TC 9 Х Х Х Х Х Х Х Х Х |INDUSTRIAL TURBINES COMPRESSORS
+|TG 9 X X X X X X X X X |TURВО - GENERATORS
+|===

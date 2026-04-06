@@ -1,4 +1,3 @@
-:leveloffset: +1
 = Foreword
 
 BHEL is the largest engineering and manufacturing organization in the Power, Industrial, transportation systems, transmission systems, renewables and services sectors. 

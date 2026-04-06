@@ -1,0 +1,41 @@
+:leveloffset: +1
+
+= Integrated Material Code / Standard / Specification Numbering
+
+== Special Features
+
+12-Digit Material Code
+
+image:media/image32.png[media/image32,width=602,height=154]
+
+9-Digit Standard Number
+
+image:media/image33.png[media/image33,width=598,height=152]
+
+7-Digit Specification Number
+
+image:media/image34.png[media/image34,width=609,height=156]
+
+== Raw Materials
+
+Details of the Integrated Numbering
+
+12-Digit Code Number
+
+image:media/image35.png[media/image35,width=572,height=213]
+
+7-Digit Raw Material Standard Number
+
+image:media/image36.png[media/image36,width=573,height=216]
+
+== Standard Items
+
+Details of the Integrated Numbering
+
+12-Digit Material Code Number
+
+image:media/image37.png[media/image37,width=545,height=184]
+
+9-Digit Standard Number
+
+image:media/image38.png[media/image38,width=545,height=184]

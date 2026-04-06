@@ -16,34 +16,50 @@ Date: 23-10-2024
 
 *Hyderabad- 500 042*
 
-include::message.adoc[]
+include::message.adoc[leveloffset=+1]
 
-include::executive_summary.adoc[]
+include::executive_summary.adoc[leveloffset=+1]
 
-include::foreward.adoc[]
+include::foreward.adoc[leveloffset=+1]
 
-include::preface.adoc[]
+include::preface.adoc[leveloffset=+1]
 
-include::code_definition.adoc[]
+include::code_definition.adoc[leveloffset=+1]
 
-include::standardization_objectives.adoc[]
+include::standardization_objectives.adoc[leveloffset=+1]
 
-include::introduction.adoc[]
+include::introduction.adoc[leveloffset=+1]
 
-include::standardisation_pyramid.adoc[]
+include::standardisation_pyramid.adoc[leveloffset=+1]
 
-include::12digit_schema.adoc[]
+include::12digit_schema.adoc[leveloffset=+1]
 
-include::alpha_prefixes.adoc[]
+include::alpha_prefixes.adoc[leveloffset=+1]
 
-include::primary_category.adoc[]
+include::primary_category.adoc[leveloffset=+1]
 
-include::metals.adoc[]
+include::metals.adoc[leveloffset=+1]
 
-include::insulating_materials.adoc[]
+include::insulating_materials.adoc[leveloffset=+1]
 
-include::capital_goods.adoc[]
+include::capital_goods.adoc[leveloffset=+1]
 
-include::non-metals.adoc[]
+include::non-metals.adoc[leveloffset=+1]
 
-include::standard_tools.adoc[]
+include::standard_tools.adoc[leveloffset=+1]
+
+include::standard_items.adoc[leveloffset=+1]
+
+include::maintenance_spares.adoc[leveloffset=+1]
+
+include::product_components.adoc[leveloffset=+1]
+
+include::significant_features.adoc[leveloffset=+1]
+
+include::3-Tier_System.adoc[leveloffset=+1]
+
+include::check-digit.adoc[leveloffset=+1]
+
+include::material_codification.adoc[leveloffset=+1]
+
+include::conclusion.adoc[leveloffset=+1]

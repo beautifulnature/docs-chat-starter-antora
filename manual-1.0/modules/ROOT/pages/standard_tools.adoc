@@ -1,4 +1,3 @@
-:leveloffset: +1
 = Standard Tools
 
 == The Structure
@@ -16,8 +15,6 @@ image:media/image15.png[media/image15,width=601,height=458]
 |6 |8 |Accessories for Machine Tools, Process assisting attachments, Portable Hand Machines, Special Trade Tools / Kits etc.
 |6 |9 |Tooling element for special purpose tools, Miscellaneous (Tube expander etc.)
 |===
-
-Standard Tools
 
 == Basic Category
 
@@ -161,7 +158,7 @@ image:media/image16.png[media/image16,width=605,height=102]
 [width="100%",cols="3%,3%,50%,4%,40%",options="header",]
 |===
 |614 |XX | 2+|XX
-.36+|   |01 |Engineers screw drivers round shank            2.34+|00
+.37+|   |01 |Engineers screw drivers round shank            2.34+|00
 |03 |Electrician's screw driver light duty plastic handle
 |05 |Flat blade screw driver (London Pattern)
 |10 |Screw drivers for recessed head screws
@@ -200,8 +197,6 @@ image:media/image16.png[media/image16,width=605,height=102]
 |02 |Accessories for Sq. Drive Sockets (Hand operated)
 |03 |Accessories for Sq. Drive Sockets (Hand operated) (Power operated)
 |===
-
-Standard Tools
 
 == 616 - Pliers, Pincers, Wires & Cable Strippers, Knives
 
@@ -342,7 +337,7 @@ Note: Size codes for Bastard, second cut & smooth files are allotted serially
 [width="100%",cols="3%,36%,38%,23%",options="header",]
 |===
 |626 |XX |X (Type) |X (Material)
-| a|01 - ISO 1 Straight turning tool 
+.12+| a|01 - ISO 1 Straight turning tool 
 
 02 - ISO 2 Cranked turning and facing tool
 
@@ -452,8 +447,8 @@ a|
 
 7-Carbide Gr. K
 
-| |XX |X (Type) |X (Material)
-| |70 - Tool Blank  .2+|0   .2+|
+|XX |X (Type) |X (Material)
+|70 - Tool Blank  .2+|0   .2+|
 1-AISI M2 HSS Plain
 
 2-AISI M42 HSS with Co
@@ -462,8 +457,8 @@ a|
 
 4-ASP 60 HSS with Co
 
-| |71 - HSS Bits
-| |72 - Carbide Tips a|
+|71 - HSS Bits
+|72 - Carbide Tips a|
 1-Type A
 
 2-TypeB
@@ -478,7 +473,7 @@ a|
 
 9-Special Type  |0
 
-| |73 - Indexable inserts plain, positive rake .5+a|
+|73 - Indexable inserts plain, positive rake .5+a|
 1-Without chip breakers
 
 3-with chip breakers on one side
@@ -486,12 +481,12 @@ a|
 5-with chip breaker on both sides
 
 .5+|0
-| |74 - Indexable inserts plain, negative rake
-| |75 - Indexable inserts with hole
-| |76 - Indexable inserts with high {plus}ve rake
-| |98 - Micro bore cartridges & full units
-| |XX |X |X
-| |99 - Spares a|
+|74 - Indexable inserts plain, negative rake
+|75 - Indexable inserts with hole
+|76 - Indexable inserts with high {plus}ve rake
+|98 - Micro bore cartridges & full units
+|XX |X |X
+|99 - Spares a|
 0-Interchangeable
 
 1-M/S Sandvik
@@ -505,7 +500,7 @@ a|
 
 |===
 
-Note: LH, RH shall be given alternatively in the size code
+NOTE: LH, RH shall be given alternatively in the size code
 
 == 627 - Milling Adopter
 
@@ -515,9 +510,7 @@ Note: LH, RH shall be given alternatively in the size code
 | |00
 |===
 
-Standard Tools
-
-==== 628 - Milling Cutters (including Indexable Type)
+== 628 - Milling Cutters (including Indexable Type)
 
 [width="100%",cols="8%,4%,36%,29%,23%",options="header",]
 |===
@@ -529,7 +522,7 @@ away type along with hand of
 cutting)
 
 |X (Grade of material)
-.13+| |01 |Cylindrical cutters .13+a|
+.44+| |01 |Cylindrical cutters .40+a|
 1-HSS, RH/No Hand
 
 2-Carbide tipped, RH/No hand
@@ -544,7 +537,7 @@ cutting)
 
 9-Solid Carbide
 
-.13+a|
+.40+a|
 0-Material not specified
 
 1-HSS, Tool-Type N
@@ -571,58 +564,42 @@ cutting)
 |11 |Single corner rounding cutters
 |12 |Face mills
 |13 |Spline milling cutter
-| |14 |Face mills wide pitch 45° | |
-| |18 |Slitting saws, fine pitch | |
-| |19 |Slitting saws coarse Pitch | |
-| |20 |Slitting saws, with side chip clearance staggered teeth | |
-| |21 |Slitting saws, with side chip clearance straight teeth | |
-| |22 |Slitting saws for special applications | |
-| |24 |Screw slotting saws | |
-| |30 |Shell end mills/Square shoulder face mills | |
-| |31 |50 shell end single angle cutters | |
-| |34 |End mills Super-N parallel shank | |
-| |35 |End mills, parallel shank | |
-| |36 |End mills, Morse taper shank, tanged end | |
-| |37 |End mills, Morse taper shank, tanged end | |
-| |38 |End mills, Screwed shank (auto lock) | |
-| |39 |End mills, clear shank | |
-| |43 |Slot milling cutters parallel shank | |
-| |44 |Slot milling cutters morse taper shank, tanged end | |
-| |45 |Slot drills, morse taper shank, tapped end | |
-| |46 |Slot drills, Screwed shank (auto lock) | |
-| |47 |Slot drills Clare shank | |
-|===
-
-Standard Tools
-
-==== 628 - Milling Cutters (including Indexable Type)
-
-[width="96%",cols="7%,5%,32%,32%,24%",options="header",]
-|===
-|628 |XX |Type a|
-X (HSS / Carbide tipped / Throw
-
-away type along with hand of
-
-cutting)
-
-|X (Grade of material)
-| |51 |T-Slot cutters parallel shank | |
-| |52 |T-Slot cutters, morse taper shank tapped end | |
-| |55 |Dovetail cutters types) | |
-| |56 |Wood-ruff key slot cutters (all types) | |
-| |57 |Die sinking cutters (Spherical) | |
-| |58 |Deep shoulder Mills shell type | |
-| |59 |Deep shoulder Mills Integral shank | |
-| | | |X (Type) |X
-| |73 |Indexable inserts a|
+|14 |Face mills wide pitch 45°
+|18 |Slitting saws, fine pitch
+|19 |Slitting saws coarse Pitch
+|20 |Slitting saws, with side chip clearance staggered teeth
+|21 |Slitting saws, with side chip clearance straight teeth
+|22 |Slitting saws for special applications
+|24 |Screw slotting saws
+|30 |Shell end mills/Square shoulder face mills
+|31 |50 shell end single angle cutters
+|34 |End mills Super-N parallel shank
+|35 |End mills, parallel shank
+|36 |End mills, Morse taper shank, tanged end
+|37 |End mills, Morse taper shank, tanged end
+|38 |End mills, Screwed shank (auto lock)
+|39 |End mills, clear shank
+|43 |Slot milling cutters parallel shank
+|44 |Slot milling cutters morse taper shank, tanged end
+|45 |Slot drills, morse taper shank, tapped end
+|46 |Slot drills, Screwed shank (auto lock)
+|47 |Slot drills Clare shank
+|51 |T-Slot cutters parallel shank
+|52 |T-Slot cutters, morse taper shank tapped end
+|55 |Dovetail cutters types
+|56 |Wood-ruff key slot cutters (all types)
+|57 |Die sinking cutters (Spherical)
+|58 |Deep shoulder Mills shell type
+|59 |Deep shoulder Mills Integral shank
+| | |X (Type) |X
+|73 |Indexable inserts a|
 1-Triangular
 
 2-Square
 
 |0
-| | | |X |X (Supplier's ref)
-| |99 |Spares / Accessories |0-Indexable milling cutters a|
+| | |X |X (Supplier's ref)
+|99 |Spares / Accessories |0-Indexable milling cutters a|
 0-Interchangeable
 
 1-M/S Sandvik
@@ -633,9 +610,9 @@ cutting)
 
 |===
 
-Note: In sizes Sub-code 01 to 30 is reserved for standard (Short) series whereas sub-code 31 to 59 is reserved for long series
+NOTE: In sizes Sub-code 01 to 30 is reserved for standard (Short) series whereas sub-code 31 to 59 is reserved for long series
 
-==== 629 - Gear Cutting Tools (Hobs, Invo. cutters, Shaping cutters)
+== 629 - Gear Cutting Tools (Hobs, Invo. cutters, Shaping cutters)
 
 [width="73%",cols="10%,6%,40%,12%,32%",options="header",]
 |===
@@ -659,14 +636,12 @@ Note: In sizes Sub-code 01 to 30 is reserved for standard (Short) series whereas
 
 |===
 
-Standard Tools
-
-==== 631 - Drills
+== 631 - Drills
 
 [width="100%",cols="9%,5%,24%,22%,40%",options="header",]
 |===
 |631 |XX |Type |X (Material) |X (Size range / sub-type)
-| |01 |Twist, RH, Parallel Shank jobber (Short) .10+a|
+.18+| |01 |Twist, RH, Parallel Shank jobber (Short) .10+a|
 1 -HSS, Tool type N
 
 2 - HSS, Tool type H
@@ -684,9 +659,9 @@ a|
 
 3-Above 5 up to & including 20 mm dia.
 
-| |03 |Twist, RH, Parallel Shank, long |1-Upto 10mm dia.
-| |04 |Twist, RH, Parallel Shank, Extra Long |1- Up to 10mm dia.
-| |06 |Twist, RH, Parallel Shank, Taper pin .3+a|
+|03 |Twist, RH, Parallel Shank, long |1-Upto 10mm dia.
+|04 |Twist, RH, Parallel Shank, Extra Long |1- Up to 10mm dia.
+|06 |Twist, RH, Parallel Shank, Taper pin .3+a|
 0-No size range
 
 1-Upto 12 mm dia.
@@ -697,9 +672,9 @@ a|
 
 7-above 40 mm up to & Including 100 mm dia.
 
-| |20 |Twist, RH, Taper shank
-| |21 |Twist, RH Taper shank Long series
-| |22 |Twist, RH, Taper shank Extra long a|
+|20 |Twist, RH, Taper shank
+|21 |Twist, RH Taper shank Long series
+|22 |Twist, RH, Taper shank Extra long a|
 0-No size range
 
 1-Upto 13 mm dia.
@@ -710,9 +685,9 @@ a|
 
 7-above 31 mm dia.
 
-| |24 |Twist. RH, Taper shank, Taper pin |0
-| |25 |Core Drills, parallel shank |0
-| |26 |Core Drills-MT Shank a|
+|24 |Twist. RH, Taper shank, Taper pin |0
+|25 |Core Drills, parallel shank |0
+|26 |Core Drills-MT Shank a|
 0-No size range
 
 1-upto 20 mm dia.
@@ -721,9 +696,9 @@ a|
 
 3-Above 50 mm dia.
 
-| |27 |Gun Drills |0 |0
-| |28 |BTA Drill head |0 |0
-| |30 |Centre Drills .5+a|
+|27 |Gun Drills |0 |0
+|28 |BTA Drill head |0 |0
+|30 |Centre Drills .5+a|
 1-HSS tool type N
 
 2 HSS tool type H
@@ -743,7 +718,7 @@ a|
 
 3-Type-D (all sizes)
 
-| |35 |Shell core Drills .4+a|
+|35 |Shell core Drills .4+a|
 0-All sizes
 
 1-Parallel shank without pilot
@@ -762,10 +737,10 @@ a|
 
 8-Cardinal Type
 
-| |37 |Spot facing cutters
-| |38 |Counter bores
-| |39 |Counter sinking cutters
-| |99 |Spares / Accessories a|
+|37 |Spot facing cutters
+|38 |Counter bores
+|39 |Counter sinking cutters
+|99 |Spares / Accessories a|
 0-Material not specified
 
 1-HSS
@@ -779,14 +754,12 @@ a|
 
 |===
 
-Standard Tools
-
-==== 632 - Reamers
+== 632 - Reamers
 
 [width="100%",cols="7%,5%,25%,30%,33%",options="header",]
 |===
 |632 |XX |Type |X (Type of shank flutes) |X (Material & Tolerance class)
-| |01 |Parallel, Hand .17+a|
+.19+| |01 |Parallel, Hand .17+a|
 1 -Parallel shank, Straight fluted
 
 2-Parallel shank, Helical fluted
@@ -816,24 +789,24 @@ Standard Tools
 
 9-Reserved for H8 holes in inch sizes
 
-| |02 |Parallel, Machine (long fluted)
-| |11 |Taper Pin, Hand
-| |12 |Taper Pin, Machine
-| |13 |Socket, Hand
-| |14 |Socket, Machine
-| |23 |Shell
-| |25 |Machine Bridge
-| |27 |Machine Jig
-| |28 |Quick spiral fluted reamers
-| |29 |Adjustable, Hand
-| |30 |Adjustable, Machine
-| |31 |Floating, machine
-| |34 |Chucking, Parallel
-| |35 |Chucking, M.T. shank
-| |37 |Hole mills, unguided
-| |38 |Hole mills, guided
-| | | 2+|XX
-| |99 |Spares /Accessories 2+a|
+|02 |Parallel, Machine (long fluted)
+|11 |Taper Pin, Hand
+|12 |Taper Pin, Machine
+|13 |Socket, Hand
+|14 |Socket, Machine
+|23 |Shell
+|25 |Machine Bridge
+|27 |Machine Jig
+|28 |Quick spiral fluted reamers
+|29 |Adjustable, Hand
+|30 |Adjustable, Machine
+|31 |Floating, machine
+|34 |Chucking, Parallel
+|35 |Chucking, M.T. shank
+|37 |Hole mills, unguided
+|38 |Hole mills, guided
+| | 2+|XX
+|99 |Spares /Accessories 2+a|
 01 -Spare blades for hand adjustment reamers, HSS
 
 03-Spare blades for M/C adjustment reamers, HSS
@@ -846,95 +819,79 @@ Standard Tools
 
 |===
 
-Standard Tools
+== 633 - Taps (Threading)
 
-==== 633 - Taps (Threading)
-
-[width="96%",cols="9%,5%,43%,26%,3%,14%",options="header",]
+[width="100%",cols="3%,3%,49%,45%",options="header",]
 |===
-|633 |XX |Type 2+|X (Type of shank flutes) |
-| |01 |Hand, HSS, Ground thread .5+a|
-01-Metric fine
+|633 |XX |Type |X (Type of shank flutes)
+.34+| |01 |Hand, HSS, Ground thread .32+a|
+01-Metric fine (to produce threads of tolerance class 6H)
 
-03-Metric, coarse
+03-Metric, coarse (to produce threads of tolerance class 6H)
 
-07-Pipe. Parallel
+07-Pipe. Parallel (to produce threads of tolerance class 6H)
 
-09-Pipe, Taper
+09-Pipe, Taper (to produce threads of tolerance class 6H)
 
-.5+| .5+|to produce threads of tolerance class 6H
-| |06 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type A Non-Serial
-| |07 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type B Non-Serial
-| |08 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type C Non-Serial
-| |09 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type A Serial
-| |10 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type B Serial .5+a|
-11-Metric, Fine
+11-Metric, Fine (to produce threads of tolerance class 4H)
 
-13-Metric, coarse
+13-Metric, coarse (to produce threads of tolerance class 4H)
 
-15-Metric, Constant Pitch
+15-Metric, Constant Pitch (to produce threads of tolerance class 4H)
 
-17-Pipe, parallel
+17-Pipe, parallel (to produce threads of tolerance class 4H)
 
-19-Pipe, taper
+19-Pipe, taper (to produce threads of tolerance class 4H)
 
-.5+| .5+|to produce threads of tolerance class 4H
-| |11 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type C Serial
-| |12 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type A Non-Serial
-| |13 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type B Non-Serial
-| |14 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type C Non-Serial
-| |15 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type A Serial .5+a|
-21-Metric, fine
+21-Metric, fine (to produce threads of tolerance class 7H)
 
-23-Metric, Coarse
+23-Metric, Coarse (to produce threads of tolerance class 7H)
 
-25-Metric, Constant Pitch
+25-Metric, Constant Pitch (to produce threads of tolerance class 7H)
 
-27-Pipe, parallel
+27-Pipe, parallel (to produce threads of tolerance class 7H)
 
-29-Pipe, taper
+29-Pipe, taper (to produce threads of tolerance class 7H)
 
-.5+| .5+|to produce threads of tolerance class 7H
-| |16 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type B Serial
-| |17 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type C Serial
-| |18 |Hand/short machine, spiral fluted, HSS, ground thread. RH Type A Non-Serial
-.2+| .2+|19 .2+|Hand/short machine, spiral fluted, HSS, ground thread. RH Type B Non-Serial
-2.10+a|
 70-NPT
 
 98-UNF
 
 99-UNC
 
-.10+|
-| |20 |Hand/short machine, spiral fluted, HSS, ground thread. RH Type C Non-Serial
-| |21 |Hand/short machine, spiral fluted, HSS, ground thread LH Type A Serial
-| |22 |Hand/short machine, spiral fluted, HSS, ground thread. LH Type B Serial
-| |23 |Hand/short machine, spiral fluted, HSS, ground thread. LH Type C Serial
-| |24 |Long shank machine straight fluted HSS ground thread (M3-M24) RH
-| |25 |Long shank spiral fluted HSS ground thread RH
-| |26 |Long shank machine straight fluted HSS ground thread (M30-M64)
-| |27 |Hollow taps
-| |36 |Nut, Straight Fluted, RH, HSS Ground thread
-| |37 |Nut, Straight Fluted, LH, HSS Ground thread 2+| |
-| |38 |Nut, Spiral Fluted, RH, HSS Ground thread 2+| |
-|===
-
-Standard Tools
-
-==== 633 - Taps (Threading)
-
-[width="96%",cols="9%,5%,43%,29%,14%",options="header",]
-|===
-|633 |XX |Type |X (Type of shank flutes) |
-| |39 |Nut, Spiral Fluted LH, HSS, Ground thread | |
-| |51 |Shell type | |
-| |52 |Helicoil Tap | |
-| |53 |Spiral pointed (Gun pointed) | |
-| |54 |Tap HSS steel conduit thread (pg) | |
-| |98 |HSS ground thread Hand Tap (BS 949) | |
-| | | |XX |
-| |99 |Spares / Accessories 2+a|
+|06 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type A Non-Serial
+|07 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type B Non-Serial
+|08 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type C Non-Serial
+|09 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type A Serial
+|10 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type B Serial
+|11 |Hand / Short Machine, Straight fluted, HSS, ground thread. RH Type C Serial
+|12 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type A Non-Serial
+|13 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type B Non-Serial
+|14 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type C Non-Serial
+|15 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type A Serial
+|16 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type B Serial
+|17 |Hand / Short Machine, Straight fluted, HSS, ground thread. LH Type C Serial
+|18 |Hand/short machine, spiral fluted, HSS, ground thread. RH Type A Non-Serial
+|19 |Hand/short machine, spiral fluted, HSS, ground thread. RH Type B Non-Serial
+|20 |Hand/short machine, spiral fluted, HSS, ground thread. RH Type C Non-Serial
+|21 |Hand/short machine, spiral fluted, HSS, ground thread LH Type A Serial
+|22 |Hand/short machine, spiral fluted, HSS, ground thread. LH Type B Serial
+|23 |Hand/short machine, spiral fluted, HSS, ground thread. LH Type C Serial
+|24 |Long shank machine straight fluted HSS ground thread (M3-M24) RH
+|25 |Long shank spiral fluted HSS ground thread RH
+|26 |Long shank machine straight fluted HSS ground thread (M30-M64)
+|27 |Hollow taps
+|36 |Nut, Straight Fluted, RH, HSS Ground thread
+|37 |Nut, Straight Fluted, LH, HSS Ground thread
+|38 |Nut, Spiral Fluted, RH, HSS Ground thread
+|39 |Nut, Spiral Fluted LH, HSS, Ground thread
+|51 |Shell type
+|52 |Helicoil Tap
+|53 |Spiral pointed (Gun pointed)
+|54 |Tap HSS steel conduit thread (pg)
+|98 |HSS ground thread Hand Tap (BS 949)
+| | |XX
+|99 |Spares / Accessories a|
 05-Tap wrenches, Adj. Type
 
 06-Tap wrenches, Single arm
@@ -945,12 +902,12 @@ Standard Tools
 
 |===
 
-==== 634 - Dies (Threading)
+== 634 - Dies (Threading)
 
 [width="91%",cols="9%,5%,45%,41%",options="header",]
 |===
 |634 |XX |Type |XX (Thread from)
-| |01 |RH, Split (Type A) HSS, Ground Thread .21+a|
+.23+| |01 |RH, Split (Type A) HSS, Ground Thread .21+a|
 01 - Metric, Fine
 
 03 - Metric, coarse
@@ -963,38 +920,36 @@ Standard Tools
 
 70 to 99 - Reserved for inch threads
 
-| |02 |RH, Split (Type A) HSS, Cut thread
-| |03 |RH, Split (Type A) CS, Ground Thread
-| |04 |RH, Split (Type A) CS, Cut Thread
-| |05 |RH, closed (Type B) HSS, Ground thread
-| |06 |RH, closed (Type B) HSS, Cut thread
-| |07 |RH, closed (Type B) CS, Ground thread
-| |08 |RH, closed (Type B) CS, Cut thread
-| |09 |LH, Split (Type A) HSS, Ground thread
-| |10 |LH, Split (Type A) HSS, Cut thread
-| |11 |LH, Split (Type A) CS, Ground thread
-| |12 |LH, Split (Type A) CS, Cut thread
-| |13 |LH, Closed (Type B) HSS, Ground thread
-| |14 |LH, Closed (Type B) HSS, Cut thread
-| |15 |LH, Closed (Type B) CS, Ground thread
-| |16 |LH, Closed (Type B) CS, Cut thread
-| |25 |RH, Hex, Solid (Die nut) HSS, Ground thread
-| |26 |RH, Hex, Solid (Die nut) HSS, Cut thread
-| |27 |LH, Hex Solid (Die Nut) CS, Ground thread
-| |28 |LH, Hex Solid (Die Nut) CS, Cut thread
-| |33 |Thread rolling
-| | | |XX
-| |99 |Spares / Accessories |01-Die stocks for circular screwing dies
+|02 |RH, Split (Type A) HSS, Cut thread
+|03 |RH, Split (Type A) CS, Ground Thread
+|04 |RH, Split (Type A) CS, Cut Thread
+|05 |RH, closed (Type B) HSS, Ground thread
+|06 |RH, closed (Type B) HSS, Cut thread
+|07 |RH, closed (Type B) CS, Ground thread
+|08 |RH, closed (Type B) CS, Cut thread
+|09 |LH, Split (Type A) HSS, Ground thread
+|10 |LH, Split (Type A) HSS, Cut thread
+|11 |LH, Split (Type A) CS, Ground thread
+|12 |LH, Split (Type A) CS, Cut thread
+|13 |LH, Closed (Type B) HSS, Ground thread
+|14 |LH, Closed (Type B) HSS, Cut thread
+|15 |LH, Closed (Type B) CS, Ground thread
+|16 |LH, Closed (Type B) CS, Cut thread
+|25 |RH, Hex, Solid (Die nut) HSS, Ground thread
+|26 |RH, Hex, Solid (Die nut) HSS, Cut thread
+|27 |LH, Hex Solid (Die Nut) CS, Ground thread
+|28 |LH, Hex Solid (Die Nut) CS, Cut thread
+|33 |Thread rolling
+| | |XX
+|99 |Spares / Accessories |01-Die stocks for circular screwing dies
 |===
 
-Standard Tools
+== 635 - Chasers / Blocks / Die Heads
 
-==== 635 - Chasers / Blocks / Die Heads
-
-[width="85%",cols="7%,7%,49%,37%",options="header",]
+[width="85%",cols="3%,11%,49%,37%",options="header",]
 |===
 |635 |XX |Type |XX (Thread from)
-| |01 |Radial type S, Coventry CHS .12+a|
+.14+| |01 |Radial type S, Coventry CHS .12+a|
 01 - Metric fine RH
 
 03 - Metric coarse RH
@@ -1009,19 +964,18 @@ Standard Tools
 
 99 - UNC
 
-| |02 |Radial type AM 5, Coventry CHS
-| |06 |Radial type S, Coventry CH
-| |07 |Radial type AM 5, Coventry CH
-| |16 to 20 |Blank for Efem
-| |26 to 30 |Blank for CSN
-| |36 to 40 |Circular for Namco DS
-| |51 to 65 |Blocks for Namco Die Heads
-| |66 to 70 |Tangential for Wagner Die Heads
-| |71 to 80 |Tangential for Oster Die Heads
-| |81 to 89 |Other types of chasers
-| |90 |Radial chasers
-| | | |XX
-| |99 |Spares / Accessories a|
+|02 |Radial type AM 5, Coventry CHS
+|06 |Radial type S, Coventry CH
+|07 |Radial type AM 5, Coventry CH
+|16 to 20 |Blank for Efem
+|26 to 30 |Blank for CSN
+|36 to 40 |Circular for Namco DS
+|51 to 65 |Blocks for Namco Die Heads
+|66 to 70 |Tangential for Wagner Die Heads
+|71 to 80 |Tangential for Oster Die Heads
+|81 to 89 |Other types of chasers
+|90 |Radial chasers
+|99 |Spares / Accessories a|
 01 - Coventry
 
 02 - Efem
@@ -1034,27 +988,25 @@ Standard Tools
 
 |===
 
-==== 639 - Miscellaneous cutting tools (knurling tools, rotary burrs etc.)
+== 639 - Miscellaneous cutting tools (knurling tools, rotary burrs etc.)
 
 [width="61%",cols="12%,8%,68%,12%",options="header",]
 |===
 |639 |XX |Type |XX
-| |01 |Knurling tools .6+|00
-| |02 |Knurling wheels, HSS
-| |05 |Rotary burrs-HSS
-| |06 |Reserve for Rotary burrs - HSS
-| |07 |Rotary burrs - Carbide tipped
-| |08 |Reserve for Rotary burrs - Carbide tipped
+|01 |Knurling tools .6+|00
+|02 |Knurling wheels, HSS
+|05 |Rotary burrs-HSS
+|06 |Reserve for Rotary burrs - HSS
+|07 |Rotary burrs - Carbide tipped
+|08 |Reserve for Rotary burrs - Carbide tipped
 |===
 
-Standard Tools
-
-==== 641 - Grinding Wheels
+== 641 - Grinding Wheels
 
 [width="97%",cols="8%,4%,22%,27%,17%,22%",options="header",]
 |===
 |641 |X |Type |X (Sub-Classification) |X (Abrasive material) |X (Type of bond)
-| |1 a|
+.7+| |1 a|
 Straight wheels
 
 (excluding cylindrical wheels)
@@ -1082,23 +1034,23 @@ a|
 
 5-Rubberised
 
-| |2 |Straight wheels (Cylindrical) |0
-| |4 |Recessed a|
+|2 |Straight wheels (Cylindrical) |0
+|4 |Recessed a|
 1-ROS (Recess on one side)
 
 2-RBS (Recess on both sides)
 
-| |5 |Cup a|
+|5 |Cup a|
 1-Straight
 
 2-Taper
 
-| |6 |Dish/Saucer a|
+|6 |Dish/Saucer a|
 1-Dish
 
 2-Saucer
 
-| |8 |Miscellaneous a|
+|8 |Miscellaneous a|
 1-DC. Wheels
 
 2-Segments rectangular
@@ -1111,19 +1063,19 @@ a|
 
 6-Segment Trapezoidal
 
-| |9 |Spares |9 |0 a|
+|9 |Spares |9 |0 a|
 1-Steel dresser for abrasive wheels
 
 2-Cutting wheel set for steel dressers
 
 |===
 
-==== 642 - Mounted Points
+== 642 - Mounted Points
 
 [width="79%",cols="9%,6%,32%,33%,20%",options="header",]
 |===
 |642 |XX |Type |X (Abrasive) |X (Grade)
-| |01 |Mounted point Group A .3+a|
+.3+| |01 |Mounted point Group A .3+a|
 1-Alumin. Oxide
 
 5-SiIicon Carbide
@@ -1135,8 +1087,8 @@ a|
 
 3 - Fine
 
-| |02 |Mounted point Group B
-| |03 |Mounted point Group W
+|02 |Mounted point Group B
+|03 |Mounted point Group W
 |===
 
 == 643 - Bonded and Coated Specialities
@@ -1741,7 +1693,6 @@ Blowers
 1- Conical point
 
 2- V Groove
-|
 |===
 
 == 684 - Accessories/ Auxiliaries for Machine Tools
