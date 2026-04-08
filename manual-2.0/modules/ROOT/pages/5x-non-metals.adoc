@@ -1,0 +1,78 @@
+= Non-Metals
+
+(Paints, Chemicals & Allied Materials)
+
+Details of Basic Category
+
+image:media/image14.png[media/image14,width=590,height=100]
+
+[width="99%",cols="6%,4%,90%",options="header",]
+|===
+|5 |X |
+|5 |1 |Wood, Coal & Allied Products
+|5 |2 |Clays, Stony Material
+|5 |3 |Basic Natural Materials & allied products (excluding items covered in group 51)
+|5 |4 |Chemicals – Pure (Acids, Bases, Gases etc.)
+|5 |5 |Mixed Chemicals (Rust removers / Preventives, Filling / Impregnating Compounds, Plating / Heat Treatment Salts etc.)
+|5 |6 |Paints, Varnishes & allied products
+|5 |7 |Oils, Greases & Petroleum Products
+|5 |9 |Rubber & allied products
+|===
+
+[width="100%",cols="5%,3%,3%,89%",options="header",]
+|===
+|5 |1 |X |
+|5 |1 |1 |Ply wood
+|5 |1 |2 |Seasoned Timber for pattern making, Tooling, Load bearing etc. (Timber other than packing)
+|5 |1 |4 |Coniferous Timber for general packing purposes, Jute, Felt, Polyethylene sheets
+|5 |1 |6 |Cork, Saw Dust and Wood Flour, Fire Wood
+|5 |1 |8 |Industrial Coke, Petroleum Coke, Coal & Coal Dust
+|5 |2 |X |
+|5 |2 |0 |Clays
+|5 |2 |1 |Quartz & Stony Material
+|5 |2 |2 |Other than Clays, Quartz & Stony Material
+|5 |3 |X |
+|5 |3 |2 |Animal Products
+|5 |3 |3 |Foundry Materials, Clay, Fire & Refractory Bricks including Ceramic & High Heat Resistance Cements
+|5 |3 |4 |Inorganic products e.g. Fullers earth, French Chalk, Toughened Glass etc.
+|5 |3 |6 |All Sands and All Foundry Materials (Chemicals & Consumables but excludes metals which are to be covered in primary category 1 and clay, fire & refractory bricks which are covered under 533XX series)
+|5 |3 |7 |Ores
+|5 |3 |9 |Reserved for exclusive plant level operation of '536XX' series after exhausting '536XX' Block
+|5 |4 |X |
+|5 |4 |1 |Acids (Organic & Inorganic)
+|5 |4 |2 |Bases, Oxides and other inorganic components
+|5 |4 |4 |Industrials gases
+|5 |4 |7 |Alcohols, Aldehydes, Ketones, Pure Solvents and Ethers
+|5 |4 |8 |Organic Salts
+|5 |4 |9 |Misc. Organic Materials not covered by above
+|5 |5 |X |
+|5 |5 |1 |Cleaning, Plating and Protective coating, Rust removers / Preventives, Plastic Peel, etc.
+|5 |5 |2 |Jointing Materials (Jointing Flex and Jointing adhesive Keen's cement)
+|5 |5 |3 |Filling / Impregnating / Releasing / Jointing compounds (Putties, Sealing and Impregnating compound, Non-Insulating Adhesives)
+|5 |5 |4 |Filling / Impregnating / Releasing / Jointing compounds (Putties, Sealing and Impregnating compound, Non-Insulating Adhesives) (to be utilized after '553XX series is exhausted)
+|5 |5 |5 |Casting compound (All Foundry Materials)
+|5 |5 |6 |Compounds for Heat Treatment and Heat Transfer like Salts (Plating, Heat Treatment) Silica Gel, Calcium Carbide, etc.
+|5 |5 |7 |Not covered by above
+|5 |6 |X |
+|5 |6 |1 |Paints
+|5 |6 |2 |Paints (to be utilized after '561XX' series is exhausted)
+|5 |6 |3 |Varnishes, Enamels, Lacquers and Polishes
+|5 |6 |4 |Distempers & Strainers
+|5 |6 |5 |Accelerator catalyst for group 561 and 563
+|5 |6 |7 |Solvents, Special Thinners
+|5 |6 |9 |Drying in oils & other Vegetable Oils
+|5 |7 |X |
+|5 |7 |1 |Lubricating and Pressure Transformers Oils
+|5 |7 |2 |Anti-Wear Lubricating Oils
+|5 |7 |4 |Lubricating Greases
+|5 |7 |6 |Cutting Oils & Coolants
+|5 |7 |8 |Petroleum & allied products
+|5 |7 |9 |Misc. items not covered by above e.g. Lime, Sludge etc.
+|5 |9 |X |
+|5 |9 |0 |Commercial Quality Rubber & related products where basic type of Rubber is not specified
+|5 |9 |1 |Natural Rubber including Ebonite, Sulphur & Natural Rubber
+|5 |9 |5 |Asbestos Bonded with Rubber (other than thermal insulation)
+|5 |9 |6 |Silicon Rubber & Fluorocarbon Rubber
+|5 |9 |8 |Synthetic (other than Silicone & Fluorocarbon) Rubber e.g. Neoprene, Butyl, Nitrile, Buna S, Polyurethane, Chloro-Sulphanated Rubber, etc. Butadiene / AcryIonitrile.
+|5 |9 |9 |Others not covered by above e.g. Rubber Sheet, Fiber Glass, Heat Resistant Glass etc.
+|===

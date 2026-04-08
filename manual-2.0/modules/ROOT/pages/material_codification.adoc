@@ -1,0 +1,949 @@
+= Material Codification
+
+== Basic Guidelines for Codification
+
+[arabic]
+. The Interplant Standardization Committee (IPSC) has set the following guidelines which have been followed by the Unified Material Code Directory (UMCD) for codification of Metals (Carbon Steel, Alloy Steel, Non-Ferrous Metals), Insulating Materials, Non-Metals, Standard Tools, Standard Items while allotting the code numbers.
+. Metric standard sizes (as far as possible to Indian Standards) only shall be allotted Corporate Code numbers. 
+But in the case of tubes/pipes, inch/schedule sizes shall also be codified as it is not possible to avoid the use of this category of tubes / pipes.
+. When a material is being used by more than one Unit, the same shall be identified for codification at corporate level.
+. Non-standard sizes including inch sizes shall be operated at the plant level only with a long term plan to switch over to Corporate except in the case of tubes/ pipes as stated in clause 2 above.
+. In the case of steel sheets, plates, shims, etc. 
+Corporat Code Numbers shall be allotted on the basis of thickness only, irrespective of the width and length. 
+However, coil form shall get a separate code number.
+. Straight lengths and coils of the same materials will be covered under one specification only and the differentiation shall be made by suitable size codes.
+. Corporate level specification / standard numbers shall be operated from 01-60 only (except Carbon Steel & Anti Friction Bearings) with the code '00' reserved for commercial / off-grade quality materials.
+. Plant level specification / standards shall be operated from 99-61 (except Carbon Steel & Anti Friction Bearings) in the descending order prefixed with the plants 'alphabetical code’.
+. Corporate level size codes shall be operated from 01-60 (except Carbon Steel & Anti Friction Bearings).
+. Size codes 61-99 (except Carbon Steel & Anti Friction Bearings) shall be reserved for plant level operation with the plant prefix and with the corporate specification / standard number. 
+These plant code numbers shall be operated in the descending order i.e. from 99-61 and NOT from 61-99.
+. When a plant has consumed their allotted plant codes of "99-61", against a particular Corporate Standard and require further Plant codes, fold over of the Corporate Standard number, shall be resorted to. 
+The fold over number shall be allotted only from the blank numbers.
+. A one page Corporate document of the fold over Standard No. will be issued which would cross-refer to the original Corporate Standard No. for technical requirements and also state that, "Corporate Stndard Number is being issued only for codification".
+. Only Standard Metric preferred sizes, as laid down in the respective Indian Standard, shall be codified.
+. Whenever a Plant code number is lifted to Corporate level or Withdrawn / Cancelled / Superseded, this already allotted plant code shall be freezed & not reallotted / reused for a different size, at a later date.
+. It shall be ensured that the persons allotting the Code Nos. in the various units are completely conversant with the guidelines for codification.
+
+=== Guidelines for Codification of Carbon Steels
+
+[arabic]
+. Corporate level specification / standard numbers shall be operated from 01-80 only with the code '00' reserved for commercial / off-grade quality materials.
+. Plant level specification / standards shall be operated from 99-81 in the descending order prefixed with the plants 'alphabetical code’.
+. Corporate level size codes shall be operated from 01-80.
+. Size codes 81-99 shall be reserved for plant level operation with the plant prefix and with the corporate specification / standard number. These plant code numbers shall be operated in the descending order i.e. from 99-81 and NOT from 81-99.
+
+=== Guidelines for Codification of Alloy Steels
+
+[arabic]
+. In the case of items like electrical steel sheets, the width, length and insulation, if any shall also be taken into account while allotting corporate code numbers, if they are so specified in the corporate specification. 
+If specification covers insulated and un-insulated, block could be allotted within the code barrel.
+
+=== Guidelines for Codification of Non-Ferrous Metals
+
+[arabic]
+. Non-standard sizes shall be operated at the Plant level to facilitate to switch over to standard metric size / corporate code numbers in shape barrel 98 to 99.
+. The tubes shall be codified on the basis of outer diameter and thickness only irrespective of length. 
+The tubes procured in fixed lengths shall not be covered at Corporate level.
+
+=== Guidelines for Codification of Insulating Materials, Insulated Conductors and Cables
+
+[arabic]
+. In the case of paper, sheets, boards, etc. code numbers shall be allotted on the basis of thickness only. irrespective of the width and length. 
+However, code numbers for fixed length x width x thickness combination may also be codified as a special requirement.
+. The tubes shall be codified on the basis of nominal bore (N.B.) x thickness only irrespective of length. 
+Tubes procured in specified cut lengths shall not be covered at Corporate level.
+
+=== Guidelines for Codification of Capital Goods
+
+[arabic]
+. Main Group categorization (XX) range is as follows:
++
+Plant & Machinery - 01-50
++
+Civil related - 51-65
++
+Services related - 66-90
++
+Welfare related (includes medical) - 91-92
++
+Reserve for future use - 93-99
+. Each unit or region has been assigned a specific range of codes (XX) for Spec / Variant as mentioned below in table. 
+These codes range from 01 to 99 and are used to classify machines or facilities based on their specifications and locations within the organization.
+
+[width="96%",cols="10%,23%,^6%,^16%",options="header",]
+|===
+|S. No. |Unit |Digits range |Range assigned to units for Spec / Variants barrel 
+|1 |HEEP ^|8 ^|00 - 07
+|2 |HEP ^|8 ^|08 - 15
+|3 |HPEP ^|8 ^|16 - 23
+|4 |HPBP ^|8 ^|24 - 31
+|5 |BAP ^|5 ^|32 - 36
+|6 |TP ^|5 ^|37 - 41
+|7 |EDN ^|5 ^|42 - 46
+|8 |CFP ^|3 ^|47 - 49
+|9 |CFFP ^|3 ^|50 - 52
+|10 |HERP ^|3 ^|53 - 55
+|11 |FSIP ^|3 ^|56 - 58
+|12 |HPVP ^|3 ^|59 - 61
+|13 |PS-HQ / PS Marketing / PSER / PSNR / PSWR / PSSR / PEM ^|3 ^|62 - 64
+|14 |IVP ^|2 ^|65 - 66
+|15 |Corp R&D ^|2 ^|67- 68
+|16 |Industry Sector ^|2 ^|69 - 70
+|17 |ROD ^|2 ^|71 - 72
+|18 |SSBG ^|2 ^|73 - 74
+|19 |SBD ^|2 ^|75 - 76
+|20 |PPPU ^|2 ^|77 - 78
+|21 |SSTP ^|2 ^|79 - 80
+|22 |PE&SD ^|2 ^|81 - 82
+|23 |TBG ^|2 ^|83 - 84
+|24 |Corp office ^|2 ^|85 - 86
+|25 |ESD ^|2 ^|87 - 88
+|26 |ISG ^|2 ^|89 - 90
+|27 |Reserve ^|9 ^|91 - 99
+|===
+
+=== Guidelines for Codification of Non-Metals
+
+[arabic]
+. In the case of paper, film, sheets, boards, etc. code numbers shall be allotted on the basis of thickness, thickness X width and / or thickness X width X length depending on the requirements.
+
+=== Guidelines for Codification of Standard Tools
+
+[arabic]
+. Material code numbers for Standard Tools shall be allotted under the Primary category 6.
+. Standard Tools conforming to National Standards / Leading suppliers catalogue and available off the shelf from reputed manufacturers shall be considered for codification.
+. The method of indicating sizes shall be as given in Indian Standards to facilitate procurement.
+. It has been decided to include accessories and spares exclusively used for a particular cutting tool under the same sub-group to which the concerned tool belong to. 
+The type barrel of 6th and 7th digit in this case will be designated with the numerals 99.
++
+Example:
+
+[loweralpha]
+. 633 XX XX XX indicates Taps
++
+633 99 XX XX indicates Spares/Auxiliaries for Taps
++
+633 99 05 XX indicates Tap Wrenches
+. 622 XX XX XX indicates Files
++
+622 99 XX XX indicates Spares/Auxiliaries for Files
++
+622 99 01 XX indicates File Handles
+
+[arabic, start=5]
+. Specific Guidelines (Group - wise)
+
+[loweralpha]
+. Clamping & Holding Tools (Group 611): T-Bolts which are not exactly tools, shall not be codified under standard Tools (Primary category 6).
+. Hand Tools (Group 614) - Spanners: Upto size 46 mm double ended open jaw spanners shall be codified. 
+Above 46 mm single ended open jaw spanners shall be given code numbers.
+. Portable Tools (group 681): Portable powered tools like grinders, drills, chippers shall be codified under Primary category 6. 
+The spares for these items shall be codified under Primary category 8 by the Plants.
+. Major Machine Tool Accessories like, Machine Vices, Rotary Tables, Indexing Head, Taper turning attachments, Lathe chucks, magnetic chucks, turret head accessories, etc. are being dealt by Maintenance, Technology & Services Dept. in most of the Units and therefore do not come under the purview of this group. 
+Also these are durable items and do not come under stores inventory. These shall be codified under Primary category 8.
+
+[arabic, start=6]
+. Items like Tongs, Pokers, Spades, Shovels, Carpentry Tools, Blow Pipes, Welding accessories etc., which are special trade items and shall not be codified under Primary category 6.
+. Coated abrasives like Emery cloth / Paper, Belts etc., and items like rotary wire brush, polishing mops, Lapping compound etc., which are consumable items and shall not be codified under Primary category 6.
+
+=== Guidelines for Codification of Fasteners
+
+[arabic]
+. Material Code Numbers for Fasteners shall be allotted under the main Group 71.
+. Fasteners conforming to National Standards / leading supplier's catalogue and available off the shelf from reputed manufacturers shall be considered for codification.
+. Items such as eye bolts, plugs etc. shall not be covered under fasteners (Group-71) but shall be codified under ‘Standard Mechanical Components’ under Group - 724.
+. The method of indicating sizes shall be as given in Indian Standards to facilitate procurement.
+
+=== Guidelines for Codification of Antifriction Bearings
+
+[arabic]
+. Material Code Numbers for Antifriction bearings shall be allotted under the main group 721. 
+This group covers ball and roller bearings and also other types of bearings covered by specific standard series of reputed manufacturers.
+. Coding structure has been developed to identify each bearing on the basis of its boundary dimensions only and not taking into consideration variations in the design of bearing of different manufactures.
+. The code structure will cover all bearings used for production as well as for maintenance. 
+Accessories of bearings like balls, rollers, adapter sleeves, withdrawal sleeves, etc. are also codified.
+. Metric bearings only are codified at corporate level. 
+However, provision has been made in the coding Structure for inch bearings to facilitate plant level operation.
+. Corporate level size cods for metric bearings shall be operated from 01 to 80 and plant cods from 99 to 81 in descending order.
+. The code scheme shall cover normal clearance and zero precision bearings in a significant manner. 
+Other grades and precision bearings are to be covered sequentially at the plant level only.
+. In addition to the codification of basic bearings, the structure also provides for combination of bearings and its accessories, such as lock nuts, locking washers, etc.
+. Equivalent bearings from different manufacturers are to be codified under one material code only.
+. ISO designations, wherever applicable, shall be indicated.
+. Wherever possible two or three sub-classifications of bearing shall be accommodated under one major classification to ensure better utilization of the scheme.
++
+Eg.: AA 721 33 01 to AA 721 33 15 covers Single Row Needle and Single Thrust Ball Bearings and AA 721 33 16 onwards covers Double Row Needle And Single Thrust Ball Bearings.
+
+=== Guidelines for Codification of Electrical & Electronic Components
+
+[arabic]
+. Material Code Numbers for Electrical and Electronic components shall be allotted under the main group 74.
+. The Code structure will cover all Electrical and Electronic components used for production as well as maintenance. 
+But components which are exclusively required for maintenance (such as motors for machine tools of BHEL factory, components of power house, sub-station, distribution network, etc.) will not be covered under group 74. 
+This will be codified under Primary category 8.
+. All components which are bought by supplying drawings and product specifications by BHEL shall be codified under Primary category 9.
+. In the electronic components the values of resistance and capacitance shall be based on E 24 series as per IEC 63. 
+The values not covered by E 24 series shall be codified at Plant / Product level.
+. Spares/Accessories, wherever applicable for each component are also coded and they are allotted a specific block of numbers from 71 to 80 in the 8th and 9th digits in the 12-digit code structure. 
+Spares/Accessories at Corporate level will be operated from 71 to 76 in ascending order and at plant level from 77 to 80 in descending order from 80.
++
+For example:
++
+AA7410171 represents spare bulbs in signal lamp assembly represented by AA74101 and AA 74 101 72 represents spare lenses in the same assembly.
++
+A block of 81 to 99 in the 8^th^ and 9^th^ digits i.e. for specification details of a component will be reserved for plant level operation. 
+These numbers will be operated in descending order from 99 to 81.
+. A material code can have equivalents of supplier / manufacturer references.
+
+=== Guidelines for Codification of Valves
+
+[arabic]
+. All standard pressure ratings and material of valves are pre-coded in pressure and material barrel (3 digits) from 001 to 600. For non-standard pressure ratings and material combinations numbers from 601 to 999 in the barrel.
+
+=== Guidelines for Codification of Measuring and Control Devices
+
+[arabic]
+. Measuring and Control devices for pressure, temperature, level, speed, weight, time density etc. including penumatic, electrical / electronic controllers shall be covered under group '73' in Codification Structure.
+. Ordinary valves used in the pipelines for flow regulation, stopping and safety relief purposes covering globe, gate, check, safety valves etc. which are generally classified as mechanical valves shall not be covered under this group.
+. Items to National / Inter-national standards and supplier's catalogues shall be considered for codification. 
+However, codification shall not be based on supplier's brand names or designations, but shall be based on BHEL Standards formulated by specifying the requirements. 
+BHEL standards thus formulated shall be used as purchasing specifications for these items.
+
+=== Guidelines for Codification of Welding Consumables
+
+[arabic]
+. As regards the Codification of Electrodes, efforts are made to codify them as per AWS grade or Specification and not as per Brand name. 
+However, wherever it was not possible, the Brandwise codifications are done in few cases.
+. For Electrodes, the sizes 2.5 mm, 3.15 mm and 5 mm have been codified as these sizes are widely used in various plants. 
+However, it has been decided that Electrodes received in sizes 2.4 mm, 3.2 mm and 4.8 mm shall be codified as 2.5 mm, 3.15 mm and 5 mm respectively.
++
+While in case of wires in continuous length/cut length the sizes of 2.4 mm, 3.2 mm, 4.8 mm and 6.3 mm have been codified.
++
+However, wires in continuous length/cut length received in sizes 2.5 mm, 3.15 mm, and 5 mm are codified under the nearest sizes of 2.4 mm, 3.2 mm and 4.8 mm respectively.
+
+== Shapes
+
+=== Shape Code Definitions for Ferrous Metals
+
+==== Wire
+
+Solid circular section that has been reduced by cold drawing through a die having diameters from 0.125 mm to 5mm, both inclusive.
+
+==== Bar
+
+Any solid section having diameter/greatest distance between parallel faces above 5mm
+
+==== Shim
+
+A flat product having thickness from 0.05 mm to 0.49mm both inclusive and widths up to and including 650 mm. shims to be codified on the basis of thickness.
+
+==== Strip
+
+A flat product having thickness from 0.50 mm to 4.99mm, both inclusive& Widths up to and including 650 mm in coil/flat form to be codified on the basis of width and thickness.
+
+==== Sheet
+
+A flat product having thickness from 0.50 mm to 4.99mm both inclusive& widths over 650mm.Sheet to be codified on the basis of thickness only.
+
+==== Plate
+
+A flat product of thickness 5 mm and above. Plates to be codified on the basis of thickness only.
+
+==== Tubes
+
+===== Seamless Tube
+
+A hollow product of round cross-section having a continuous periphery produced by drawing or extrusion process. Tube to be codified on the basis of O.D and thickness.
+
+===== Welded Tube
+
+Tube formed from plate, sheet or strip with a longitudinal welded joint. Tube to be codified on the basis of O.D. and thickness.
+
+==== Billet/Bloom
+
+A cast solid product of specific size and shape intended for re-melting/forging of size 50 mm square and above.
+
+=== Shape Codes for Non-Ferrous Metals
+
+==== Wire
+
+Solid circular section that has been reduced by cold drawing through a die to a diameter up to and including 6 mm.
+
+==== Rod
+
+A round solid section with diameter greater than 6 mm usually in straight lengths manufactured by rolling, drawing, extrusion or by a combination of these processes.
+
+==== Bar
+
+Any solid section other than round whose width or greatest distance between parallel faces is greater than 6 mm.
+
+==== Foil
+
+A rolled product of thickness up to and including 0.15 mm and width up to and including 800 mm, generally not cut to length, usually in coil form but may also be in flat or folded form.
+
+==== Strip
+
+A rolled product of thickness over 0.15 mm and up to and including 6 mm, and width up to and including 800 mm, generally not cut to length, usually in coil form but may also be in flat or folded form.
+
+==== Sheet
+
+A rolled product of thickness over 0.15 and up to and including 6 mm, and width over 800 mm supplied flat with sheared or slit edges.
+
+==== Plate
+
+A rolled product of thickness over 6 mm and width over 800 mm. supplied flat with sheared, milled or sawn edges and with less control of surface finish and tolerance which applies to sheet.
+
+==== Tubes
+
+===== Seamless Tube
+
+A hollow product of round cross section having a continuous periphery produced by drawing or extrusion process.
+
+===== Welded Tube
+
+Tube formed from plate, sheet or strip with a longitudinal welded joint.
+
+===== Drawn Tube
+
+A hollow product of uniform wall thickness not produced by cold drawing.
+
+===== Extruded Tube
+
+A hollow extrusion of uniform wall thickness not produced by cold drawing.
+
+==== Ingot
+
+A cast solid product of specific size and shape (usually weighing between 9 to 16 kg) intended for remelting. It is usually notched to facilitate breaking in to smaller pieces.
+
+==== Wire Bar
+
+A horizontally or vertically cast product of approximately square cross section with sides and ends slightly tapered and weighing between 100 to 120 kg intended for the manufacture of wire rod.
+
+==== Wire Rod
+
+Rod like product of uniform cross section exceeding 6 mm obtained by casting and rolling or extrusion used as intermediate product for further processing, supplied in straight length or coil.
+
+==== Forging
+
+A shape produced by hammering or pressing usually when hot.
+
+==== Stamping
+
+A forging produced between open or closed dies.
+
+==== Pressing
+
+A shape produced between closed dies on a hydraulic or mechanical press.
+
+==== Shape codes
+
+[width="99%",cols="12%,7%,29%,29%,23%",options="header",]
+|===
+| | 3+|Shape
+|Group |Shape Code |Ferrous Metals |Alloy Steels |Non-Ferrous
+.7+|Bars |01 3+^|Hexagonal
+|02 3+^|Round
+|03 3+^|Rectangular (Flat) (Does not include plate, sheet & strip)
+|04 3+^|Square
+|05 3+^|Semi-Round
+|06 3+^|Octagonal
+|07 3+^|Trapezoidal
+.7+|Pipes |10 2+^|Tube/Pipes - Metric, certified (Unattested) ^|Circular
+|11 2+^|Tube/Pipes - Metric, certified (Unattested) (fold over of 10) ^|Circular (f/o of 10)
+|12 2+^|Tube/Pipes - Metric, certified (Unattested) (f/o of 11) ^|Circular (f/o of 11)
+|13 2+^|Tube/Pipes - Inch/Schedule, certified (Unattested) ^|Circular (f/o of 12)
+|14 2+^|Tube/Pipes - Inch/Schedule, certified (Unattested) (f/o of 13) ^|
+|15 2+^|Tube/Pipes – Inch/Schedule, certified (Unattested) (f/o of 14) ^|
+|16 3+^|Others (including Rectangular, Square, Elliptical, etc.)
+.7+|Flats |17 3+^|Sheet
+|18 3+^|Plate
+|19 3+^|Strip
+|20 3+^|Strip (fold over of 19)
+|21 3+^|Strip (fold over of 20)
+|22 3+^|Strip (fold over of 21)
+|23 3+^|Foil/Shim
+.12+|Structural Sections |25 3+^|Equal angle
+|26 3+^|Unequal angle
+|27 3+^|Channel
+|28 3+^|I-Beam (Joist), UC Beam, Beam
+|29 3+^|Wide flanged I Beam, H Beam, UB Beam
+|30 3+^|Tee
+|31 3+^|H- Section (Column)
+|32 3+^|Rails
+|33 3+^|Parallel Flanged I-Beam
+|35 3+^|Universal Beam (U Beam)
+|36 3+^|Special sections (Bulb angle, Lipped channels, etc.)
+|38 3+^|Narrow Parallel Flanged Beam (NPB)
+.31+|Others |40 3+^|Wire - Round
+|41 3+^|Wire - other than round
+|42 3+^|Wire fabric
+|43 3+^|Mesh Sieve/Cloth
+|44 3+^|Cable / Cord
+|45 3+^|Braid
+|46 3+^|Expanded metal
+|47 3+^|Perforated
+|48 3+^|Chequered plate
+|49 3+^|Cladded plate
+|50 3+^|Ingot / Blocks / Bricks
+|51 3+^|Lumps
+|52 3+^|Billet / Bloom
+|53 3+^|Slab
+|54 3+^|Wire - Bars
+|55 3+^|Wire - Rod
+|57 3+^|Powder
+|58 3+^|Crystals
+|59 3+^|Granules
+|60 3+^|Shots & Grit
+|61 3+^|Pigs
+|62 2+^|Rifle tube ^|Reserve
+|70 3+^|Chippings
+|71 3+^|Sinterings
+|72 3+^|Shreddings
+|73 3+^|Scrap
+|76 ^|Plain Tube ^|Reserve ^|Reserve
+|77 ^|ERW Tube ^|Sheet (f/o of 17) ^|Reserve
+|78 3+^|Plates (f/o of 18)
+|79 2+^|Tube/Pipes – Metric, certified (Unattested) (fold over of 12) ^|Reserve
+|80 3+^|Special Profiles
+.19+|Attested Materials |81 2+^|Hexagonal .17+|Reserve
+|82 2+^|Round
+|83 2+^|Rectangular (Flat) (Does not include Plate, Sheet & Strip)
+|84 2+^|Square
+|85 2+^|Billet/Bloom
+|86 ^|Spiral Finned Tube ^|Reserve
+|87 2+^|Sheet
+|88 2+^|Plate
+|89 2+^|Strip
+|90 2+^|Tube/Pipes – Metric (Non-Schedule)
+|91 2+^|Tube/Pipes – Metric (Non-Schedule) (fold over of 90)
+|92 2+^|Tube/Pipes – Metric (Non-Schedule) (fold over of 91)
+|93 2+^|Tube/Pipes – Inch/Schedule
+|94 2+^|Tube/Pipes – Inch/Schedule (fold over of 93)
+|95 2+^|Tube/Pipes – Inch/Schedule (fold over of 94)
+|96 2+^|ID Tube / Pipe
+|97 2+^|OD Tube / Pipe
+|98 ^|ERW Pipe ^| |Strip (f/o of 22)
+|99 2+^| |Strip (f/o of 98)
+|===
+
+=== Shape Codes for Insulating Materials
+
+==== Shape Codes for Insulating Materials and Insulated Cables
+
+[width="94%",cols="8%,46%,46%",options="header",]
+|===
+|Shape Code |Insulating Materials |Insulated Cables
+|00 |Liquids, Gases |
+|01 |Hexagonal Bar |
+|02 |Circular Rod/Bar |
+|03 |Rectangular Bar |
+|04 |Square Bar |
+|10 |Pipe / Sleeve / Tube Braid and Hollow Shapes |
+|11 |Rectangular Hollow |Single Core, 440/500 V
+|12 | |Single Core, 660/1100 V
+|13 | |Single Core, 3.3 kV
+|14 | |Single Core, 6.6 kV
+|15 |Paper Rolls including Films, Thin Sheets (thickness up to & incl. 0.5 mm) |Single Core, 11 kV
+|16 |Tapes |Single Core, other Voltage Grades/Taped Cables
+|17 |Sheets / Boards ++>++ 0.5mm thick |
+|18 |Felt, Foam sheets, Glass wool, Raw Cotton, etc. Other materials having cushioning property |
+|19 |Strips |
+|21 | |Two Core, 440 V
+|22 |Corrugated |Two Core, 660/1100 V
+|23 | |Two Core, 3.3 kV
+|24 | |Two Core, 6.6 kV
+|25 | |Two Core, 11 kV
+|26 | |Two Core, other Voltage Grades / Taped Cables
+|31 | |Three Core, 440 V
+|32 | |Three Core, 660/1100 V
+|33 | |Three Core, 3.3 kV
+|34 | |Three Core, 6.6 kV
+|35 | |Three Core, 11 kV
+|36 | |Three Core, other Voltage Grades / Taped Cables
+|40 |Yarn, Thread, Filament Rovings |
+|41 | |Four Core, 440 V
+|42 | |Four Core, 660/1100 V
+|43 | |Four Core, 3.3 kV
+|44 |Rope, Cord, Twin Thick/Thin Braided Cord |Four Core, 6.6 kV
+|45 |Cord-Rectangular |Four Core 11 kV
+|46 |Cord-Square |Four Core other Voltage Grades / Taped Cables
+|50 |Block / Bricks / Ingots |
+|51 |Lumps |Multi Core, 440 V
+|52 | |Multi Core, 660/1100 V
+|53 | |Multi Core, 3.3 kV
+|54 | |Multi Core, 6.6 kV
+|55 | |Multi Core, 11 kV
+|56 | |Multi Core, Other Voltage Grades taped cables
+|57 |Powder, Granular Form, Ground Particles |
+|58 |Crystals |
+|59 |Granules |
+|61 | |Twin Twisted, 250/440 V
+|64 |Woven Cloth |
+|72 | |3½ Core, 660/1100V
+|73 |Scrap / Cutting |Welding Cables
+|75 |Splittings / Flakes |
+|90 |Semisolid / Paste |
+|===
+
+==== Shape Codes for Enamel Insulated Copper Conductors
+
+Shape Code No 00 to 30 - Round AND 31 to 99 - Rectangular
+
+[width="82%",cols="17%,34%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm
+|00 |
+|01 .10+|Fine (Round)
+|02
+|03
+|04
+|05
+|06
+|07
+|08
+|09
+|10
+|11 .10+|Medium (Round)
+|12
+|13
+|14
+|15
+|16
+|17
+|18
+|19
+|20
+|21 .10+|Thick (Round)
+|22
+|23
+|24
+|25
+|26
+|27
+|28
+|29
+|30
+|31 .10+|Fine (Rectangular)
+|32
+|33
+|34
+|35
+|36
+|37
+|38
+|39
+|40
+|41 .10+|Medium (Rectangular)
+|42
+|43
+|44
+|45
+|46
+|47
+|48
+|49
+|50
+|51 .10+|Thick (Rectangular)
+|52
+|53
+|54
+|55
+|56
+|57
+|58
+|59
+|60
+|===
+
+==== Shape Codes for Glass and Composite Insulated Copper Conductors
+
+Shape Code No 00 to 30 - Round and 31 to 99 - Rectangular
+
+[width="84%",cols="15%,34%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm
+|00 |
+|01 .5+|0.15 to less than 0.25 (Round)
+|02
+|03
+|04
+|05
+|06 .5+|0.25 to less than 0.35 (Round)
+|07
+|08
+|09
+|10
+|11 .5+|0.35 to less than 0.45 (Round)
+|12
+|13
+|14
+|15
+|16 | 
+|17 | 
+|18 | 
+|19 | 
+|20 | 
+|21 .5+|0.45 to less than 0.55 (Round)
+|22
+|23
+|24
+|25
+|26 .5+|0.55 and above (Round)
+|27
+|28
+|29
+|30
+|31 .5+|0.15 to less than 0.25 (Rectangular)
+|32
+|33
+|34
+|35
+|36 |
+|37 |
+|38 |
+|39 |
+|40 |
+|41 .5+|0.25 to less than 0.35 (Rectangular)
+|42
+|43
+|44
+|45
+|46 |
+|47 |
+|48 |
+|49 |
+|50 |
+|51 .5+|0.35 to less than 0.45 (Rectangular)
+|52
+|53
+|54
+|55
+|56 | 
+|57 | 
+|58 | 
+|59 | 
+|60 | 
+|61 |
+|62 |
+|63 |
+|64 |
+|65 |
+|66 |
+|67 |
+|68 |
+|69 |
+|70 |
+|71 .5+|0.45 to less than 0.55 (Rectangular) 
+|72 
+|73 
+|74 
+|75
+|76 |
+|77 |
+|78 |
+|79 |
+|80 |
+|81 .5+|0.55 and above (Rectangular)
+|82
+|83
+|84
+|85
+|86 |
+|87 |
+|88 |
+|89 |
+|90 |
+|91 |
+|92 |
+|93 |
+|94 |
+|95 |
+|96 |
+|97 |
+|98 |
+|99 |
+|===
+
+==== Shape Codes for Tape Insulated Copper Conductors
+
+Shape Code No 00 to 30 - Round and 31 to 99 - Rectangular
+
+[width="85%",cols="18%,33%",options="header",]
+|===
+|Shape Code |Thickness of Insulation, mm
+|00 | 
+|01 | 
+|02 | 
+|03 | 
+|04 | 
+|05 | 
+|06 | 
+|07 | 
+|08 | 
+|09 | 
+|10 | 
+|11 | 
+|12 | 
+|13 | 
+|14 | 
+|15 | 
+|16 | 
+|17 | 
+|18 | 
+|19 | 
+|20 | 
+|21 | 
+|22 | 
+|23 | 
+|24 | 
+|25 | 
+|26 | 
+|27 | 
+|28 | 
+|29 | 
+|30 | 
+|31 |
+|32 |
+|33 |
+|34 |
+|35 |
+|36 |
+|37 |
+|38 |
+|39 |
+|40 |
+|41 |
+|42 |
+|43 |
+|44 |
+|45 |
+|46 |
+|47 |
+|48 |
+|49 |
+|50 |
+|51 |
+|52 |
+|53 |
+|54 |
+|55 |
+|56 |
+|57 |
+|58 |
+|59 |
+|60 |
+|61 .2+|Up to 0.4mm thick Fine (Mica paper tape with / without glass fabric backing) - Rectangular
+|62
+|63 |
+|64 |
+|65 |
+|66 |
+|67 |
+|68 |
+|69 |
+|70 .3+|Up to 0.4 mm. Fine (Mica paper tape with or without polyester film) - Rectangular
+|71
+|72
+|73 .2+|Above 0.4 to 0.55 mm, Medium (Mica paper tape with or without polyester film) - Rectangular 
+|74
+|75 |
+|76 |
+|77 |
+|78 |
+|79 |
+|80 |
+|81 .2+|Above 0.55 and up to 0.66 Thick (Mica paper tape with or without polyester film) - Rectangular
+|82
+|83 .3+|Above 0.65 and up to 0.85 (Mica paper tape with or without polyester film) - Rectangular
+|84
+|85
+|86 |
+|87 |
+|88 |Above 0.55 and up to 0.66Thick (Mica paper tape with or without polyester film) - Rectangular
+|89 |
+|90 |
+|91 |
+|92 |
+|93 |Polyimide film (Rectangular)
+|94 .3+|Paper covered, thickness above 10 mm and up to 20 mm - Rectangular
+|95
+|96
+|97 .3+|Paper covered, thickness up to and including 10 mm - Rectangular
+|98
+|99
+|===
+
+=== Shape Codes for Non-Metals
+
+[width="100%",cols="11%,89%",options="header",]
+|===
+|Shape Code |Shape
+|00 |Liquids, Gases, Semisolids, Paste
+|01 |Hexagonal Bar
+|02 |Circular Bar / Rod
+|03 |Rectangular Bar
+|04 |Square Bar
+|10 |Pipe / Sleeve / Tube / Hollow-Ware
+|15 |Paper Rolls, Films, Thin Sheets (Thickness up to & Incl. 0.5 mm)
+|16 |Tape
+|17 |Sheet & Board (Thickness above 0.5mm)
+|18 |Felt and other Materials Having Cushioning property (e.g. Wood Felt, Wood Wool etc.)
+|19 |Sleepers / Planks (Coding based on thickness and thickness X width)
+|20 |Strips
+|38 |Mouldings
+|44 |Rope / Round cord / Twine / Braided Cord
+|45 |Cord - Rectangular
+|46 |Cord - Square
+|49 |Blocks / Bricks / Beams / Battens
+|50 |Lumps
+|57 |Powder
+|58 |Crystal / Tables / Capsules
+|59 |Granules
+|65 |Graphite Electrodes for Boundary
+|73 |Scrap
+|75 |Splitings / Flakes
+|===
+
+===  Shape Code for 770 - Brazing Alloys, Soldering Alloys and Fluxes
+
+AA 770 XX (6^th^ & 7^th^ Digit Allocation)
+
+[width="40%",cols="35%,65%",options="header",]
+|===
+|Shape Code |Shape
+|00 |Liquid, Semi Liquid, Paste
+|02 |Round
+|03 |Rectangle
+|09 |Stick
+|19 |Strip
+|23 |Foil or shim
+|40 |Wire
+|50 |Ingot
+|57 |Powder
+|59 |Granules
+|===
+
+== Codification vs Quality
+
+The specification parameters are built into the significant digits of the code number and hence it indicates the quality of the material. 
+The indentor copies the code number along with the Standard Description of the material, the relevant Standard Number and grade.
+
+The Code Number along with other details is carried over from the indent to the Material Purchase Requisition, Purchase order, Stores Issue Vouchers, Bin Card etc., keeping the identity of the material.
+
+Thus, it ensures that the right quality material as per the requirement of the designer is procured, stocked and issued to the shop for the appropriate application.
+
+== Code Number as Inventory Control Number
+
+In manufacturing industries, materials account for about 70% of the cost of the production. 
+Modern industrial enterprises are giant establishments involving tremendous, capital investment. 
+As a result of scientific inventory control techniques, if we can reduce the cost on materials by say 5%, it would result in substantial savings.
+
+Increased Inventories would result in unnecessary block-up of capital and lead to more inventory carrying costs while insufficient inventories would create stock-outs, failure of attaining the production targets and delivery dates, which finally lead to loosing customer good will and the reputation of the organization.
+
+Code Number will help to maintain the inventories at optimum level by exercising 'Variety Control'. 
+All the new materials will be referred to standards section for code numbers. 
+At these stages, the indents will be thoroughly scrutinized to see that whether any equivalent rationalized materials could be used instead of procuring new varieties. 
+Discussions will be held by standards with concerned designer and other agencies. 
+New varieties will be allowed when they are absolutely required. 
+Code Number also enables to obtain classified computer out-puts to facilitate ABC analysis, fixing of minima and maxima levels to determine ordering quantities etc.
+
+== Usefulness of Code Number
+
+Code Number facilitates the generation of the required computer outputs for analysis of data for various purposes:
+
+=== Designs
+
+[loweralpha]
+. *Selection of Right Material* - The computerized code catalogue is used for indenting the rationalized materials.
+. *Tendering & Estimation* - This is one of the critical functions of the designer and he is required to estimate the cost of the product as per customers specifications within a short time.
+
+Code Number plays an important role in generating the computer outputs which are helpful in this connection.
+
+[loweralpha]
+. Project wise consumption of materials
+. Work order-wise consumption of Material
+. Work order - wise cost details
+
+=== Material Control / Inventory Control
+
+*Inventory Analysis and Control-*
+Computerised systems provides correct data on the consumption of stocks which can be further used for the following purposes:
+
+[loweralpha]
+. Inventory Analysis
+. Maintaining stock levels
+. Procurement planning
+
+Computerized code catalogue which given an indication of rationalized / non-rationalized, stock / non-stock can be effectively utilized by material control to generate a computer output on non-rationalized code numbers for taking the necessary corrective actions.
+
+[loweralpha, start=4]
+. Consumption of non-rationalized materials for alternative application or by other plants of BHEL.
+. Disposal of non-rationalized / non-moving material which cannot be used otherwise.
+
+=== Stores
+
+*Scientific Stocking* - Stocking of materials as per Code Number groups similar materials at one place, thereby eliminating duplicate stocking, reduction of floor space and inventory carrying costs. Since the issue and receipt of materials is based on Code Number, it facilitates even the unskilled workers to handle the stores. The indication regarding the correct and alternative store number given in the computerized material code catalogue helps to re-organize the store in case the same material is stocked in more than one stores.
+
+=== Management Reporting
+
+Generation of computerized information is one of the benefits of codification. Code Number is used in the computer systems for classification / sorting of data as per material category / group / shape / store-wise for generating quick and correct reports.
+
+== Systems Approach to Codification
+
+Code Numbers cut across various functions in the Organization. 
+Many persons deal with them in their daily activity. 
+In an organization adopting computerized systems, it is essential to ensure the correctness of code numbers. 
+In this connection, IPSC lays down the following Instructions:
+
+*Indent:* It will be obligatory on the part of the various indentors to indicate code numbers in all their requisitions in addition to the description and specification of material by referring the codes catalogues.
+
+*UMCD:* In the case of non-availability of code number, new code number can be generated in UMCD.
+
+*Material Control:* In addition, Material Control shall check to ensure the correctness of code numbers in the Indents, Material Purchase Requisitions and Stores Receipt Vouchers. 
+It is the particular responsibility of material control to see that no document is passed without the indication of code numbers.
+
+*Purchase Department:* Purchase department shall be responsible to indicate code numbers as appearing in Purchase Requisitions on documents like Tender enquiry, comparative statement and Purchase Orders.
+
+*Stores Department:* Stores department shall indicate code numbers from Purchase Order on Stores Receipt Voucher. 
+They shall keep Bin cards in the sequence of code numbers.
+
+*Finance:* The material accounts shall indicate code numbers in the material ledgers and keep the books in such a way as to identify the ledger sheets by referring material code numbers.
+
+In spite of the above instructions, the following problems are faced in practice.
+
+. Indent Stage:
+.. Some of the indents are released without Code Numbers in an urgency to procure the materials. 
+Since the indents by-pass the UMCD, the following cases may arise:
+... Procurement of a new variety which could perhaps be eliminated by utilizing another rationalized and stock material.
+... Insufficient specification details which lead to procurement of inferior quality of material.
+... Lack of specification details which poses problems for the inspector at the Inward inspection stage.
+
+.. Lack of information whether an item is recurring / non-recurring, stock / non-stock and its annual consumption.
+
+.. Inability of the indenter to provide complete specification details, particularly in the case of new projects and imported items. 
+This leads to importing of the materials and components which could perhaps be procured indigenously as per relevant Indian Standards.
+
+.. Acceptance of a deviation / amendment to the original specification without effecting the corresponding corrections to the Code Number. 
+For example, Indenting of Black fasteners and amending the indent for plated fasteners at a later date without any correction to the Code Numbers would create problem of mix-up to the plated fasteners with un-plated one in the Stores.
+
+.. The Code Number and the description may not tally. 
+If the description is wrong, it leads to wrong procurement, whereas, wrong code leads to issue of wrong material to production shops / CDC.
+
+.. Lack of clarity on the part of indenter whether the materials would be procured as an assembly / individual items, sometimes Code Numbers are indicated as per individual items whereas the material is received in assembled form vice versa is also possible.
+
+. Material Purchase Requisition (MPR) Stage:
++
+Material Control used to process the indents without Code Numbers sometimes, due to which codification had to be done at SRV Stage. Hence the following difficulties are encountered.
++
+.. The very purpose of codification which is 'Inventory Control' is defeated since materials are already procured.
+.. Difficulty in inspecting the materials due to lack of correct and complete specification details.
+.. Inability of the Stores personnel to provide the necessary specification details to Standards Section at SRV Stage for the purpose of codification.
+
+. Purchase Stage
++
+Amending the purchase orders as per the advice of indenters without correcting the relevant code numbers. 
+This creates mix-up of Stocks of different specifications.
+
+. Systems Approach
++
+The UMCD System has been implemented to facilitate the centralized search and generation of material codes across all units, operating at three levels from the indenter to the Plant Standards’ Committee Chairman (PSC) and the Central Authority.

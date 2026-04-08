@@ -1,0 +1,26 @@
+= Executive Summary
+
+In line with Strategic Plan 2022-27, Bharat Heavy Electricals Limited (BHEL) is focusing on reducing direct material costs and enhancing operational efficiency through its turnaround initiative SP 2022-27. 
+A pivotal aspect of this transformation effort involves sectorial consolidation of material procurement, aiming to leverage economies of scale and streamline processes. To support this consolidation, BHEL plans to implement the robust data management practices for managing codes across BHEL.
+
+As is known the purpose of material codification was identification, classification/grouping of similar items together, and digitize the same for proper inventory analysis, reporting and control. 
+The need to rationalize material codes as per the standard _12-digit alpha numeric codes_ has been an oft repeated initiative across the company to promote and strengthen optimum resource utilisation, economic buying, eliminating duplicity, unifying the material base, elimination of non-moving inventory etc. 
+The _Central Material Code Allocation_ (CMCA) system for new code generation was initiated in 43^rd^ _Interplant Standards Committee_ (IPSC) meeting in October 2012 and followed up with communication reference AA:MM: MCR: dated 27.05.2016 from the office of Director, (E R&D). 
+However, over the period as the focus diluted with time, resulting in proliferation of material codes and SS&P assessed that as on 01.04.2022, a non-moving inventory in the company of Rs. 1154 crores were lying unutilized. 
+A Cross Functional Team (CFT) was formed in 14.12.2022 in order to take up the rationalisation of material codes across the company and several meetings were held comprising of members from SS&P, R&D, CDT and from Standards/Engineering/MM in four major units HPBP Trichy, HPEP Hyderabad, HEP Bhopal and HEEP Haridwar to examine the practices and procedures of allotment of material codes by these Units since 26.12.2022. 
+The initiative was further taken up with renewed rigor with Director, (E, R&D)’s letter on 18.01.2023 on the need to pursue the rationalization of material codes across the company, with the sole purpose of optimizing resource utilization, enabling economic buying, eliminating duplicity, ensuring proper inventory analysis, etc.
+
+The adoption of _Unified Material Code Directory_ (UMCD) and formation of _Unified Material Code Cell_ (UMCC) was formally announced in his letter ref. no. AA: DERD: SSP:09:009 dated 30.08.2023.
+
+Out of a total of 12 lakhs plus material codes across the company as on 01.01.2023, 8 lakh inactive material codes have been parked aside (to be used only if routed through UMCC) and balance 4 lakh active material codes have been considered for rationalisation. 
+Of these 12 lakh material codes, the UMCC has addressed
+
+[lowerroman]
+. Around 1.1 lakh material codes relating to raw materials i.e. series 1, 2 & 5 (_Metals_, _Insulating Materials_ and _Non-Metals_), and toned down the same to 14,189 uniform material codes, this effort has enabled _Unified Procurement Cell_ (UPC) formed at Delhi under the aegis of CAPEX and Sourcing Strategy & Policy (SS&P), to ensure that procurement of Steel starting Q1 of 2024-25 is made from the uniform material codes only. 
+UMCC to continue to address any other issues in this series (1, 2 & 5).
+. Encouraged by our initial success in raw material codification, a sincere effort has been made to extend the codes to component level codification that includes the 6 (_Standard Tools_), 7 (_Standard Components_), 8 (_Maintenance Spares_), and 9 (_Product Components_) series codes.
+. Two CFTs were formed one for _Capital Goods codification_ and another on _System Improvements in UMCD portal_ on 08.04.2024 and 13.04.2024. _Capital Goods_ codification across the Company has been initiated and codification structure (3 series) has been evolved and completed codification.
+. The CFT on _System Improvements in UMCD Portal_ met at Trichy and evolved a system for populating the erstwhile CMCA (_Central Material Code Allocation System_), now UMCD with all the 1 - 9 series codes.
+
+In summary, BHEL's transformation initiative encompasses sectorial consolidation of material procurement, adoption of analytics and data management practices, standardization of capital goods codification and digitization of all material codes. 
+These efforts are geared towards driving efficiency, optimizing costs, and enhancing decision-making capabilities, thereby supporting BHEL's objectives of operational excellence and sustainable growth.

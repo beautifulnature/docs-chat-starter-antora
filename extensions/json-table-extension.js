@@ -11,7 +11,10 @@ module.exports.register = function ({ config = {} }) {
     const dataDir = path.resolve(cwd, config.data_dir || 'data')
     const tableDefs = Array.isArray(config.tables) ? config.tables : []
 
-    tableDefs.forEach((def) => {
+    tableDefs.forEach((def, index) => {
+      // Basic logging so you can see what config really looks like
+      logger.info(`json-table-extension table[${index}]: ${JSON.stringify(def)}`)
+
       const jsonPath = path.join(dataDir, def.file)
       const source = fs.readFileSync(jsonPath, 'utf8')
       const rows = JSON.parse(source)
@@ -24,16 +27,19 @@ module.exports.register = function ({ config = {} }) {
         ? def.columns
         : inferColumns(rows)
 
-      const adoc = renderTable(rows, columns, def.title)
+      const adoc = renderTable(rows, columns, def.title, def.colspec)
 
-      const outFile = path.join(
-        cwd,
-        'docs',
-        'modules',
-        def.module || 'ROOT',
-        'partials',
-        def.partial
-      )
+      // NEW: configurable target root, with a safe default
+      const targetRoot = def.target_root || 'manual-2.0'
+      const moduleName = def.module || 'ROOT'
+      const partialPath = def.partial
+
+      if (!partialPath) {
+        throw new Error(`Missing partial path in table definition: ${def.file}`)
+      }
+
+      const contentRoot = path.join(cwd, targetRoot)
+      const outFile = path.join(contentRoot, 'modules', moduleName, 'partials', partialPath)
 
       fs.mkdirSync(path.dirname(outFile), { recursive: true })
       fs.writeFileSync(outFile, adoc, 'utf8')
@@ -55,8 +61,8 @@ function escapeCell(value) {
     .replace(/\r?\n/g, ' ')
 }
 
-function renderTable(rows, columns, title) {
-  const colSpec = columns.map(() => '1').join(',')
+function renderTable(rows, columns, title, colspec) {
+  const colSpec = colspec || columns.map(() => '1').join(',')
   const lines = []
 
   if (title) lines.push(`.${title}`)

@@ -1,0 +1,2971 @@
+[
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "41",
+    "SBASICCATDESC": "Industrial Sealed Radiation Sources (Cobalt, Iridium)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 43214.15483796296
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "01",
+    "SBASICCATDESC": "Low Carbon Steels",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "02",
+    "SBASICCATDESC": "Medium Carbon Steels",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "03",
+    "SBASICCATDESC": "High Carbon Steels",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "04",
+    "SBASICCATDESC": "Carbon Steels (High Temperature Service)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "05",
+    "SBASICCATDESC": "Alloy Steels (General Purpose)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "06",
+    "SBASICCATDESC": "Alloy Steels (High Temperature Service)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "07",
+    "SBASICCATDESC": "Stainless Steels",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "08",
+    "SBASICCATDESC": "Tool Steels",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "09",
+    "SBASICCATDESC": "Magnetic Steels",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "13",
+    "SBASICCATDESC": "Iron & Iron Alloys",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "16",
+    "SBASICCATDESC": "Alloy Steels (High Temperature Service) (fold over of 06)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "17",
+    "SBASICCATDESC": "Stainless Steels (fold over of 07)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "20",
+    "SBASICCATDESC": "Copper",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "21",
+    "SBASICCATDESC": "Copper Alloys",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "23",
+    "SBASICCATDESC": "Aluminium & Aluminium Alloys",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "25",
+    "SBASICCATDESC": "Lead & Lead Alloys",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "26",
+    "SBASICCATDESC": "Magnesium & Magnesium Alloys",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "27",
+    "SBASICCATDESC": "Nickel & Nickel Alloys",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "28",
+    "SBASICCATDESC": "Tin & Tin Alloys",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "29",
+    "SBASICCATDESC": "Zinc & Zinc Alloys",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "30",
+    "SBASICCATDESC": "Titanium & Titanium Alloys",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "35",
+    "SBASICCATDESC": "Antimony & Antimony Alloys",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "40",
+    "SBASICCATDESC": "Cladded Metals",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41801
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "47",
+    "SBASICCATDESC": "Silver",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41801
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "51",
+    "SBASICCATDESC": "Manganese",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "53",
+    "SBASICCATDESC": "Mercury",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "88",
+    "SBASICCATDESC": "Ferrous materials wrought (Forgings & Castings are excluded) (Exclusively for plant level operation)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "89",
+    "SBASICCATDESC": "Non-Ferrous materials wrought(Forgings&Castings are excluded)(Exclusively for plant level operation)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "92",
+    "SBASICCATDESC": "Steel Forgings (fold over of 193, 194)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41965
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "93",
+    "SBASICCATDESC": "Steel Forgings (fold overs available at 192, 194)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "94",
+    "SBASICCATDESC": "Steel Forgings (fold over of 193, fold over available at 194)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41801
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "95",
+    "SBASICCATDESC": "Steel Castings (fold over available at 196)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41801
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "96",
+    "SBASICCATDESC": "Steel Castings (fold over of 195)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41801
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "97",
+    "SBASICCATDESC": "Iron Castings",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41801
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "98",
+    "SBASICCATDESC": "Non-Ferrous Forgings (fold over available at 199)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "99",
+    "SBASICCATDESC": "Non-Ferrous Castings (fold over of 198)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "10",
+    "SBASICCATDESC": "Commercial Quality where quality of basic pulp is not specified",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "Fibrous Product Naturals - Cellulose",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "15",
+    "SBASICCATDESC": "Inorganic materials - Asbestos etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "17",
+    "SBASICCATDESC": "Synthetic materials - Polyamides (Nylon, etc.), Cellulose Derivatives (Rayon, etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "19",
+    "SBASICCATDESC": "Others not covered for Paper, Paper Boards 210 to 218",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "20",
+    "SBASICCATDESC": "Commercial Quality - Plastics and Resins",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "21",
+    "SBASICCATDESC": "Natural resins - Bitumen, Copal, Gilsonite, Shellac, Oleo-Resins, etc.",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "22",
+    "SBASICCATDESC": "Phenolic Resin etc. (Bakelite for mica etc.)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "23",
+    "SBASICCATDESC": "Alkyds (Glyptal, etc.), Melamine Moulding Powder",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "24",
+    "SBASICCATDESC": "Polyethers, Epoxies (Araldite, Epikote), etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "25",
+    "SBASICCATDESC": "PVC, Poly Carbonates, Poly VinyI Fluoride",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "26",
+    "SBASICCATDESC": "Silicones (Polysiloxane)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "28",
+    "SBASICCATDESC": "Polyester, Polypropylene, Polytetra Fluoroethylene, Acrylics",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "29",
+    "SBASICCATDESC": "Other synthetics not covered Plastics",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "30",
+    "SBASICCATDESC": "Commercial Quality i.e. where basic fibre is not specified",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "31",
+    "SBASICCATDESC": "Natural origin - Vegetable, Cotton, Linen, Felt, Wool, Bast Fibres, Animal-Wool, Silk Cobweb",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "35",
+    "SBASICCATDESC": "Inorganic (Asbestos etc.)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "37",
+    "SBASICCATDESC": "Synthetic Fibres i.e. Polyamides, Polyesters, Cellulose Derivatives",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "39",
+    "SBASICCATDESC": "Others not covered for Woven Fibers and allied products 230 TO 238",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "50",
+    "SBASICCATDESC": "Mica without any backing materials i.e. Splittings, Mica Papers, Molded Micanite etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "51",
+    "SBASICCATDESC": "Paper Organic i.e. Cellulose / Wood Pulp, Paper, Mica with single backing material etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "52",
+    "SBASICCATDESC": "Paper Organic i.e. Asbestos, Glass, Mica, Mica Glass, Synthetic Film Composites etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "53",
+    "SBASICCATDESC": "Synthetic sheet i.e. Polyamides",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "54",
+    "SBASICCATDESC": "Cloth Inorganic i.e. Cotton, Linen etc.",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "55",
+    "SBASICCATDESC": "Cloth Inorganic i.e. Asbestos, Glass etc..",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "56",
+    "SBASICCATDESC": "Fiberglass and Fiberglass-Related Products",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "57",
+    "SBASICCATDESC": "Glass and Allied Products-Treated, Impregnated, Treated Cloth, Tapes etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "59",
+    "SBASICCATDESC": "Ceramic / Porcelain Insulators",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "71",
+    "SBASICCATDESC": "Insulating Minerals, Oils",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "72",
+    "SBASICCATDESC": "Askarels (synthetic oils used in capacitors), etc.",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "74",
+    "SBASICCATDESC": "Paints and Pigmented Enamels and their Hardeners",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "75",
+    "SBASICCATDESC": "Varnish, Enamels (other than pigmented) and Lacquers including impregnating varnishes",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "76",
+    "SBASICCATDESC": "Putty, Solvents-Mixed, Catalysts, Accelerators and other Insulating Compounds and Adhesives",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "77",
+    "SBASICCATDESC": "Putty, Solvents-Mixed, Catalysts, Accelerators and other Insulating Compounds and Adhesives",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "78",
+    "SBASICCATDESC": "Varnish, Enamels (other than pigmented) and Lacquers including impregnating varnishes",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "81",
+    "SBASICCATDESC": "Insulated Copper Conductors",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "82",
+    "SBASICCATDESC": "Insulated Aluminium Conductors",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41270
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "83",
+    "SBASICCATDESC": "Insulated Conductors other than Copper and Aluminium (Cu-Ni resistance wire, etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "85",
+    "SBASICCATDESC": "Insulated Copper Cables",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "86",
+    "SBASICCATDESC": "Insulated Aluminium Cables",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "89",
+    "SBASICCATDESC": "Other Cables not covered by above, Thermo Couple Cables",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41272
+  },
+  {
+    "SPRIMARYCAT": "2",
+    "SBASICCAT": "99",
+    "SBASICCATDESC": "Insulating materials - miscellaneous exclusively for plant level operations from 29901 to 29999",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41269
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "Ply wood",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "12",
+    "SBASICCATDESC": "Timber other than packing",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "14",
+    "SBASICCATDESC": "Coniferous Timber for General Packing Purposes",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "16",
+    "SBASICCATDESC": "Cork, Saw Dust and wood Floor, Fire wood",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "18",
+    "SBASICCATDESC": "Industrial Coke , Petroleum Coke,  Coal  & Coal Dust",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "20",
+    "SBASICCATDESC": "Clays",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "21",
+    "SBASICCATDESC": "Quartz & Stony Material",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "22",
+    "SBASICCATDESC": "Other than Clays, Quartz & Stony Material",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "32",
+    "SBASICCATDESC": "Animal Products",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "33",
+    "SBASICCATDESC": "Foundry Materials, Clay, Fire & Refractory Bricks including Ceramic & High Heat Resistance Cements",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "34",
+    "SBASICCATDESC": "Inorganic products e.g. Fullers earth, French Chalk, Toughened Glass etc.",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "36",
+    "SBASICCATDESC": "Foundry Materials",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "37",
+    "SBASICCATDESC": "Ores",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "41",
+    "SBASICCATDESC": "Acids (Organic & Inorganic)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "42",
+    "SBASICCATDESC": "Bases, Oxides and other Inorganic compounds",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "44",
+    "SBASICCATDESC": "Industrials gases",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "47",
+    "SBASICCATDESC": "Alcohols, Aldehydes, ketones, Pure Solvents and Ethers",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "48",
+    "SBASICCATDESC": "Organic Salts",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "49",
+    "SBASICCATDESC": "Misc. Organic Materials not covered in Chemicals - Pure (Acids, Bases, Gases etc.)",
+    "SCRTBY": "6047467",
+    "DCRTDT": 41256
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "51",
+    "SBASICCATDESC": "Cleaning, Plating and Protective coating, Rust removers / Preventives, Plastic Peel",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "52",
+    "SBASICCATDESC": "Joinitng Materials (Jointing Flex and Jointing adhesive Keen's Cement)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41269
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "53",
+    "SBASICCATDESC": "Filling / Impregnating / Releasing / Jointing compounds (fold over available at 554)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "54",
+    "SBASICCATDESC": "Filling / Impregnating / Releasing / Jointing compounds (fold over of 553)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "55",
+    "SBASICCATDESC": "Casting compound (All Foundry Materials)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "56",
+    "SBASICCATDESC": "Compounds for Heat Treatment and Heat Transfer",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "57",
+    "SBASICCATDESC": "Compounds not covered in 551 to 556",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41272
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "61",
+    "SBASICCATDESC": "Paints (fold over available at 562)",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "62",
+    "SBASICCATDESC": "Paints (fold over of 561)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "63",
+    "SBASICCATDESC": "Varnishes, Enamels, Lacquers and Polishes",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "64",
+    "SBASICCATDESC": "Distempers & Strainers",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "65",
+    "SBASICCATDESC": "Accelerator catalyst for group 561 and 563",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "67",
+    "SBASICCATDESC": "Solvents, Special Thinners",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "69",
+    "SBASICCATDESC": "Drying oils & Other vegetable Oils",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "71",
+    "SBASICCATDESC": "Lubricating and Pressure Transformers Oils",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "72",
+    "SBASICCATDESC": "Anti-Wear Lubricating Oils",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "74",
+    "SBASICCATDESC": "Lubricating Greases",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "76",
+    "SBASICCATDESC": "Cutting Oils & Coolants",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "78",
+    "SBASICCATDESC": "Petroleum & allied products",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "79",
+    "SBASICCATDESC": "Misc. items in Oils, Greases & Petroleum Products",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "90",
+    "SBASICCATDESC": "Commercial Quality Rubber and related products",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "91",
+    "SBASICCATDESC": "Natural Rubber including Ebonite, Sulphur & Natural Rubber",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "95",
+    "SBASICCATDESC": "Asbestos Bonded with Rubber (Other than thermal Insulation)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "96",
+    "SBASICCATDESC": "Silicon Rubber & Fluorocarbon Rubber",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41144
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "98",
+    "SBASICCATDESC": "Synthetic Rubber",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41148
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "99",
+    "SBASICCATDESC": "Others not covered e.g. Rubber sheet, Fiber glass, Heat Resistant glass",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41272
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "8",
+    "SBASICCATDESC": "CONSUMABLE ITEMS - General Stationery, Personal Liveries, Cleaning Consumables, Packing Materials",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41431
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "22",
+    "SBASICCATDESC": "Other Transmission Products",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "70",
+    "SBASICCATDESC": "BRAZING ALLOYS, SOLDERING ALLOYS AND FLUXES",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41148
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "71",
+    "SBASICCATDESC": "WELDING ELECTRODES, FILLER RODS, WIRES & WELDING FLUXES etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41148
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "72",
+    "SBASICCATDESC": "ABRASIVE PAPERS, CLOTH etc.",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41148
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "73",
+    "SBASICCATDESC": "FOUNDRY CONSUMABLES",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41148
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "74",
+    "SBASICCATDESC": "PAINTING, MARKING, LUBRICATING AND CLEANING ACCESSORIES",
+    "SCRTBY": "2101904",
+    "DCRTDT": 41148
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "79",
+    "SBASICCATDESC": "Hoses and Pipes",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41283
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "0",
+    "SBASICCATDESC": "ASSEMBLIES"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "1",
+    "SBASICCATDESC": "IRON CASTINGS"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "2",
+    "SBASICCATDESC": "STEEL CASTINGS"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "3",
+    "SBASICCATDESC": "NON FERROUS CASTINGS & FORGINGS"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "4",
+    "SBASICCATDESC": "CARBON STEEL FORGINGS"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "5",
+    "SBASICCATDESC": "ALLOY STEEL FORGINGS"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "6",
+    "SBASICCATDESC": "METALLIC COMPONENTS (PROCESSED)"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "7",
+    "SBASICCATDESC": "METTALLIC COMPONENTS (SUB-DELIVERED)"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "8",
+    "SBASICCATDESC": "NON METALLIC COMPONENT (PROCESSED & SUB DELIVERED)"
+  },
+  {
+    "SPRIMARYCAT": "9",
+    "SBASICCAT": "9",
+    "SBASICCATDESC": "CAPITAL GOODS"
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "Clamping Tools (Vices, Clamps, V-Blocks etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "12",
+    "SBASICCATDESC": "Forming & Shaping Tools (Hammers, Mallets, Pipe Benders etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "13",
+    "SBASICCATDESC": "Handling & Marking Tools (Tongs, Pokers, Spades, Shovels, Scribers, Centre Punch etc)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "14",
+    "SBASICCATDESC": "Screw Drivers & Spanners",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "16",
+    "SBASICCATDESC": "Pliers, Pincers, Wires & Cable Strippers, Knives",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "18",
+    "SBASICCATDESC": "Bearing pullers, Hydraulic Jacks.",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "21",
+    "SBASICCATDESC": "Chipping & Shearing Tools",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "22",
+    "SBASICCATDESC": "File action Tools",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "23",
+    "SBASICCATDESC": "Saw action Tools",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "25",
+    "SBASICCATDESC": "Broaching Tools",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "26",
+    "SBASICCATDESC": "Single Point Tools (including Indexable type)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "27",
+    "SBASICCATDESC": "Milling Adopter",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "28",
+    "SBASICCATDESC": "Milling Cutters (including Indexable type)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "29",
+    "SBASICCATDESC": "Gear Cutting Tools (Hobs, Involute cutters. Shaping cutters)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "31",
+    "SBASICCATDESC": "Drills",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "32",
+    "SBASICCATDESC": "Reamers",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "33",
+    "SBASICCATDESC": "Taps (Threading)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "34",
+    "SBASICCATDESC": "Thread Cutting dies",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "35",
+    "SBASICCATDESC": "Chasers / Blocks / Die Heads",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "39",
+    "SBASICCATDESC": "Miscellaneous cutting tools (Knurling tools. Hole cutters. Fluting Cutters, Rotary burrs)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "41",
+    "SBASICCATDESC": "Grinding Wheels",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "42",
+    "SBASICCATDESC": "Mounted Points",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "43",
+    "SBASICCATDESC": "Bonded & Coated Specialities (Sticks, File Stones, Hones)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "44",
+    "SBASICCATDESC": "Emery Sheet / Flap Wheel",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "45",
+    "SBASICCATDESC": "Diamond Wheels, Diamond dressers, Diamond Tools",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "61",
+    "SBASICCATDESC": "Linear & Angular Measuring Tools (Scales, Tapes, Micrometers, Calipers,\r\n Protractors, Bevels, etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "64",
+    "SBASICCATDESC": "Gauges - Standard, Reference (Radius, Slip, Feeler etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "65",
+    "SBASICCATDESC": "Gauges - Limit - Plain",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "67",
+    "SBASICCATDESC": "Gauges - Limit - Screw",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "81",
+    "SBASICCATDESC": "Portable hand machines (Pneumatic, Electric drills etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "84",
+    "SBASICCATDESC": "Accessories for machine tools (Sockets, Sleeves etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "87",
+    "SBASICCATDESC": "Special Trade Tools/kits (Woodworkers, Moulders, etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "90",
+    "SBASICCATDESC": "Tube Expanders",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41425
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "0",
+    "SBASICCATDESC": "FASTENERS (SUB CLASSIFICATION NOT DEFINED)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "1",
+    "SBASICCATDESC": "BOLTS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "2",
+    "SBASICCATDESC": "SCREWS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "3",
+    "SBASICCATDESC": "RESERVE",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "4",
+    "SBASICCATDESC": "STUDS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "5",
+    "SBASICCATDESC": "NUTS, THIN NUTS, LOCK NUTS/ INSERTS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "6",
+    "SBASICCATDESC": "Washers, Circlips",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "7",
+    "SBASICCATDESC": "Pins (Dowel), Rivets, Nails",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "8",
+    "SBASICCATDESC": "Keys",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "71",
+    "SBASICCAT": "9",
+    "SBASICCATDESC": "Others not coverd by abov(Clevis pin hanger rod,welded clevis,clevis with bolt,threaded clevis,bust)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "72",
+    "SBASICCAT": "2",
+    "SBASICCATDESC": "OTHER TRANSMISSION PRODUCTS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41431
+  },
+  {
+    "SPRIMARYCAT": "72",
+    "SBASICCAT": "4",
+    "SBASICCATDESC": "MECHANICAL COMPONENTS & FITTINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41528
+  },
+  {
+    "SPRIMARYCAT": "72",
+    "SBASICCAT": "5",
+    "SBASICCATDESC": "RATING PLATES",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41528
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "31",
+    "SBASICCATDESC": "Pressure measuring & Control devices",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "32",
+    "SBASICCATDESC": "Temperature measuring ,Sensors & Control device",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "33",
+    "SBASICCATDESC": "Flow & Level measuring and Control devices",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "34",
+    "SBASICCATDESC": "Pneumatic control devices",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "35",
+    "SBASICCATDESC": "Electrical/Electronic Control devices",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "36",
+    "SBASICCATDESC": "Control Valves",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "38",
+    "SBASICCATDESC": "Analysers",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "39",
+    "SBASICCATDESC": "Miscellaneous measuring & Control devices (speed, weight, density etc.)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "001",
+    "SBASICCATDESC": "Tachogenerators"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "011",
+    "SBASICCATDESC": "Dry cells and Dry batteries"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "012",
+    "SBASICCATDESC": "Liauid cells and batteries"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "014",
+    "SBASICCATDESC": "Accumulators"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "030",
+    "SBASICCATDESC": "Transformer-Power, above 5 KVA"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "031",
+    "SBASICCATDESC": "Transformer-Control/Power, Upto & including 5 KVA"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "032",
+    "SBASICCATDESC": "Transformer-Current"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "034",
+    "SBASICCATDESC": "Transformer-Pulse"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "035",
+    "SBASICCATDESC": "Transformer-Synchronising"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "036",
+    "SBASICCATDESC": "Auto Transformer"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "040",
+    "SBASICCATDESC": "Chokes (Inductors)"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "101",
+    "SBASICCATDESC": "Signal lamp assembly"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "102",
+    "SBASICCATDESC": "Lamps, Fluorescent tubes and fittings"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "131",
+    "SBASICCATDESC": "Fans and Blowers"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "159",
+    "SBASICCATDESC": "Heaters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "162",
+    "SBASICCATDESC": "A.C. Single Phase Induction Motors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "163",
+    "SBASICCATDESC": "Universal Motors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "165",
+    "SBASICCATDESC": "3 Phase A.C. Squirrel Cage Motors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "166",
+    "SBASICCATDESC": "3 Phase AC. Slip Ring Motors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "167",
+    "SBASICCATDESC": "Synchronous Motors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "169",
+    "SBASICCATDESC": "D.C. Motors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "182",
+    "SBASICCATDESC": "Motor Starters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "190",
+    "SBASICCATDESC": "Audio Alarm devices-Bells, Buzzers, Hooters, Sirens, etc."
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "195",
+    "SBASICCATDESC": "Toggle/Tumbler Switches"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "196",
+    "SBASICCATDESC": "Knife Switches & Isolators"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "197",
+    "SBASICCATDESC": "Limit/Door/Micro/Mercury/Foot switches"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "198",
+    "SBASICCATDESC": "Rotary Switches"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "199",
+    "SBASICCATDESC": "Programmable/Cam operated switches"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "200",
+    "SBASICCATDESC": "Heavy duty & Motor duty Switches"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "201",
+    "SBASICCATDESC": "Master controller/Cam controller"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "203",
+    "SBASICCATDESC": "Switch Fuse Units"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "204",
+    "SBASICCATDESC": "Push Buttons"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "205",
+    "SBASICCATDESC": "Circuit Breakers - Miniature"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "206",
+    "SBASICCATDESC": "Circuit Breakers - Moulded case and/or Motor Protection"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "207",
+    "SBASICCATDESC": "Circuit Breakers - Conventional and Current limiting"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "208",
+    "SBASICCATDESC": "Circuit Breakers - H.T."
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "214",
+    "SBASICCATDESC": "Contactor - L.T. Air break, Electro magnetic for A.C. system"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "216",
+    "SBASICCATDESC": "Contactor - L.T. Air break, Electro magnetic for D.C. system"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "217",
+    "SBASICCATDESC": "Contactor-H.T.Air break, Electro magnetic"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "218",
+    "SBASICCATDESC": "Contactor - LT. Vacuum"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "219",
+    "SBASICCATDESC": "Contactor - H.T. Vacuum"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "220",
+    "SBASICCATDESC": "Contactor-Electro-Pneumatic for A.C. and D.C. systems"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "223",
+    "SBASICCATDESC": "Auxiliary Relays/Contactors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "224",
+    "SBASICCATDESC": "Relays-Current operated, Instantaneous"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "225",
+    "SBASICCATDESC": "Relays - Current operated, Inverse time with or without Instantaneous unit"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "227",
+    "SBASICCATDESC": "Relays - Current operated, Definite time delay"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "228",
+    "SBASICCATDESC": "Relays - Bimetallic and Motor protectior"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "229",
+    "SBASICCATDESC": "Relays - Voltage"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "230",
+    "SBASICCATDESC": "Relays - Differential Protection"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "231",
+    "SBASICCATDESC": "Relays - Distance Protection"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "232",
+    "SBASICCATDESC": "Relays - Reed type"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "233",
+    "SBASICCATDESC": "Relays - Solid state"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "234",
+    "SBASICCATDESC": "Relays - Miscellaneous"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "235",
+    "SBASICCATDESC": "Alarm Annunciators"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "237",
+    "SBASICCATDESC": "Timers"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "251",
+    "SBASICCATDESC": "Ammeters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "253",
+    "SBASICCATDESC": "Voltmeters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "254",
+    "SBASICCATDESC": "Watt meters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "255",
+    "SBASICCATDESC": "Energy Meters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "257",
+    "SBASICCATDESC": "VAR Meters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "258",
+    "SBASICCATDESC": "PF Meters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "259",
+    "SBASICCATDESC": "Frequency Meters"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "282",
+    "SBASICCATDESC": "Shunts"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "286",
+    "SBASICCATDESC": "Solenoids"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "312",
+    "SBASICCATDESC": "Glass Cartridge Fuses"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "313",
+    "SBASICCATDESC": "D Type Cartridge Fuses"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "314",
+    "SBASICCATDESC": "HRC Fuses - Std.duty and Isolating links"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "315",
+    "SBASICCATDESC": "HRC Fuses - Motor duty"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "316",
+    "SBASICCATDESC": "HRC Fuses - For Semi-conductors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "321",
+    "SBASICCATDESC": "Fuse Fittings"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "331",
+    "SBASICCATDESC": "Terminal ends/Cable lugs - Soldering/ Crimping type"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "332",
+    "SBASICCATDESC": "Cable glands"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "333",
+    "SBASICCATDESC": "Plugs, Sockets, Unions & Other fittings"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "334",
+    "SBASICCATDESC": "Terminal Blocks"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "335",
+    "SBASICCATDESC": "Cable Markers/Ferrules"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "336",
+    "SBASICCATDESC": "Cable Channel Racks, Flexible conduits, Wiring cleats, Cable straps,",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41282
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "501",
+    "SBASICCATDESC": "HT/LT busduct",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41431
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "600",
+    "SBASICCATDESC": "Clamps, etc"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "601",
+    "SBASICCATDESC": "Metal film, fixed"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "603",
+    "SBASICCATDESC": "Wirewound, fixed, axial"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "604",
+    "SBASICCATDESC": "Wirewound, fixed, radial"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "606",
+    "SBASICCATDESC": "Wirewound, adjustable"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "608",
+    "SBASICCATDESC": "Potentiometer, cermet"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "609",
+    "SBASICCATDESC": "Potentiometer, wire wound"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "610",
+    "SBASICCATDESC": "Trimpot. wirewound"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "611",
+    "SBASICCATDESC": "Trimpot, cermet"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "614",
+    "SBASICCATDESC": "Special purpose Resistors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "635",
+    "SBASICCATDESC": "Ceramic"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "636",
+    "SBASICCATDESC": "Metallised Polyester"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "638",
+    "SBASICCATDESC": "Polystyrene (Styroflex)"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "641",
+    "SBASICCATDESC": "Paper Dielectric"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "643",
+    "SBASICCATDESC": "Electrolytic, Tantalum"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "645",
+    "SBASICCATDESC": "Electrolytic. Aluminum"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "651",
+    "SBASICCATDESC": "Diodes"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "661",
+    "SBASICCATDESC": "Converter Grade, SHEL make Thyristors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "662",
+    "SBASICCATDESC": "Inverter Grade, BHEL make"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "663",
+    "SBASICCATDESC": "Converter Grade, other Thai BHEL make"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "664",
+    "SBASICCATDESC": "Inverter Grade, other than SHEL make"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "670",
+    "SBASICCATDESC": "Linear ICs"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "672",
+    "SBASICCATDESC": "Interface ICs"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "673",
+    "SBASICCATDESC": "Digital ICs"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "674",
+    "SBASICCATDESC": "Memory ICs"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "675",
+    "SBASICCATDESC": "Microprocessor ICs"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "677",
+    "SBASICCATDESC": "Special purpose ICs"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "680",
+    "SBASICCATDESC": "Optoelectronic components"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "681",
+    "SBASICCATDESC": "Optoelectronic accessories"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "690",
+    "SBASICCATDESC": "Surge suppressors"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "691",
+    "SBASICCATDESC": "Electronic hardware."
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "694",
+    "SBASICCATDESC": "Racks & Rack hardware"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "695",
+    "SBASICCATDESC": "Heat sink extrusions/castings"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "696",
+    "SBASICCATDESC": "Heat sinks"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "701",
+    "SBASICCATDESC": "Electronic modules,fixed"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "702",
+    "SBASICCATDESC": "Electronic modules, flexible"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "703",
+    "SBASICCATDESC": "Electronic sub-assemblies"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "707",
+    "SBASICCATDESC": "Power modules, thystack 689 service BHEL make."
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "710",
+    "SBASICCATDESC": "Power modules, thystack 689 service BHEL make."
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "00",
+    "SBASICCATDESC": "VALVES (CLASSIFICATION NOT DEFINED)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "01",
+    "SBASICCATDESC": "Globe Valve hand operated"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "02",
+    "SBASICCATDESC": "Globe Valve hand operated (with or without gland sealing not defined)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "06",
+    "SBASICCATDESC": "Globe Valve hand operated with gland sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "Regulating Globe Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "16",
+    "SBASICCATDESC": "Regulaling globe valve with gland sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "21",
+    "SBASICCATDESC": "Wedge gate Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "26",
+    "SBASICCATDESC": "Wedge gate Valve with gland sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "31",
+    "SBASICCATDESC": "Piston Lift type check valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "36",
+    "SBASICCATDESC": "Piston Lift type spring assisted check valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "41",
+    "SBASICCATDESC": "Swing check valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "46",
+    "SBASICCATDESC": "Swing check valve WIth gland sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "51",
+    "SBASICCATDESC": "Screwed down check valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "56",
+    "SBASICCATDESC": "Parallel Slide Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "60",
+    "SBASICCATDESC": "STEAM TRAP",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "61",
+    "SBASICCATDESC": "Parallel Slide Valve with gland sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "67",
+    "SBASICCATDESC": "Ball flow type steam trap"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "68",
+    "SBASICCATDESC": "Inverted bucket type steam trap"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "69",
+    "SBASICCATDESC": "Thermodisc type steam trap"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "70",
+    "SBASICCATDESC": "Needle valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "71",
+    "SBASICCATDESC": "Diaphragm valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "72",
+    "SBASICCATDESC": "Butterfly valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "73",
+    "SBASICCATDESC": "Float valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "77",
+    "SBASICCATDESC": "Strainer"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "78",
+    "SBASICCATDESC": "Port valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "79",
+    "SBASICCATDESC": "Sail valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "80",
+    "SBASICCATDESC": "Cock - 3 way"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "81",
+    "SBASICCATDESC": "Cock - Male threaded"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "82",
+    "SBASICCATDESC": "Cock - Female.threaded"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "83",
+    "SBASICCATDESC": "Cock -One side Male and one side Female threaded"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "84",
+    "SBASICCATDESC": "Plug Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "85",
+    "SBASICCATDESC": "Plug Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "86",
+    "SBASICCATDESC": "Plug Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "87",
+    "SBASICCATDESC": "Plug Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "88",
+    "SBASICCATDESC": "Plug Valve"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "89",
+    "SBASICCATDESC": "Plug Valve with gland Sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "90",
+    "SBASICCATDESC": "Plug Valve with gland Sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "91",
+    "SBASICCATDESC": "Plug Valve with glana Sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "92",
+    "SBASICCATDESC": "Plug Valve with gland Sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "93",
+    "SBASICCATDESC": "Plug Valve with gland Sealing"
+  },
+  {
+    "SPRIMARYCAT": "75",
+    "SBASICCAT": "94",
+    "SBASICCATDESC": "COCK (NOT CLASSIFIED), PLUG VALVE (NOT CLASSIFIED)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "0",
+    "SBASICCATDESC": "BRAZING ALLOYS, SOLDERING ALLOYS AND FLUXES"
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "1",
+    "SBASICCATDESC": "WELDING ELECTRODES, FILLER RODS, WIRES AND WELDING FLUXES"
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "2",
+    "SBASICCATDESC": "Abrasive papers, cloth, etc.",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "3",
+    "SBASICCATDESC": "Foundry Consumables",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "4",
+    "SBASICCATDESC": "Painting, Marking, Lubricating and  Cleaning accessories",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "5",
+    "SBASICCATDESC": "WELDING ACCESSORIES"
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "8",
+    "SBASICCATDESC": "SAFETY EQUIPMENT",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "77",
+    "SBASICCAT": "9",
+    "SBASICCATDESC": "Other miscellaneous items Hoses and Pipes only",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "01",
+    "SBASICCATDESC": "SINGLE ROW RIGID RADIAL (DEEP GROOVE) BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "02",
+    "SBASICCATDESC": "DOUBLE ROW RIGID RADIAL (DEEP GROOVE) BALL BARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "06",
+    "SBASICCATDESC": "SINGLE ROW SELF ALIGNING (RADIAL BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "07",
+    "SBASICCATDESC": "DOUBLE ROW SELF ALIGNING (RADIAL ) BALL BEARINGS WITH COMBINATIONS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "08",
+    "SBASICCATDESC": "DOUBLE ROW SELF ALIGNING (RADIAL) BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "SINGLE ROW ANGULAR CONTACT (RADIAL) BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "12",
+    "SBASICCATDESC": "DOUBLE ROW ANGULAR CONTACT( RADIAL) BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "15",
+    "SBASICCATDESC": "SINGLE ROW CYLINDRICAL (RADIAL) ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "16",
+    "SBASICCATDESC": "DOUBLE ROW CYLINDRICAL (RADIAL) ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "17",
+    "SBASICCATDESC": "FOUR ROW CYLINDRICAL (RADIAL) ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "18",
+    "SBASICCATDESC": "CYLINDRICAL ROLLER BEARINGS WITH LONG ROLLERS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "22",
+    "SBASICCATDESC": "SINGLE ROW SELF-ALIGNING (SPHERICAL) RADIAL ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "23",
+    "SBASICCATDESC": "DOUBLE ROW SELF - ALIGNING (SPHERICAL) RADIAL ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "27",
+    "SBASICCATDESC": "SINGLE ROW RIGID RADIAL NEEDLE ROLLER BEARINGS WITHOUT INNER RING)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "28",
+    "SBASICCATDESC": "DOUBLE ROW RIGID RADIAL NEEDLE ROLLER BEARINGS (WITHOUT INNER RING)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "29",
+    "SBASICCATDESC": "SINGLE ROW RIGID RADIAL NEEDLE ROLLER BEARINGS (COMPLETE WITH INNER RINGS)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "30",
+    "SBASICCATDESC": "DOUBLE ROW RIGID RADIAL NEEDLE RLRBRG (COMPLET WITH INNER RINGS)/DOUBL ROW SHELL TYPE NEEDLE ROLRBRG",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "31",
+    "SBASICCATDESC": "ADJUSTABLE NEEDLE ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "32",
+    "SBASICCATDESC": "SELF ALIGNING NEEDLE ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "33",
+    "SBASICCATDESC": "COMBINED RADIAL NEEDLE ROLLER AND THRUST BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "34",
+    "SBASICCATDESC": "COMBINED RADIAL NEEDLE ROLLER AND THRUST ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "36",
+    "SBASICCATDESC": "NEEDLE ROLLER DOUBLE THRUST BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "40",
+    "SBASICCATDESC": "CYLINDRICAL ROLLER SINGLE THRUST BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "41",
+    "SBASICCATDESC": "CYLINDRICAL ROLLER DOUBLE THRUST BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "45",
+    "SBASICCATDESC": "SINGLE ROW FLEXIBLE ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "46",
+    "SBASICCATDESC": "DOUBLE ROW FLEXIBLE ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "49",
+    "SBASICCATDESC": "SINGLE ROW TAPERED ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "50",
+    "SBASICCATDESC": "DOUBLE ROW TAPERED ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "51",
+    "SBASICCATDESC": "FOUR ROW TAPERED ROLLER BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "52",
+    "SBASICCATDESC": "TAPERED ROLLER THRUST BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "55",
+    "SBASICCATDESC": "SINGLE THRUST BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "56",
+    "SBASICCATDESC": "DOUBLE THRUST BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "57",
+    "SBASICCATDESC": "THRUST BALL BEARINGS - ANGULAR CONTACT",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "58",
+    "SBASICCATDESC": "SINGLE THRUST BALL BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "59",
+    "SBASICCATDESC": "DOUBLE THRUST BALL BEARINGS - SELF ALIGNING",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "64",
+    "SBASICCATDESC": "SPHERICAL ROLLER THRUST BEARINGS - SELF ALIGNING",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "80",
+    "SBASICCATDESC": "SPHERICAL PLAIN BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "721",
+    "SBASICCAT": "81",
+    "SBASICCATDESC": "ACCESSORIES FOR BEARINGS",
+    "SCRTBY": "6014755",
+    "DCRTDT": 41281
+  },
+  {
+    "SPRIMARYCAT": "5",
+    "SBASICCAT": "39",
+    "SBASICCATDESC": "Foundry Materials (fold over of 536)",
+    "DCRTDT": 45559.58425925926
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "91",
+    "SBASICCATDESC": "Press Tools",
+    "DCRTDT": 45590.63344907408
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "71",
+    "SBASICCATDESC": "Low Carbon Steels (Fold over)",
+    "DCRTDT": 45616.70788194444
+  },
+  {
+    "SPRIMARYCAT": "6",
+    "SBASICCAT": "68",
+    "SBASICCATDESC": "API Instruments",
+    "DCRTDT": 45899.50125
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "21",
+    "SBASICCATDESC": "Antifriction Bearings",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45457.450902777775
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "10",
+    "SBASICCATDESC": "Carbon steel (all percentage of carbon) (fold over available at 111)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 45544.435
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "Carbon steel (all percentage of carbon) (fold over of 110)",
+    "SCRTBY": "6014755",
+    "DCRTDT": 45544.435
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "61",
+    "SBASICCATDESC": "Platinum",
+    "SCRTBY": "6014755",
+    "DCRTDT": 45546.450104166666
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "24",
+    "SBASICCATDESC": "Cobalt",
+    "SCRTBY": "6014755",
+    "DCRTDT": 45096.395682870374,
+    "REMARKS": "HY using"
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "15",
+    "SBASICCATDESC": "Alloy Steels (General Purpose) (fold over of 05)"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "24",
+    "SBASICCATDESC": "Standard Mechanical Components",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45449.582650462966
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "25",
+    "SBASICCATDESC": "Rating Plates",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45449.58268518518
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "Bolts",
+    "SCRTBY": "6014755",
+    "DCRTDT": 45449.6375462963
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "12",
+    "SBASICCATDESC": "Screws"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "14",
+    "SBASICCATDESC": "Studs"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "15",
+    "SBASICCATDESC": "Nuts, Thin Nuts / Inserts / Lock Nuts"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "16",
+    "SBASICCATDESC": "Washers, Circlips"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "17",
+    "SBASICCATDESC": "Pins (Dowel), Rivets, Nails"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "18",
+    "SBASICCATDESC": "Keys"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "19",
+    "SBASICCATDESC": "Other Fasteners (not covered above)"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "75",
+    "SBASICCATDESC": "Welding Accessories, Such as Blow Pipes. Nozzles. Torches, etc.",
+    "SCRTBY": "6047467",
+    "DCRTDT": 41283
+  },
+  {
+    "SPRIMARYCAT": "1",
+    "SBASICCAT": "52",
+    "SBASICCATDESC": "Molybdenum & Molybdenum Alloys",
+    "SCRTBY": "6014755"
+  },
+  {
+    "SPRIMARYCAT": "74",
+    "SBASICCAT": "020",
+    "SBASICCATDESC": "Power Coverters (AC-DC, DC-AC, DC-DC, AC-AC)(like Converters / Rectifiers)"
+  },
+  {
+    "SPRIMARYCAT": "8",
+    "SBASICCAT": "1",
+    "SBASICCATDESC": "Power Services",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45752.389699074076
+  },
+  {
+    "SPRIMARYCAT": "8",
+    "SBASICCAT": "2",
+    "SBASICCATDESC": "Cooling, Air conditioning and Office Equipment",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45752.389699074076
+  },
+  {
+    "SPRIMARYCAT": "8",
+    "SBASICCAT": "3",
+    "SBASICCATDESC": "Power Distribution Equipment",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45752.389699074076
+  },
+  {
+    "SPRIMARYCAT": "8",
+    "SBASICCAT": "4",
+    "SBASICCATDESC": "Machinery & Equipment",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45752.389699074076
+  },
+  {
+    "SPRIMARYCAT": "8",
+    "SBASICCAT": "5",
+    "SBASICCATDESC": "Instruments, Equipment for Test Room (Steam Turbines, Alternators etc.)",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45752.389699074076
+  },
+  {
+    "SPRIMARYCAT": "8",
+    "SBASICCAT": "6",
+    "SBASICCATDESC": "Transport Means and Construction Equipment",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45752.389699074076
+  },
+  {
+    "SPRIMARYCAT": "8",
+    "SBASICCAT": "7",
+    "SBASICCATDESC": "Pneumatic & Electrical Tools",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45752.389699074076
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "01",
+    "SBASICCATDESC": "Conventional Machining",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "02",
+    "SBASICCATDESC": "CNC Machining",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "03",
+    "SBASICCATDESC": "Bending & Rolling Machine",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "04",
+    "SBASICCATDESC": "Forming Machine",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "05",
+    "SBASICCATDESC": "FORGING & PRESS EQUIPMENTS",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "06",
+    "SBASICCATDESC": "Welding/Joining /Cutting Machine- Stand Alone Sets",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "07",
+    "SBASICCATDESC": "3D Printing / Additive manufacturing machines",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "08",
+    "SBASICCATDESC": "HEAT TREATMENT EQUIPMENT",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "09",
+    "SBASICCATDESC": "HEATING & DRYING EQUIPMENT",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "10",
+    "SBASICCATDESC": "Mechanical Testing",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "11",
+    "SBASICCATDESC": "Electrical/Electronic Testing",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "12",
+    "SBASICCATDESC": "Chemical and Physical property testing Equipments",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "13",
+    "SBASICCATDESC": "Thermal property testing Equipments",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "14",
+    "SBASICCATDESC": "Fluid Dyamics property testing Equipments",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "15",
+    "SBASICCATDESC": "METROLOGY EQUIPMENT",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "16",
+    "SBASICCATDESC": "Environment/Biological Monitoring Equipments",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "17",
+    "SBASICCATDESC": "Jigs, Fixtures, Portable tools, Tables and all other items of P&M not covered above",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "18",
+    "SBASICCATDESC": "Material Handling & Storage Equipments",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "19",
+    "SBASICCATDESC": "Job Handling Devices",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "20",
+    "SBASICCATDESC": "Electronic/Wafer/Solar Fabrication",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "21",
+    "SBASICCATDESC": "Special Equipments",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "51",
+    "SBASICCATDESC": "Factory (RCC Structure)",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "52",
+    "SBASICCATDESC": "Factory (Steel Framed Structure)",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "53",
+    "SBASICCATDESC": "Factory (Load bearing Masonary)",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "54",
+    "SBASICCATDESC": "Factory (others)",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "55",
+    "SBASICCATDESC": "Township Buildings",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "56",
+    "SBASICCATDESC": "Township Other Structures",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "57",
+    "SBASICCATDESC": "Fences",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "58",
+    "SBASICCATDESC": "Wells, tube wells",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "66",
+    "SBASICCATDESC": "AIR-CONDITIONING EQUIPMENTS",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "67",
+    "SBASICCATDESC": "WATER-CONDITIONING EQUIPMENTS",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "68",
+    "SBASICCATDESC": "REFRIGERATION EQUIPMENTS",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "69",
+    "SBASICCATDESC": "DM water/STP/ETP",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "70",
+    "SBASICCATDESC": "Boilers",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "71",
+    "SBASICCATDESC": "AUDIO/VISUAL EQUIPMENTS",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "72",
+    "SBASICCATDESC": "Process Equipment",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "91",
+    "SBASICCATDESC": "Medical & Diagnostic Equipment",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "3",
+    "SBASICCAT": "92",
+    "SBASICCATDESC": "WELFARE EQUIPMENTS",
+    "SCRTBY": "6047467"
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "40",
+    "SBASICCATDESC": "Equipment for generation of electric power, Transmission and conversion of electric ower",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481.562372685185
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "41",
+    "SBASICCATDESC": "Equipment for utilization of electric power",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "42",
+    "SBASICCATDESC": "Distribution Circuit Devices and Circuit Elements",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "43",
+    "SBASICCATDESC": "Conducting and Connecting Devices",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "46",
+    "SBASICCATDESC": "Resistors, Capacitors, Diodes, Transistors, Thyristors, Electronic Hardware(Rack), ICs Etc,.",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "47",
+    "SBASICCATDESC": "Electronic Components",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "48",
+    "SBASICCATDESC": "Electronic Components",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "49",
+    "SBASICCATDESC": "Electrical and Electronic components (Temperature switches, pressure switches etc.)",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45481
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "89",
+    "SBASICCATDESC": "Medical Items (HY)",
+    "DCRTDT": 45639.52726851852
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "9",
+    "SBASICCATDESC": "CONSUMABLE ITEMS - Maintenance (like Civil)(To be operated at Plant level)(Fold over of 78 series)",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45544.38579861111
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "78",
+    "SBASICCATDESC": "Safety Equipments",
+    "SCRTBY": "6047467",
+    "DCRTDT": 45736.429293981484
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "5",
+    "SBASICCATDESC": "Valves",
+    "DCRTDT": 45789.42704861111
+  },
+  {
+    "SPRIMARYCAT": "7",
+    "SBASICCAT": "45",
+    "SBASICCATDESC": "Information Technology Items (Printer, Scanner, LCD / LED Displays, Console)",
+    "DCRTDT": 46024.661215277774
+  }
+]

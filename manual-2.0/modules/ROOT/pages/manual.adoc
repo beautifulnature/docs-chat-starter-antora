@@ -1,4 +1,4 @@
-*UMCD Manual*
+= UMCD Manual
 
 image:media/image1.png[media/image1,width=295,height=241]
 
@@ -203,13 +203,19 @@ Material codes facilitate in
 
 == Introduction
 
-History has shown beyond doubt that Standardization has been responsible for industrial progress and economic development and that the countries that took to standardization seriously have advanced most e.g., USA, USSR, UK, Germany, Japan and others. Encouraged by our initial success in unifying the raw material codification across BHEL we have gone all out for Standardization & Codification, through component codification across the corporation, in our efforts to profit from this company wide experience.
+History has shown beyond doubt that Standardization has been responsible for industrial progress and economic development and that the countries that took to standardization seriously have advanced most e.g., USA, USSR, UK, Germany, Japan and others. 
+Encouraged by our initial success in unifying the raw material codification across BHEL we have gone all out for Standardization & Codification, through component codification across the corporation, in our efforts to profit from this company wide experience.
 
 == Background of Rationalisation & Codification Exercise
 
-Standardization and codification are necessary to reduce inventory burden. The need to rationalize material codes as per the standard 12-digit alpha numeric codes, an oft repeated initiative across the company, was taken up with renewed rigor since December 2022 with the sole purpose of optimizing resource utilization, enabling economic buying, eliminating duplicity, ensuring proper inventory analysis, etc. Out of a total of 12 lakhs plus material codes across the company, 8 lakh inactive material codes have been parked aside (to be used only if routed through _Unified Material Code Cell_ (UMCC)) and a residual 4 lakh active material codes have been considered for rationalisation. Of these 12 lakh material codes, the UMCC has addressed around 1.1 lakh material codes relating to series 1, 2, & 5 (_Metals_, _Insulating Materials_ and _Non-Metals_), and toned down the same to 14,189 uniform material codes, this effort has enabled _Unified Procurement Cell_ (UPC) formed at Delhi under the aegis of CAPEX and _Sourcing Strategy & Policy_ (SS&P), to ensure that procurement of Steel starting Q1 of 2024-25 is made from the uniform material codes only. UMCC to continue to address any other issues in this series (1,2 & 5).
+Standardization and codification are necessary to reduce inventory burden. 
+The need to rationalize material codes as per the standard 12-digit alpha numeric codes, an oft repeated initiative across the company, was taken up with renewed rigor since December 2022 with the sole purpose of optimizing resource utilization, enabling economic buying, eliminating duplicity, ensuring proper inventory analysis, etc. 
+Out of a total of 12 lakhs plus material codes across the company, 8 lakh inactive material codes have been parked aside (to be used only if routed through _Unified Material Code Cell_ (UMCC)) and a residual 4 lakh active material codes have been considered for rationalisation. 
+Of these 12 lakh material codes, the UMCC has addressed around 1.1 lakh material codes relating to series 1, 2, & 5 (_Metals_, _Insulating Materials_ and _Non-Metals_), and toned down the same to 14,189 uniform material codes, this effort has enabled _Unified Procurement Cell_ (UPC) formed at Delhi under the aegis of CAPEX and _Sourcing Strategy & Policy_ (SS&P), to ensure that procurement of Steel starting Q1 of 2024-25 is made from the uniform material codes only. 
+UMCC to continue to address any other issues in this series (1,2 & 5).
 
-Encouraged by our initial success in raw material codification, we made a sincere effort to extend the codes to component level codification that includes the 6 (_Standard Tools_), 7 (Standard Components), 8 (Maintenance Spares), and 9 (Product Components) series codes. On directive from Director, E, R&D, we also forayed into 3 series that we reserved for _Capital Goods_ codification across the Company.
+Encouraged by our initial success in raw material codification, we made a sincere effort to extend the codes to component level codification that includes the 6 (_Standard Tools_), 7 (Standard Components), 8 (Maintenance Spares), and 9 (Product Components) series codes. 
+On directive from Director, E, R&D, we also forayed into 3 series that we reserved for _Capital Goods_ codification across the Company.
 
 Two Cross Functional Teams were formed one for _Capital Goods_ codification and another on system improvements in UMCD portal on 08.04.2024 and 13.04.2024. Meetings were held and the CFT on _Capital Goods_ codification finalized on a structure for the same that was distributed to all the major units and subsequently to the other units. The CFT on system improvements in UMCD portal met at Trichy and evolved a system for populating the erstwhile CMCA (Central Material Code Allocation system), now UMCD (Unified Material Code Directory) with all the 1 – 9 series codes.
 

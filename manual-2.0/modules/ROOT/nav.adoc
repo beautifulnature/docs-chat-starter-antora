@@ -1,1 +1,1 @@
-* xref:manual.adoc[UMCD Manual]
+* xref:index.adoc[UMCD Manual]

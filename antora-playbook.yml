@@ -7,8 +7,8 @@ content:
     #   start_path: docs
     - url: .
       start_path: manual-1.0
-    # - url: .
-    #   start_path: manual-2.0
+    - url: .
+      start_path: manual-2.0
 ui:
   bundle:
     # url: https://gitlab.com/antora/antora-ui-default/-/raw/master/build/ui-bundle.zip
@@ -25,18 +25,65 @@ runtime:
 
 antora:
   extensions:
-    - require: ./extensions/json-table-extension.js
-      data_dir: ./data
-      tables:
-        - file: products.json
-          component: docs
-          module: ROOT
-          version: ~
-          partial: generated/products-table.adoc
-          columns:
-            - key: id
-              header: ID
-            - key: name
-              header: Name
-            - key: price
-              header: Price
+  - require: ./extensions/json-table-extension.js
+    data_dir: ./data
+    tables:
+      - file: basic_categories.json
+        target_root: manual-2.0
+        module: ROOT
+        partial: generated/basic_categories-table.adoc
+        colspec: "10%,10%,80%"
+        columns:
+          - key: SPRIMARYCAT
+            header: Primary Category
+          - key: SBASICCAT
+            header: Basic Category
+          - key: SBASICCATDESC
+            header: Description
+  - require: ./extensions/lunr-search-extension.js
+    build_dir: ./build/site
+    index_file: search-index.json
+  # - require: ./extensions/json-table-extension.js
+  #   data_dir: ./data
+  #   tables:
+  #     - file: basic_categories.json
+  #       start_path: manual-2.0
+  #       module: ROOT
+  #       partial: generated/basic_categories-table.adoc
+  #       columns:
+  #         - key: SPRIMARYCAT
+  #           header: Primary_Category
+  #         - key: SBASICCAT
+  #           header: Basic_Category
+  #         - key: SBASICCATDESC
+  #           header: Description
+  # - require: ./extensions/json-table-extension.js
+  #   data_dir: ./data
+  #   tables:
+  #     - file: basic_categories.json
+  #       component: manual
+  #       module: ROOT
+  #       version: 2.0
+  #       partial: generated/basic_categories-table.adoc
+  #       columns:
+  #         - key: SPRIMARYCAT
+  #           header: Primary_Category
+  #         - key: SBASICCAT
+  #           header: Basic_Category
+  #         - key: SBASICCATDESC
+  #           header: Description
+  # - require: ./extensions/json-table-extension.js
+  #   data_dir: ./data
+  #   tables:
+  #     - file: products.json
+  #       component: docs
+  #       module: ROOT
+  #       version: ~
+  #       partial: generated/products-table.adoc
+  #       columns:
+  #         - key: id
+  #           header: ID
+  #         - key: name
+  #           header: Name
+  #         - key: price
+  #           header: Price

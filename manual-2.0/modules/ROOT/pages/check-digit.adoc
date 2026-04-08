@@ -1,0 +1,100 @@
+= Check Digit
+:stem:
+
+Code Number precisely identifies the materials and hence any mistakes committed would lead to issue of wrong material to production shop / Central Despatch Centre. 
+Code Numbers are indicated in the indenting as well as Technological documents and many agencies are involved in carrying over the Code Numbers from one document to another like Indent, MPR, Purchase Order etc.
+
+The different types of errors encountered are as follows:-
+
+TYPES OF ERRORS
+
+[width="57%",cols="32%,30%,38%",options="header",]
+|===
+|Transcription Error a|
+73[.underline]#734#53231
+
+as
+
+73[.underline]#137#53231
+
+|A wrong number is written completely
+|Transposition Error a|
+101[.underline]#34#28635
+
+as
+
+101[.underline]#43#28635
+
+|Position of Numbers Reversed
+a|
+Shift
+
+Error
+
+a|
+7001275386
+
+as
+
+700[.underline]#01#27538
+
+|Addition or Deletion of Zero
+|Random Error a|
+6432173852
+
+as
+
+643[.underline]#12#73[.underline]#05#2
+
+|Any Error
+|===
+
+Transcription errors occur up to 90%, Single Transcription errors up to 5%, and others 5%.
+
+Due to the numerable code numbers and the voluminous work involved, manual checking of code numbers at various stages is found to be not practicable. 
+The above difficulty is obviated in the 12-digit scheme by the introduction of check digit (12^th^ digit).
+
+Check digit is calculated by ‘Modulus 11’ formula. 
+There is no check on the alpha prefixes but the first nine numerical digits of the Code Number shall comply with the check digit. 
+When data from the different documents like indents, schedule of parts has to be processed through computer, computer system provides for checking of each and every code number and if any wrong code number is found, error indication is given. Such documents are returned back to the concerned agency for taking corrective action.
+
+A typical calculation of ‘Modulus 11’ formula is illustrated:
+
+MODULUS 11 FORMULA
+
+AA 102 04 08 14 X
+
+[width="32%",cols="19%,10%,11%,10%,10%,10%,10%,10%,10%",options="header",]
+|===
+|1 |0 |2 |0 |4 |0 |8 |1 |4
+9+|
+|10 |9 |8 |7 |6 |5 |4 |3 |2
+9+|
+2+|1 |X 2+|10 2+|= 2+|10
+2+|0 |X 2+|9 2+|= 2+|0
+2+|2 |X 2+|8 2+|= 2+|16
+2+|0 |X 2+|7 2+|= 2+|0
+2+|4 |X 2+|6 2+|= 2+|24
+2+|0 |X 2+|5 2+|= 2+|0
+2+|8 |X 2+|4 2+|= 2+|32
+2+|1 |X 2+|3 2+|= 2+|3
+2+|4 |X 2+|2 2+|= 2+|8
+2+| | 2+|Sum 2+|= 2+|93
+|===
+
+This number is to be divided by 11 to get the remainder
+
+    11 ) 93 (8
+         88
+        ----
+          5
+Check Digit = 11 - 5 = 6
+
+Special Cases:
+11 - 0 = 11
+
+11 - 1 = 10
+
+In both the cases Check Digit = 0
+
+Check digit ensure 100% accuracy for transcription, transposition and shift errors and 90.9% accuracy for Random errors.

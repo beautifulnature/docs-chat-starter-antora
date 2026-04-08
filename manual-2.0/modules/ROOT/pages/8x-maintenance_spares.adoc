@@ -1,0 +1,71 @@
+= Maintenance Spares
+
+== The Structure
+
+image:media/image28.png[media/image28,width=610,height=494]
+
+=== Main Category
+
+image:media/image29.png[media/image29,width=572,height=92]
+
+[width="84%",cols="8%,7%,85%",]
+|===
+|8 |1 |Power Services
+|8 |2 |Cooling, Air conditioning and Office Equipment
+|8 |3 |Power Distribution Equipment
+|8 |4 |Machinery & Equipment
+|8 |5 |Instruments, Equipment for Test Room of Steam Turbines & Turbo - Alternators
+|8 |6 |Transport Means and Construction Equipment
+|8 |7 |Pneumatic & Electrical Tools
+|===
+
+=== Main Class
+
+image:media/image30.png[media/image30,width=543,height=87]
+
+[width="89%",cols="8%,5%,5%,82%",]
+|===
+|8 |1 |1 |E.O.T. (Electric Overhead Travel) cranes
+|8 |1 |2 |Lifts and hoists and power trucks
+|8 |1 |3 |Telephones
+|8 |2 |1 |Water cooler and air conditioning Plant
+|8 |2 |2 |Cooling Towers
+|8 |2 |3 |Typewriters
+|8 |2 |4 |Electrically operated office machines
+|8 |2 |5 |Duplicating machines and blue printing Machines
+|8 |3 |0 |Common material for erection & equipment
+|8 |3 |1 |Machines & equipment for electric power and measuring instruments
+|8 |3 |2 |Machines & equipment for heat energy
+|8 |3 |3 |Machines & equipment for gas storage
+|8 |3 |4 |Distribution equipment for electrical energy
+|8 |3 |5 |Distribution equipment for heat energy
+|8 |3 |6 |Distribution of gas and compressed air
+|8 |3 |7 |Fans and blowers
+|8 |3 |8 |l.C. Engines (Stationary)
+|8 |3 |9 |Distribution equipment for electrical energy, Impregnating equipment
+|8 |4 |1 |Furnaces & furnace equipment
+|8 |4 |2 |Machinery& equipment for moulding. casting and welding
+|8 |4 |3 |Machinery & equipment for forming materials
+|8 |4 |4 |Machinery & equipment for machining materials (Lathes, etc.)
+|8 |4 |5 |Machinery & equipment for machining materials (Milling, grinding & sawing machines)
+|8 |4 |6 |Machinery & equipment for surface treatment
+|8 |4 |7 |Machinery & equipment pumping fluids
+|8 |4 |8 |Manually operated machines, checking machine and equipment
+|8 |4 |9 |Hydraulically operated machines other than machines for forming materials
+|8 |5 |1 |Balances and weighing machines
+|8 |5 |2 |Instruments for measuring and magnetic quantities
+|8 |5 |3 |Instruments for measuring heat energy
+|8 |5 |4 |Instruments for inspection and test
+|8 |5 |5 |Laboratory instruments and accessories
+|8 |5 |6 |Equipment for test room of steam turbines
+|8 |5 |7 |Equipment for test room of steam turbo alternators
+|8 |5 |8 |Miscellaneous instruments
+|8 |6 |1 |Locomotives
+|8 |6 |2 |Automobile, diesel, vehicles
+|8 |6 |3 |Automobile, petrol vehicles
+|8 |6 |5 |Diesel Road roller / trailors
+|8 |6 |6 |C.C Mixer, pan mixers & vibraters, etc.
+|8 |6 |7 |Manually driven vehicles
+|8 |7 |1 |Pneumatic tools
+|8 |7 |2 |Electrical Tools
+|===

@@ -1,0 +1,467 @@
+= Brief History of Standardization and Codification in BHEL
+
+== Introduction
+
+History has shown beyond doubt that Standardization has been responsible for industrial progress and economic development and that the countries that took to standardization seriously have advanced most e.g., USA, USSR, UK, Germany, Japan and others. 
+Encouraged by our initial success in unifying the raw material codification across BHEL we have gone all out for Standardization & Codification, through component codification across the corporation, in our efforts to profit from this company wide experience.
+
+== Background of Rationalisation & Codification Exercise
+
+Standardization and codification are necessary to reduce inventory burden. 
+The need to rationalize material codes as per the standard 12-digit alpha numeric codes, an oft repeated initiative across the company, was taken up with renewed rigor since December 2022 with the sole purpose of optimizing resource utilization, enabling economic buying, eliminating duplicity, ensuring proper inventory analysis, etc. 
+Out of a total of 12 lakhs plus material codes across the company, 8 lakh inactive material codes have been parked aside (to be used only if routed through _Unified Material Code Cell_ (UMCC)) and a residual 4 lakh active material codes have been considered for rationalisation. 
+Of these 12 lakh material codes, the UMCC has addressed around 1.1 lakh material codes relating to series 1, 2, & 5 (_Metals_, _Insulating Materials_ and _Non-Metals_), and toned down the same to 14,189 uniform material codes, this effort has enabled _Unified Procurement Cell_ (UPC) formed at Delhi under the aegis of CAPEX and _Sourcing Strategy & Policy_ (SS&P), to ensure that procurement of Steel starting Q1 of 2024-25 is made from the uniform material codes only. 
+UMCC to continue to address any other issues in this series (1,2 & 5).
+
+Encouraged by our initial success in raw material codification, we made a sincere effort to extend the codes to component level codification that includes the 6 (_Standard Tools_), 7 (Standard Components), 8 (Maintenance Spares), and 9 (Product Components) series codes. 
+On directive from Director, E, R&D, we also forayed into 3 series that we reserved for _Capital Goods_ codification across the Company.
+
+Two Cross Functional Teams were formed one for _Capital Goods_ codification and another on system improvements in UMCD portal on 08.04.2024 and 13.04.2024. 
+Meetings were held and the CFT on _Capital Goods_ codification finalized on a structure for the same that was distributed to all the major units and subsequently to the other units. 
+The CFT on system improvements in UMCD portal met at Trichy and evolved a system for populating the erstwhile CMCA (Central Material Code Allocation system), now UMCD (Unified Material Code Directory) with all the 1 – 9 series codes.
+
+Codification is a fundamental process in materials management that involves assigning unique codes to items within an organization’s inventory. 
+This systematic approach streamlines the identification, tracking, and management of materials, contributing to efficient operations. 
+Codification is a foundational component of materials management, providing structure and organization to inventory-related activities. 
+By assigning unique codes to materials and maintaining accurate records, organizations can streamline their processes, improve inventory control, and enhance overall efficiency. 
+It’s a critical tool for cost management and ensuring that the right materials are available when needed.
+
+== Definition of Terms
+
+=== Standardisation
+
+An activity giving solutions for repetitive application, to problems essentially in the spheres of science, technology and economics, aimed at the achievement of optimum degree of order in a given context. 
+Generally, the activity consists of the processes of formulating, issuing and implementing standards.
+
+NOTE: an important benefit of standardization is the improvement of the suitability of the goods and services for their intended purpose.
+
+=== Standard
+
+A standard is a generally agreed-upon technology, method or format for a given application. Official standards, also known as de jure standards, are overseen by one of a number of governing bodies that exist to promote their development and confirm their status.
+
+=== Company Standard
+
+A specification of a product or process to be repeatedly and consistently used in the company.
+
+=== Consensus
+
+General Acceptance implying the absence of strong opposition by an important part of the interests concerned to substantial issues.
+
+=== Variety Control
+
+The selection of the optimum number of sizes, other characteristics or types of a product, required to meet prevailing needs.
+
+=== Interchangeability
+
+The suitability of a product (products) to be used in place of another product (products) to fulfil the relevant requirements.
+
+NOTE: The functional aspect of interchangeability is called “functional interchangeability” and the dimensional aspect, “dimensional interchangeability”.
+
+=== Carbon Steels
+
+For the purpose of codification of _Carbon Steels_ shall be classified as low, medium and high on the basis of the following recommendations.
+
+[loweralpha]
+. Low carbon steel - Carbon upto 0.3%
++
+Medium carbon steel - Carbon above 0.3% and upto 0.5%
++
+High carbon steel - Carbon above 0.5%
+. Steel can be categorized as carbon steel when no minimum alloying elements have been specified and when the contents of the following elements do not exceed the values given below:
++
+Copper - 0.6 %
++
+Manganese - 1.2%
++
+Silicon - 0.6%
+. In the case of steel with the Carbon content over - lapping two categories, the classification will be in the category in which the overlapping is more.
+. When the overlapping is equal, the classification will be to the next higher category. e.g., Steel having carbon percentage 0.25 to 0.35 shall be classified under medium carbon steel.
+
+=== Alloy Steels
+
+For the purpose of codification of Alloy Steels, the following definitions have been adopted:
+
+==== Alloy Steels
+
+Steel is considered to be Alloy steel when either
+
+[loweralpha]
+. The value given for the content of the alloying elements exceeds one or more of the following limits.
++
+Mn - 1.2%, Si - 0.6%, Cu -0.6%
++
+or
+. In which a definite range or a definite minimum of alloying elements such as Chromium, Nickel, Molybdenum, Vanadium or any other element is specified.
+
+==== Stainless Steels
+
+Steels having average chromium content 12% and more shall be covered under this category.
+
+==== Alloy and Special Steels Foundry materials - metallic, and Forgings have been classified under the following categories:
+
+105 - Alloy Steels, other than high temperature steels and Stainless Steels (Excluding castings & forgings which will be operated in group 19)
+
+106 - Alloy Steels, high temperature service, other than Stainless Steels (Excluding castings and forgings which will be operated in group 19)
+
+107 - Stainless Steels (excluding castings and forgings which will be operated in group 19)
+
+108 - Tool Steels
+
+109 - Magnetic Steel Sheets
+
+113 - Foundry Materials-Metallic
+
+193 - Steel Forgings
+
+== Aims of Standardization
+
+=== Ultimate Aims
+
+* Removal of trade barriers
+* Economy of cost, human effort and essential materials
+* Convenience of use
+* Solutions to recurring problems
+* Quality definitions and evaluations
+* Variety control
+* Fitness for purpose
+* Mutual understanding
+* Safety
+* Health and protection of environment
+* Interchangeability
+* Compatibility
+
+=== Specific level aims and means
+
+==== International
+
+Aims:
+
+To facilitate international exchange of goods and services and to develop mutual cooperation in the spheres of intellectual, scientific, technological and economic activity.
+
+Means:
+
+[lowerroman]
+. [[_Ref175560184]] Prefer ideal solution to national practices
+. Failing link:#_Ref175560184[i)], coordinate national standards on the basis of world-wide economy
+. Emphasize technological and economic needs
+
+==== National
+
+Aims:
+
+To facilitate national exchange of goods and services and to develop mutual cooperation in the spheres of intellectual, scientific, technological and economic activity.
+
+Means:
+
+[lowerroman]
+. [[_Ref175560428]] Prefer ideal solution to industry practices
+. Failing link:#_Ref175560428[i)], coordinate association standards on the basis of nation-wide economy
+. Emphasize technological and economic needs
+. Align with international standards
+
+==== Association
+
+Aims:
+
+To facilitate industry-wide exchange of goods and services, to promote national standardization and to develop mutual cooperation in the spheres of technological and economic activity.
+
+Means:
+
+[lowerroman]
+. [[_Ref175560423]] Prefer ideal solution to company practices
+. Failing link:#_Ref175560423[i)], coordinate company standards on the basis of industry-wide economy
+. Emphasize technological and economic needs
+. Align with national and international standards
+
+==== Company
+
+Aims:
+
+To facilitate company-wide interchangeability of materials and co-ordinate operations, to promote industry-wide and national standardization and to develop mutual cooperation in the spheres of technological and economic activity. 
+To implement standardization and other statutory requirements, to project company’s viewpoint, facilitate company-wide exchange of goods and services, liaison with standard agencies at complementary levels, control growing varieties of tools, materials, products etc., streamline operations, promote profitability, better understanding at contact points, documents to adopt best possible solutions to technological problems.
+
+Means:
+
+[lowerroman]
+. [[_Ref175560552]] Prefer ideal solution to individual practices
+. Failing link:#_Ref175560552[i)], coordinate individual standards on the basis of economic needs
+. Align with association, national and international standards
+
+==== Individual
+
+Aims:
+
+To facilitate meeting the needs of the project in hand and promote the use of existing standards of various levels as may be appropriate.
+
+Means:
+
+[lowerroman]
+. [[_Ref175560606]] Prefer ideal solution in company practices
+. Failing link:#_Ref175560606[i)], adopting most economical solution
+. Emphasize technological and economic needs
+. Align with company, association, national and international standards
+
+== Characteristics of Codes
+
+As far as possible uniform dimension, for e.g., the metric system should be adopted.
+
+* Code should be Simple.
+* Code should be unique.
+* Coding should be compact, concise and consistent.
+* Code should be sufficiently flexible to meet future demands.
+
+=== Advantages of codification in Material Management
+
+* As a result of rationalized codification, many companies have reduced the number of items
+* It enables systematic grouping of similar items and avoids confusion caused by long description of items
+* Since standardization of names is achieved through codification, it serves as the starting point of simplification and standardization.
+* It helps in avoiding duplication of items and results in the minimization of the number of items, leading to accurate records.
+* Codification enables easy recognition of an item in stores, thereby reducing clerical efforts to be minimum.
+
+If items are coded according to the resources, it is possible to bulk the items while ordering.
+
+== Standards Space
+
+In order to get a correct perspective of the aims of standardization at various levels enumerated above, it is important first of all to define these levels and establish their relationship with other major attributes of standards. 
+This could be done conveniently by considering what may be called “Standards Space” with ‘Subject’, ‘Aspect’, and ‘Level’ constituting the three axes of references.
+
+image:media/image3.png[width=457,height=416]
+
+Figure 1: STANDARDS SPACE
+
+== Principles of Standardisation
+
+=== Principle 1
+
+Standardization is essentially an act of simplification as a result of the conscious effort of society. 
+It calls for a reduction in the number of some things. 
+It not only results in a reduction of present complexity but aims at the prevention of unnecessary complexity in the future.
+
+=== Principle 2
+
+Standardization is a social as well as an economic activity and should be promoted by the mutual co-operation of all concerned. 
+The establishment of a standard should be based on general consensus.
+
+=== Principle 3
+
+The mere publication of a standard is of little value unless it can be implemented. 
+Implementation may necessitate sacrifices by the few for the benefit of the many.
+
+=== Principle 4
+
+The action to be taken in establishing standards is essentially one of the selections followed by fixing.
+
+=== Principle 5
+
+Standards should be reviewed at regular intervals and revised as necessary. 
+The interval between revisions will depend on particular circumstances.
+
+=== Principle 6
+
+When performance and other characteristics of a product are specified, the specification must include a description of the methods and tests to be applied in order to determine whether or not a given article complies with the specification.
+
+When sampling is to be adopted the method, and if necessary the size and frequency of the sampling should be specified.
+
+=== Principle 7
+
+The necessity for legal enforcement of national standards should deliberately be considered, having regard to the nature of the standard, the level of industrialization and the laws and conditions prevailing in the society for whom the standard has been prepared.
+
+== Techniques of Company Standardisation
+
+=== Efficiency Technique
+
+==== PERT
+
+Programme Evaluation and Review Technique (PERT) is useful since it helps
+
+* To determine the critical path
+* In the balanced distribution and improvement in the utilization of resources
+* To identify problems in advance and take corrective steps
+* To increase of getting desired result in a complex situation
+* In cost reduction and
+* PERT details become standard documents for future use.
+
+==== Value Analysis
+
+===== Value Analysis is ‘Analysis by function’. It is first necessary to identify and then to establish the value of the function by considering the lowest cost of performing that function reliably. It aims at the identification and removal of unnecessary costs, namely costs, which do not provide usefulness, life, quality, appearance or customer’s needs.
+
+===== Value analysis is an organized effect directed at analysing the function of hardware, systems and methods with the purpose of achieving the required function at the lowest overall cost consistent with requirements for performance, reliability and maintainability.
+
+===== Value is made up of “use value” – the qualities and properties which accomplish a service or use and “esteem value” – the properties or features which make it a desirable thing to own.
+
+===== Value is the minimum amount of money which must be spent to create the appropriate use and esteem function.
+
+==== Consultation and Experts
+
+Technical papers presented in seminars, conventions etc. and articles regarding the current subjects published in the concerned journals and periodicals as well as consultation with experts will be very much helpful for standardization.
+
+=== Variety Reduction Technique
+
+==== Preferred Numbers
+
+Several series based on the above principles been promulgated from time to time but those which have been accorded first place are the “Renard series of Preferred Number” so named after the French Engineer Colonel Charles Renard who first proposed their use. 
+There are four of these series (R5, R10, R20 and R40) as well as an additional series R80 intended for special application where very small steps in size are needed.
+
+It will be seen that all these series repeat themselves in successive powers of 10. 
+The R5 gives 6 sizes from 1 to 10 inclusive, with appropriately 58% increase in size between steps. 
+Similarly, the R10 gives 11 sizes with approximately 26% increase. 
+The R20 gives 21 sizes with 12% increase. 
+The R40 gives 41 sizes with 6% increase and the R80 gives 81 sizes with 3% increase.
+
+Examples
+
+R5 : 1.00, 1.6, 2.5, 4.0, 6.3, 10.0
+
+R10 : 1.00, 1.25, 1.6, 2.0, 2.5, 3.15, 4.0, 5, 6.3, 8, 10
+
+==== ABC Analysis
+
+Grouping of high value items, medium value items and low value items will be helpful to find the area to be concentrated for applying different techniques of standardization.
+
+==== Design Unification
+
+Due to different collaborations, various types of designs may be prevailing though the functional requirement of the component is same. 
+Unification of designs will lead to variety reduction and reduced cost.
+
+==== Coding and Classification
+
+Material cost in Indian industries is estimated to be about 65-70% of production cost. 
+Through raw material codification inventory reduction can be achieved. 
+Significant codification requires number of digits whereas in sequential codification the number of digits can be reduced to the extent possible.
+
+BHEL adopts 12-digit numbering scheme for materials and 11-digit numbering scheme for the production drawings.
+
+=== Statistical Techniques
+
+Sometimes technical requirements of different components and the dimensional tolerances stipulated in the national standards may not be adequate to establish a company standard. 
+Hence, statistical methods such as sampling inspection or standard deviation etc. may be helpful for establishing the company standards.
+
+== Codification in BHEL
+
+The existing 12-digit alpha-numeric significant codification scheme which helps in computerized accounting and controlling the variety has been implemented across BHEL. 
+The Standards Development Group and Unified Material Code cell at Corporate R&D is the nodal agency for maintaining and allotting these codes. 
+The reference to company standards significance can be built up in material code to connect specification/standard number to avoid duplicate codes for the same material under different national standards. 
+This decreases variety and inventory. 
+Meaningful Management Information Reports on inventory can be easily generated using significant codification.
+
+== Data Format
+
+Data required for uploading to UMCD
+
+Material codes details are required in the following format.
+
+Fields marked with ( ++*++ ) are mandatory to be made available. Sample data filled.
+
+[width="99%",cols="16%,11%,38%,9%,7%,7%,6%,8%,6%",options="header",]
+|===
+|Material code ++*++ a|
+Spec /
+
+Std. No. ++*++
+
+|Description ++*++ |Shape ++*++ 3+|Size ++*++ 2+|Weight ++*++
+| | | | |Size ++*++ |Dimensions ++*++ |Unit ++*++ |Weight ++*++ |Unit ++*++
+|AA1011808013 |AA10108 a|
+Structural Steel - Standard
+
+Quality - Plates size 5 mm Thickness
+
+|Plate |Tk |5 |mm |39.25 |kg/m^2^
+|===
+
+Specification details are required in the following format for generation of new material code (Format 2)
+
+Fields marked with (++*++) are mandatory to be made available. 
+Sample data filled.
+
+[width="99%",cols="13%,39%,16%,19%,13%",options="header",]
+|===
+|Spec. / Std. No. ++*++ |Description ++*++ 2+|Based on Standard ++*++ |MRC
+| | |Standard No ++*++ |Material grade ++*++ |
+|AA10108 |STRUCTURAL STEEL – STANDARD QUALITY (PLATES, SECTIONS, STRIPS FLATS & BARS) |IS:2062 |Gr: E250, Quality A |MRC-S&GPS
+|===
+
+== Work Flow to generate material code through UMCD
+
+Check for duplication of specification which is available in UMCD / VSE. 
+Check if all material code requests conform to Format 2 for new code and Format 1 for old code as illustrated above.
+
+=== Duplicity with Corporate data
+
+Case 1:
+
+Specification: If available at Corporate already, notify to unit about the details of specifications and provide data to unit for reviewing and upgradation to Corporate.
+
+Material codes: Corporate material codes will be allotted for available sizes. For new sizes not available at Corporate, new codes will be generated through UMCD.
+
+Case 2:
+
+Specification: If units found any differences among specifications, units to provide their findings on non-upgradation of specification. 
+Those specifications will be retained at unit level.
+
+Material codes: Unit level codes will be generated as per IPSC guidelines and will be uploaded to UMCD.
+
+=== Duplicity with other Units data:
+
+Case 1:
+
+Specifications: If similar specifications used across units, notify to all concerned units about the details of specifications and provide data to units for reviewing and upgradation to Corporate. 
+If units agree new Corporate specification has to be prepared and unit level specification has to be withdrawn in lieu of new Corporate Specification.
+
+Material codes: Corporate material codes will be generated for all sizes through UMCD.
+
+Case 2:
+
+Specifications: If units found any differences among specifications, units to provide their findings on non-merger of specification. 
+Those specifications will be retained at unit level.
+
+Material codes: Unit level codes will be generated as per IPSC guidelines and will be uploaded to UMCD.
+
+=== Unit specific
+
+Specifications: If no similar specification used at Corporate or Units, these specifications will be retained at unit level.
+
+Material codes: Unit level codes will be generated as per IPSC guidelines and will be uploaded to UMCD.
+
+Corporate R&D will upload all the unified specifications and material codes to UMCD
+
+== VSE & UMCD – A walkthrough
+
+A _Versatile Search Engine_ (VSE) and UMCD System that are interlinked with one another to generate Unique Material Codes to material across BHEL have been created. 
+As illustrated in the work flow above, the VSE stores the specifications of the materials and UMCD generates material codes based on code requests from Unit Coordinators of various units that are approved by the Plant Standards Committee Chairman of the respective Unit and then if it satisfies all the criteria of uniqueness, then the _Central Authority_ from Corporate R&D allots the material code that may be used by the indenter for processing the material further for procurement.
+
+=== Versatile Search Engine
+
+For search of materials across units Versatile Search Engine developed and hosted website at URL http://10.5.4.120/cSearch.
+
+Search facilities like attribute-based search for specifications and standards, MRC Based Search, Description Based Search, Unit Based Search and View attributes are provided.
+
+=== Material Code and Purchase Specification allocation through UMCD
+
+BHEL follows 12-digit material code and 5-digit purchase specification for raw materials and 7-digit standard for components.
+
+UMCD logic implemented as per flow chart-1 & 2.
+
+==== Purchase Specification allocation through UMCD
+
+[arabic]
+. Unit coordinator initiates the request and generates new specification number.
+. Forwards soft copy to Central Authority through mail.
+. Central Authority reviews for any duplicity and approves & uploads if not found.
+
+Flow chart for allocating Purchase Specifications (Flow Chart – 1)
+
+image:media/image4.png[media/image4,width=458,height=444]
+
+==== Material Code allocation through UMCD
+
+[arabic]
+. Unit coordinator initiates the request.
+. PSC chairman reviews the request for duplicity and accepts if not found.
+. Central Authority reviews for any duplicity and allots new material code if no duplicate found. 
+Allocation details will be sent to concerned in the flow.
+. In case of rejection at any stage, details will be sent to the concerned in the flow.
+
+Flow chart for allocating material codes (Flow Chart – 2)
+
+image:media/image5.png[media/image5,width=559,height=536]

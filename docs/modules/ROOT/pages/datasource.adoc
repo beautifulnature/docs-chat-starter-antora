@@ -1,9 +1,0 @@
-= Datasource
-
-The backend can answer questions about datasource configuration.
-
-Set `app.docs-root` to the generated Antora site directory.
-
-Set `app.ollama.base-url` to the Ollama server URL.
-
-Set `app.ollama.model` to the local model name, for example `llama3.1:8b`.
