@@ -17,7 +17,15 @@ module.exports.register = function ({ config = {} }) {
     const titleMatch = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)
     const bodyMatch = html.match(/<body[^>]*>([\s\S]*?)<\/body>/i)
     const title = titleMatch ? titleMatch[1].trim() : ''
-    const bodyHtml = bodyMatch ? bodyMatch[1] : html
+    let bodyHtml = bodyMatch ? bodyMatch[1] : html
+    
+    // Remove common Antora UI elements
+    bodyHtml = bodyHtml
+      .replace(/<nav[^>]*>[\s\S]*?<\/nav>/gi, ' ')
+      .replace(/<aside[^>]*>[\s\S]*?<\/aside>/gi, ' ')
+      .replace(/class="(navbar|toc|breadcrumb|edit-this-page)"[^>]*>[\s\S]*?<\/[^>]*>/gi, ' ')
+      .replace(/<[^>]*class="(nav|sidebar|breadcrumb)"[^>]*>[\s\S]*?<\/[^>]*>/gi, ' ')
+    
     const bodyText = bodyHtml
       .replace(/<script[\s\S]*?<\/script>/gi, ' ')
       .replace(/<style[\s\S]*?<\/style>/gi, ' ')
