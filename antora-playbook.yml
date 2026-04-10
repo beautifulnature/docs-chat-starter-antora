@@ -22,21 +22,21 @@ runtime:
 
 antora:
   extensions:
-  - require: ./extensions/json-table-extension.js
-    data_dir: ./data
-    tables:
-      - file: basic_categories.json
-        target_root: manual-2.0
-        module: ROOT
-        partial: generated/basic_categories-table.adoc
-        colspec: "10%,10%,80%"
-        columns:
-          - key: SPRIMARYCAT
-            header: Primary Category
-          - key: SBASICCAT
-            header: Basic Category
-          - key: SBASICCATDESC
-            header: Description
+  # - require: ./extensions/json-table-extension.js
+  #   data_dir: ./data
+  #   tables:
+  #     - file: basic_categories.json
+  #       target_root: manual-2.0
+  #       module: ROOT
+  #       partial: generated/basic_categories-table.adoc
+  #       colspec: "10%,10%,80%"
+  #       columns:
+  #         - key: SPRIMARYCAT
+  #           header: Primary Category
+  #         - key: SBASICCAT
+  #           header: Basic Category
+  #         - key: SBASICCATDESC
+  #           header: Description
   - require: ./extensions/lunr-search-extension.js
     build_dir: ./build/site
     index_file: search-index.json
