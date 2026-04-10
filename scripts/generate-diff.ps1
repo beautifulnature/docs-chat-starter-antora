@@ -4,7 +4,7 @@
 param(
     [string]$OldRef = 'v1',
     [string]$NewRef = 'v2',
-    [string]$ModulesDir = 'modules',
+    [string]$ModulesDir = 'manual/modules',
     [string]$OutModule = 'redacted'
 )
 

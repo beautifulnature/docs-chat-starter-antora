@@ -1,5 +1,5 @@
 name: manual
-version:
 title: UMCD Manual
 nav:
   - modules/ROOT/nav.adoc
+  - modules/redacted/nav.adoc

@@ -43,7 +43,7 @@ node scripts/generate-antora-diff.js main develop
 
 ### Custom Output Module
 ```bash
-node scripts/generate-antora-diff.js v1 v2 modules diff-compare
+node scripts/generate-antora-diff.js v1 v2 manual/modules diff-compare
 ```
 
 ### Full Options
@@ -54,7 +54,7 @@ node scripts/generate-antora-diff.js OLD_REF NEW_REF MODULES_DIR OUT_MODULE
 **Parameters:**
 - `OLD_REF` - Source branch/ref (default: `v1`)
 - `NEW_REF` - Target branch/ref (default: `v2`)
-- `MODULES_DIR` - Directory to scan for changes (default: `modules`)
+- `MODULES_DIR` - Directory to scan for changes (default: `manual/modules`)
 - `OUT_MODULE` - Output module name (default: `redacted`)
 
 ## Output

@@ -5,7 +5,7 @@ const path = require('path');
 
 const OLD_REF = process.argv[2] || 'v1';
 const NEW_REF = process.argv[3] || 'v2';
-const MODULES_DIR = process.argv[4] || 'modules';
+const MODULES_DIR = process.argv[4] || 'manual/modules';
 const OUT_MODULE = process.argv[5] || 'redacted';
 
 function runGit(args, opts = {}) {

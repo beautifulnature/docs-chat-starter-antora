@@ -25,6 +25,12 @@ npm run generate-diff
 node scripts/generate-antora-diff.js main develop
 ```
 
+## With Custom Modules Directory
+```powershell
+# If your modules are in a different path
+.\scripts\generate-diff.ps1 -OldRef 'v1' -NewRef 'v2' -ModulesDir 'docs/modules'
+```
+
 ## What Happens
 1. ✅ Finds all changed `.adoc` files between branches
 2. ✅ Generates `modules/redacted/pages/*-diff.adoc` files

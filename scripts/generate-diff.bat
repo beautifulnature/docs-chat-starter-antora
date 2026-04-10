@@ -12,7 +12,7 @@ set OUT_MODULE=%4
 
 if "!OLD_REF!"=="" set OLD_REF=v1
 if "!NEW_REF!"=="" set NEW_REF=v2
-if "!MODULES_DIR!"=="" set MODULES_DIR=modules
+if "!MODULES_DIR!"=="" set MODULES_DIR=manual/modules
 if "!OUT_MODULE!"=="" set OUT_MODULE=redacted
 
 echo Generating Antora diffs from !OLD_REF! to !NEW_REF!...
