@@ -1,5 +1,0 @@
-name: manual
-version: 1.0
-title: UMCD Manual
-nav:
-  - modules/ROOT/nav.adoc
