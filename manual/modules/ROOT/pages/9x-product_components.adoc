@@ -1,0 +1,5 @@
+= Product Components
+
+== The Structure
+
+image:media/image31.png[media/image31,width=564,height=481]
