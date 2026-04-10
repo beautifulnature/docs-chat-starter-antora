@@ -1,0 +1,18 @@
+{
+  "name": "antora-docs",
+  "version": "1.0.0",
+  "description": "UMCD Manual - Antora documentation",
+  "scripts": {
+    "generate-diff": "node scripts/generate-antora-diff.js v1 v2",
+    "generate-diff:custom": "node scripts/generate-antora-diff.js",
+    "build": "antora antora-playbook.yml",
+    "serve": "npm run build && http-server build/site -c-1 -o"
+  },
+  "keywords": [
+    "antora",
+    "documentation",
+    "diff-generator"
+  ],
+  "author": "",
+  "license": "MIT"
+}
