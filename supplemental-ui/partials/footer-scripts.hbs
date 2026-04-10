@@ -3,3 +3,24 @@
 <script async src="{{{uiRootPath}}}/js/vendor/highlight.js"></script>
 <script src="{{{uiRootPath}}}/js/chat-widget.js" defer></script>
 {{> search-scripts}}
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const button = document.createElement('button');
+    button.id = 'scroll-to-top';
+    button.type = 'button';
+    button.setAttribute('aria-label', 'Scroll to top');
+    button.textContent = '↑';
+    document.body.appendChild(button);
+
+    const threshold = 260;
+    const updateVisibility = () => {
+      button.classList.toggle('visible', window.pageYOffset > threshold);
+    };
+
+    window.addEventListener('scroll', updateVisibility, { passive: true });
+    button.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+    updateVisibility();
+  });
+</script>

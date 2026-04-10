@@ -298,3 +298,35 @@ main.article > .content img {
   font-size: 0.95rem;
   text-align: center;
 }
+
+#scroll-to-top {
+  position: fixed;
+  right: 24px;
+  bottom: 100px;
+  width: 60px;
+  height: 60px;
+  border: none;
+  border-radius: 999px;
+  background: #ff6f00;
+  color: white;
+  font-size: 1.35rem;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  box-shadow: 0 12px 24px rgba(255, 111, 0, 0.22);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+  transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease, background 180ms ease;
+  z-index: 50;
+}
+
+#scroll-to-top:hover {
+  background: #ff8a33;
+}
+
+#scroll-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
