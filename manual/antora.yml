@@ -3,3 +3,8 @@ version: 2.0
 title: UMCD Manual
 nav:
   - modules/ROOT/nav.adoc
+name: manual
+version: 2.0
+title: UMCD Manual
+nav:
+  - modules/ROOT/nav.adoc
