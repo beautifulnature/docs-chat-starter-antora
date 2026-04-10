@@ -1,0 +1,75 @@
+= Alphabetical Prefixes
+
+== Details of Corporate / Plant Prefixes
+
+[width="78%",cols="20%,16%,64%",options="header",]
+|===
+|INDIGENOUS |IMPORTED |CORPORATE / PLANT LEVEL CODES
+|AA |AB |Corporate Code
+|BP |BL |HEP, Bhopal
+|ED |EN |EDN, Bengaluru
+|EL |ER |EPD / SBD Bengaluru
+|FF |FR |CFFP, Haridwar
+|HW |HP |HEEP, Haridwar
+|HY |HD |HPEP, Hyderabad
+|ID |IA |Industry Sector
+|IS |IN |Industrial System Groups (ISG)
+|JP |JC |Insulator Plant, Jagdishpur
+|JS |JH |Transformer Plant, Jhansi
+|MG |MT |Centre for Learning and Development
+|MS |MD |Marketing and Sales
+|OP |OS |Overseas Projects / International Operations Division
+|PA |PB |Power Sector Head Quarters (PSHQ)
+|PC |PM |Piping Centre
+|PE |PD |PS - Project Engineering Management (PEM), New Delhi
+|PH |PV |PS - Technical Services (PSTS)
+|PN |PR |PS - Northern Region (PSNR)
+|PP |PQ |PS - Eastern Region (PSER)
+|PS |PT |PS - Southern Region (PSSR)
+|PW |PX |PS - Western Region (PSWR)
+|PY |-- |Project Engineering & Systems Division (PE&SD)
+|RD |RM |Corporate Research and Development
+|RE |RL |Regional Operations (ROD)
+|RP |RF |Boiler Auxiliary Plant (BAP), Ranipet
+|RU |RJ |Component Fabrication Plant, Rudrapur
+|RV |RR |Heavy Equipment Repair Plant, Varanasi
+|SP |SY |SSTP, Tiruchirapalli
+|SS |SF |SSBG
+|TB |-- |Transmission Business Group
+|TP |TY |HPBP, Tiruchirapalli
+|TS |TT |Transportation Systems Group
+|VP |VG |Industrial Valves Plant, Goindwal
+|VZ |VK |HPVP, Vishakhapatnam
+|===
+
+== Details of Product Prefixes
+
+[width="77%",cols="21%,18%,61%",options="header",]
+|===
+|INDIGENOUS |IMPORTED |PRODUCT LEVEL CODES
+|AC |AE |Air Quality Control Equipment
+|AM |AN |AC Motors / AC Machines
+|BA |BH |Boiler House Auxiliaries (Bowl Mills)
+|BR |BE |Boilers
+|CG |CP |Control Relay Panels and Control Gear
+|CN |CT |Control Equipment
+|CR |CA |Capacitors
+|DM |DC |DC motors / DC Machines
+|FE |FD |Fossil Energy Development
+|FP |PU |Pumps
+|HE |HC |Heat Exchangers & Condensers
+|HG |HN |Hydro Generators Synchronous Condensers
+|HT |HU |Hydro Turbines
+|NG |NU |Nuclear Steam Generators
+|OE |OM |Oil Equipment
+|SG |SW |Switch Gear
+|ST |SM |Steam Turbines
+|TC |GT |Turbines & Compressors (Industrial, Marine, Gas)
+|TG |TU |Turbo Generators
+|TM |TN |Traction Motors
+|TR |TF |Transformers
+|VS |VB |Valves and Soot Blowers
+|GB | |Gear Box
+|FY | |Foundry items
+|IP | |Industrial Piping
+|===

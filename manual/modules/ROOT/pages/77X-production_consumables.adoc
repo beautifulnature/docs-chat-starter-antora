@@ -1,0 +1,95 @@
+= Consumables - Production
+
+== 7 7 0 - Brazing Alloys, Soldering Alloys and Fluxes
+
+=== The Structure
+
+image:media/image26.png[media/image26,width=573,height=513]
+
+== 771, 775 - Welding Electrodes, Filler Rods, Wires Fluxes & Accessories
+
+=== The Structure
+
+image:media/image27.png[media/image27,width=601,height=457]
+
+=== 771 XX (6^th^ & 7^th^ Digit Allocation)
+
+[width="77%",cols="9%,8%,83%",options="header",]
+|===
+|771 |XX |Welding Electrodes, Filler Rods, Wires and Welding Fluxes etc.
+.36+| |01 |Covered Electrodes for Carbon steels
+|02 |Covered Electrodes for Low Alloy steels
+|03 |Covered Electrodes for Stainless steels
+|04 |Covered Electrodes for General hard facing
+|05 |Covered Electrodes for Stellite hard facing
+|06 |Covered Electrodes for Cast Iron
+|07 |Covered Electrodes for Copper and Copper alloys
+|08 |Covered Electrodes for Aluminium & Aluminium alloys
+|09 |Covered Electrodes for Bronze
+|10 |Covered Electrodes for Other non-ferrous materials not covered above
+|11 |Covered Electrodes for Monel
+|12 |Covered Electrodes for Inconel
+|13 |Covered Electrodes for Cupro Nickel
+|14 |Covered Electrodes for Low heat input
+|15 |Covered Electrodes for Cutting, Chamfering and grooving
+|19 |Covered electrodes for Special purpose and miscellaneous
+|31 |Solid Wire/rod in cut length for Carbon Steel
+|32 |Solid Wire/rod in cut length for low alloy steel
+|33 |Solid Wire/rod in cut length for Stainless steel
+|35 |Solid Wire/rod in cut length for Stellite hard facing
+|36 |Solid Wire/rod in cut length for Nickel and Nickel alloys
+|37 |Solid Wire/rod in cut length for copper and Copper alloys
+|38 |Solid Wire/rod in cut length for Aluminium and Aluminium alloys
+|39 |Solid Wire/rod in cut length for Non-ferrous not covered above
+|41 |Wires in continuous length for SAW process
+|42 |Wires in continuous length for ESW process
+|44 |Wires in continuous length for MIG / MAG / TIG / PLASMA process
+|45 |Flux Cored wires in continuous length
+|50 |Fluxes
+|51 |Tungsten electrodes
+|52 |Gouging electrodes
+|53 |Strip electrodes
+|54 |Powders
+|55 |Consumable inserts
+|56 |Backing Strips
+|57 |Tabular electrodes
+|===
+
+=== 775 XX (6^th^ & 7^th^ Digit Allocation)
+
+[width="77%",cols="11%,10%,79%",options="header",]
+|===
+|775 |XX |Welding Accessories, Such as Blow Pipes. Nozzles. Torches, etc.
+.14+| |01 |Gas Welding and Cutting Accessories
+|02 |Arc Welding Accessories
+|03 |TIG Welding Accessories
+|04 |MIG / MAG Welding Accessories
+|05 |Submerged Arc Welding Accessories
+|06 |Electro Slag Welding Accessories
+|07 |Resistance Welding Accessories
+|08 |Hydrogen Welding Accessories
+|09 |Plasma Cutting Accessories
+|10 |Plasma Welding Accessories
+|11 |Narrow Gap Welding Accessories
+|12 |Electron Beam Welding Accessories
+|13 |High Frequency Induction Brazing Accessories
+|14 |Stud Welding Accessories
+|===
+
+=== 778 Safety Equipment
+
+[width="55%",cols="12%,11%,77%",options="header",]
+|===
+|778 |XX |Safety Equipment
+|===
+
+=== 779 - Hoses and Pipes
+
+[width="55%",cols="12%,11%,77%",options="header",]
+|===
+|779 |XX |Hoses and Pipes (Details of 6th & 7th digit)
+.4+| |01 |Air
+|02 |Water
+|04 |Welding
+|09 |Accessories
+|===

@@ -1,0 +1,11 @@
+= Primary Category
+
+Standard 12 Digit Alpha Numeric Structure
+
+Details of The Scheme
+
+image:media/image9.png[media/image9,width=604,height=102]
+
+Barrel 2 (Primary Category) Details:
+
+image:media/image10.png[media/image10,width=601,height=421]
