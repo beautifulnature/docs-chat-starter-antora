@@ -19,23 +19,26 @@ function getFileContent(branch, file) {
   }
 }
 
-// Cross-platform file diff using temp files
-function getFileDiff(content1, content2) {
-  const os = require('os');
-  const tmp1 = path.join(os.tmpdir(), `v1_${Date.now()}_${Math.random()}.adoc`);
-  const tmp2 = path.join(os.tmpdir(), `v2_${Date.now()}_${Math.random()}.adoc`);
-  fs.writeFileSync(tmp1, content1, 'utf8');
-  fs.writeFileSync(tmp2, content2, 'utf8');
-  let diff = '';
-  try {
-    diff = execSync(`git diff --no-index --word-diff=plain "${tmp1}" "${tmp2}"`, { encoding: 'utf8' });
-  } catch (e) {
-    diff = e.stdout ? e.stdout.toString() : '';
+// Use diff-match-patch for inline markup on v2 base
+const DiffMatchPatch = require('diff-match-patch');
+
+function getUnifiedDiff(v1Content, v2Content) {
+  const dmp = new DiffMatchPatch();
+  const diffs = dmp.diff_main(v1Content, v2Content);
+  dmp.diff_cleanupSemantic(diffs);
+  let result = '';
+  for (const [op, data] of diffs) {
+    if (op === DiffMatchPatch.DIFF_INSERT) {
+      result += `[green]#${data}#`;
+    } else if (op === DiffMatchPatch.DIFF_DELETE) {
+      // Do not show deletions in v2 base, but you can optionally show as strike-through at the right place
+      // result += `[line-through red]#${data}#`;
+      // For true v2 base, skip
+    } else {
+      result += data;
+    }
   }
-  // Clean up temp files
-  fs.unlinkSync(tmp1);
-  fs.unlinkSync(tmp2);
-  return diff;
+  return result;
 }
 
 function generateFullDiffDocs() {
@@ -46,22 +49,15 @@ function generateFullDiffDocs() {
 
   allFiles.forEach(file => {
     const fileName = path.basename(file);
-    const v1Content = getFileContent('v1', file);
-    const v2Content = getFileContent('v2', file);
+    const v1Content = getFileContent('v1', file) || '';
+    const v2Content = getFileContent('v2', file) || '';
     const outputPath = path.join(outputDir, fileName);
 
-    if (v1Content && v2Content) {
-      // Both exist: generate diff
-      const diff = getFileDiff(v1Content, v2Content);
-      let formattedDiff = diff
-        .replace(/\[-([^\]]+)\]/g, '[line-through red]#$1#')
-        .replace(/\{\+([^\}]+)\}/g, '[green]#$1#');
-      fs.writeFileSync(outputPath, formattedDiff);
-      console.log(`Generated diff for: ${fileName}`);
-    } else if (v2Content) {
-      // Only in v2: copy as-is
-      fs.writeFileSync(outputPath, v2Content);
-      console.log(`Copied v2 only: ${fileName}`);
+    if (v2Content) {
+      // Use v2 as base, apply diff markup for changes
+      const unified = getUnifiedDiff(v1Content, v2Content);
+      fs.writeFileSync(outputPath, unified);
+      console.log(`Generated v2-diff for: ${fileName}`);
     } else if (v1Content) {
       // Only in v1: mark as deleted
       fs.writeFileSync(outputPath, `// [line-through red]#This page was deleted in v2.#\n`);
