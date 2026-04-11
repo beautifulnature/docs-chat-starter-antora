@@ -108,8 +108,9 @@ function generateFullDiffDocs() {
       // Only generate redacted page if there is a diff
       if (v1Content !== v2Content) {
         const redactedPath = path.join(redactedDir, fileName);
-        const title = `= Redacted Diff for ${fileName}\n\n`;
-        fs.writeFileSync(redactedPath, title + unified + '\n');
+        // Only include the file with leveloffset, do not append the diff content
+        const includeLine = `include::../${fileName}[leveloffset=+1]\n`;
+        fs.writeFileSync(redactedPath, includeLine);
         redactedNavEntries.push(`** xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
         console.log(`Generated redacted full diff for: ${fileName}`);
       }
@@ -119,8 +120,8 @@ function generateFullDiffDocs() {
       fs.writeFileSync(outputPath, `// [line-through red]#This page was deleted in v2.#\n`);
       // Only generate redacted page if there was content in v1 (i.e., deleted)
       const redactedPath = path.join(redactedDir, fileName);
-      const title = `= Redacted Diff for ${fileName}\n\n`;
-      fs.writeFileSync(redactedPath, title + '[line-through.red]#This page was deleted in v2.#\n');
+      const includeLine = `include::../${fileName}[leveloffset=+1]\n`;
+      fs.writeFileSync(redactedPath, includeLine);
       redactedNavEntries.push(`** xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
       console.log(`Marked deleted: ${fileName}`);
     }
