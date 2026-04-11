@@ -1,5 +1,5 @@
 * xref:index.adoc[Home]
-* xref:categories.adoc[Categories]
-* Diff Pages
-** xref:index-diff.adoc[Index Diff]
-** xref:categories-diff.adoc[Categories Diff]
+// * xref:categories.adoc[Categories]
+// * Diff Pages
+// ** xref:index-diff.adoc[Index Diff]
+// ** xref:categories-diff.adoc[Categories Diff]
