@@ -53,6 +53,9 @@ function generateFullDiffDocs() {
     const v2Content = getFileContent('v2', file) || '';
     const outputPath = path.join(outputDir, fileName);
 
+    // Ensure output directory exists before writing
+    fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+
     if (v2Content) {
       // Use v2 as base, apply diff markup for changes
       const unified = getUnifiedDiff(v1Content, v2Content);
