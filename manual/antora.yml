@@ -1,5 +1,6 @@
 name: manual
-version: '2.0-diff'
+version: '2.0diff'
+display_version: '2.0-diff'
 title: UMCD Manual
 nav:
   - modules/ROOT/nav.adoc
