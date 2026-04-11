@@ -344,3 +344,77 @@ main.article > .content img {
   color: #d32f2f;
   text-decoration: line-through;
 }
+
+/* Ensure version dropdown is always on top of the TOC/sidebar and fully clickable */
+.page-versions .version-menu {
+  z-index: 99999 !important;
+  position: absolute !important;
+  top: 100% !important;
+  left: 0 !important;
+  right: auto !important;
+  background: #fff !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  min-width: 8rem;
+  max-width: 16rem;
+  border: 1px solid #ddd;
+  border-radius: 0.25rem;
+  padding: 0.25rem 0;
+  overflow: visible !important;
+  max-height: none !important;
+}
+.page-versions {
+  position: relative !important;
+}
+.page-versions .version-menu .version,
+.page-versions .version-menu .is-current {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  color: #333;
+  text-decoration: none;
+  background: none;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+}
+.page-versions .version-menu .version {
+  cursor: pointer;
+}
+.page-versions .version-menu .version:hover {
+  background: #f0f0f0;
+}
+
+/* Keep version dropdown aligned to the left of the toggle button */
+.page-versions .version-menu {
+  left: 0 !important;
+  right: auto !important;
+  min-width: 100% !important;
+  max-width: 16rem;
+}
+
+/* Prevent TOC/sidebar from overlapping or intercepting pointer events on the version dropdown */
+.page-versions .version-menu {
+  pointer-events: auto !important;
+}
+.toc.sidebar, aside.toc, .toc-container, .page-toc {
+  pointer-events: auto;
+}
+.page-versions .version-menu {
+  z-index: 99999 !important;
+}
+/* When version menu is open, prevent TOC/sidebar from intercepting pointer events by disabling them */
+.page-versions .version-menu {
+  z-index: 99999 !important;
+  pointer-events: auto !important;
+}
+body .toc.sidebar,
+body aside.toc,
+body .toc-container,
+body .page-toc {
+  pointer-events: none !important;
+}
+.page-versions .version-menu .version,
+.page-versions .version-menu .is-current {
+  pointer-events: auto !important;
+}
