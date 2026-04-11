@@ -1,0 +1,53 @@
+= Diff: index.adoc
+
+This page shows the differences between v1 and v2.
+
+[source,diff]
+----
+diff --git a/antora/manual/modules/ROOT/pages/index.adoc b/antora/manual/modules/ROOT/pages/index.adoc
+index 95fc65b..8d1b902 100644
+--- a/antora/manual/modules/ROOT/pages/index.adoc
++++ b/antora/manual/modules/ROOT/pages/index.adoc
+@@ -4,10 +4,12 @@ Welcome to the UMCD Manual.
+ 
+ == Introduction
+ 
+-This is the introduction section for version 1.
++This is the introduction section for version 2.
+ 
+-Some content here in v1.
++Some new content here in v2.
++
++Additional paragraph added.
+ 
+ == Categories
+ 
+-Here are the categories in v1.
++Here are the updated categories in v2.
+----
+
+== Formatted View
+
+== UMCD Manual
+
+Welcome to the UMCD Manual.
+
+== Introduction
+
+[line-through red]#This is the introduction section for version 1.#
+
+[green]#This is the introduction section for version 2.#
+
+[line-through red]#Some content here in v1.#
+
+[green]#Some new content here in v2.#
+
+[green]#
+
+[green]#Additional paragraph added.#
+
+== Categories
+
+[line-through red]#Here are the categories in v1.#
+
+[green]#Here are the updated categories in v2.#
