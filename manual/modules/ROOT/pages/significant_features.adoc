@@ -1,9 +1,0 @@
-= Significant Features
-
-The Significant features of the 12-digit material codification scheme are as follows:
-
-* The scheme has flexibility for operation at Corporate/ Plant / Product levels.
-* To collaborate further, materials rationalized at corporate level can be covered by corporate codes, exclusive plant requirements by plant codes and special requirement of Products such as Castings, Forgings, Sub-deliveries, and Styled Components etc. by Product codes; all in a single scheme. The Alphabetical prefixes and blocking in the rest of the digits facilitate this flexibility.
-* The Classification is tailored to the needs of BHEL without sacrificing the generic nature, and facilitates retrieval of information to suit corporate Management Information Reporting.
-* The material code numbers, Standard Numbers and Specification numbers are integrated for easy identification / communication / control.
-* The check digit ensures correctness of the codes while inputting to the computerised systems.
