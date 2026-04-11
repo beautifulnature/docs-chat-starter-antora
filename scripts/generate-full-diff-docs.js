@@ -105,32 +105,30 @@ function generateFullDiffDocs() {
       // Use v2 as base, apply diff markup for changes
       const unified = getUnifiedDiff(v1Content, v2Content);
       fs.writeFileSync(outputPath, unified);
-      // Generate redacted diff-only page if there is a diff
-      const diffOnly = getDiffOnlyAdoc(v1Content, v2Content);
-      if (diffOnly) {
+      // Only generate redacted page if there is a diff
+      if (v1Content !== v2Content) {
         const redactedPath = path.join(redactedDir, fileName);
-        // Add a title for context
-        const title = `= Diff for ${fileName}\n\n`;
-        fs.writeFileSync(redactedPath, title + diffOnly + '\n');
-        redactedNavEntries.push(`* xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
-        console.log(`Generated redacted diff for: ${fileName}`);
+        const title = `= Redacted Diff for ${fileName}\n\n`;
+        fs.writeFileSync(redactedPath, title + unified + '\n');
+        redactedNavEntries.push(`** xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
+        console.log(`Generated redacted full diff for: ${fileName}`);
       }
       console.log(`Generated v2-diff for: ${fileName}`);
     } else if (v1Content) {
       // Only in v1: mark as deleted
       fs.writeFileSync(outputPath, `// [line-through red]#This page was deleted in v2.#\n`);
-      // Mark as deleted in redacted diff
+      // Only generate redacted page if there was content in v1 (i.e., deleted)
       const redactedPath = path.join(redactedDir, fileName);
-      const title = `= Diff for ${fileName}\n\n`;
+      const title = `= Redacted Diff for ${fileName}\n\n`;
       fs.writeFileSync(redactedPath, title + '[line-through.red]#This page was deleted in v2.#\n');
-      redactedNavEntries.push(`* xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
+      redactedNavEntries.push(`** xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
       console.log(`Marked deleted: ${fileName}`);
     }
   });
 
-  // Write nav-redacted.adoc
+  // Write nav-redacted.adoc with a heading and all pages grouped
   const navPath = path.join(outputDir, '..', 'nav-redacted.adoc');
-  const navHeader = '// This file is auto-generated. Do not edit manually.\n// Redacted Diff Navigation\n\n= Redacted Diff Pages\n\n';
+  const navHeader = '// This file is auto-generated. Do not edit manually.\n// Redacted Diff Navigation\n\n* Redacted Diff Pages\n';
   fs.writeFileSync(navPath, navHeader + redactedNavEntries.join('\n') + '\n');
   console.log('Updated nav-redacted.adoc with redacted diff entries.');
 }
