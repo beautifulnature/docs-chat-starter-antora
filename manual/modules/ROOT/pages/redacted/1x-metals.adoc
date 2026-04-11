@@ -1,0 +1,3 @@
+= Diff for 1x-metals.adoc
+
+ [green]#11042026#

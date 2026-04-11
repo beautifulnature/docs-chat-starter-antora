@@ -1,0 +1,479 @@
+= Capital Goods
+
+== The Structure
+
+image:media/image13.png[media/image13,width=601,height=364]
+
+Primary category 3 is assigned for Capital Goods identification.
+
+=== Main Group, Sub Groups
+
+[width="100%",cols="12%,28%,12%,48%",options="header",]
+|===
+|Main Group |Main Group Description |Sub Group |Sub Group Description
+|01 |Conventional Machining |01 |Lathes
+| | |02 |Boring Machines
+| | |03 |Milling Machines
+| | |04 |Shaping, Planing and Broaching Machine
+| | |05 |Drilling and Tapping Machines
+| | |06 |Non-Metal Working Machine
+| | |07 |Grinding Machines
+| | |08 |Finishing & Super-finishing Machine
+| | |09 |Cutting Machine
+| | |10 |Pulling Machine
+| | |11 |Coil Winding Machine
+| | |12 |Winding Machine
+| | |13 |Conventional Special Purpose Machines
+|02 |CNC Machining |01 |CNC Lathe
+| | |02 |CNC Boring Machines
+| | |03 |CNC Milling Machines
+| | |04 |CNC Broaching Machines
+| | |05 |CNC Non-Metal Working Machine
+| | |06 |CNC Machining Centre
+| | |07 |CNC Machining Cell
+| | |08 |CNC Drilling Machine
+| | |09 |CNC Grinding Machine
+| | |10 |CNC Press
+| | |11 |CNC Non-Conventional Machine
+| | |12 |CNC Hobbing & Shaper for Gear & External Splines
+| | |13 |Reserve
+| | |14 |CNC Induction Hardening Machine
+| | |15 |CNC Flame Cutting Machines
+| | |16 |CNC Turret Punch
+| | |17 |CNC Conductor Cutting
+| | |18 |CNC 3D Measuring Machine
+| | |19 |CNC Winding Machine
+| | |20 |CNC Flute Rolling Line
+| | |21 |CNC Cropping Line
+| | |22 |CNC Cutting Machine
+| | |23 |CNC Flanging Machine
+| | |24 |CNC Taping Machine
+| | |25 |CNC Saw
+| | |26 |CNC 6 Axis Shot Peening
+| | |27 |CNC Special Purpose Machines
+|03 |Bending & Rolling Machine |01 |Bending and Rolling Machines
+|04 |Forming Machine |01 |Coil Forming Machine
+| | |02 |Sheet Metal Forming
+| | |03 |Hand Tube Bender
+|05 |Forging & Press Equipment |01 |Forging Hammer
+| | |02 |Forging Press
+| | |03 |Mechanical Press
+| | |04 |Hydraulic Press
+| | |05 |Hand Press
+| | |06 |Shearing & Slitting Machines
+|06|Welding/Joining / Cutting Machine - standalone sets |01 |Cutting Equipment
+| | |02 |Arc Welding Equipment
+| | |03 |Resistance & Solid Phase Bonding Welding
+| | |04 |Special Welding Equipment
+| | |05 |Brazing & Soldering Equipment
+| | |06 |Surface Cleaning Equipment
+| | |07 |Surface Coating Equipment
+| | |08 |Portable Welding Machine
+| | |09 |Gouging Set
+| | |10 |Welding Booth
+| | |11 |Welding Positioner
+| | |12 |Chamfering Machine
+| | |13 |Pipe Bevelling Machine
+| | |14 |Tube Bevelling Machine
+| | |15 |Welding Simulator
+| | |16 |Welding Fume Extraction System
+| | |17 |Welding Generator
+|07 |3D Printing / Additive Manufacturing Machines |01 |3D Printed Machine
+| | |02 |Additive Manufacturing Machine
+|08 |Heat Treatment Equipment |01 |Bath Furnace
+| | |02 |Pit Furnace
+| | |03 |Chamber Type Furnace
+| | |04 |Bogie Earth Furnace
+| | |05 |Quenching Equipment
+| | |06 |Sand Reclamation Plant
+| | |07 |Induction Furnace
+| | |08 |Ring Furnace
+|09 |Heating & Drying Equipment |01 |Heating Furnace
+| | |02 |Curing Oven
+| | |03 |Electrode Drying Oven
+| | |04 |Flux Drying Oven
+| | |05 |Induction Heater
+| | |06 |Thermocouple Furnace with Standard Thermocouple
+| | |07 |Hot Air Oven
+| | |08 |Induction Hardening Machine
+| | |09 |Induction Heating Equipment
+| | |10 |VPI Plant
+| | |11 |VPD Plant
+| | |12 |Laser Hardening
+| | |13 |Babbiting
+| | |14 |Industrial Oven
+| | |15 |Bolt Heating Equipment
+| | |16 |Mould Drying Oven
+| | |17 |Electrode Baking Oven
+|10 |Mechanical Testing |01 |Universal Testing Machine
+| | |02 |Tensile/Compression Testing Machine
+| | |03 |Bend Testing Machine
+| | |04 |Hardness Testing Machine
+| | |05 |Torsion Testing Machine
+| | |06 |Drop Weight Tester
+| | |07 |Creep Testing Machine
+| | |08 |Stress Rupture Testing Machine
+| | |09 |Fatigue/Endurance Testing Machine
+| | |10 |Impact Testing Machine
+| | |11 |Spring Testing Machine
+| | |12 |Torque Measuring Machine
+| | |13 |Tearing and Bursting Tester
+| | |14 |Proving Rings/Load Cells
+| | |15 |Extensometer
+| | |16 |Friction and Wear Tester
+| | |17 |Erosion Testing Machine
+| | |18 |Metallurgical Microscope
+| | |19 |Metallographic Polishing Equipment
+| | |20 |X-Ray Detraction Equipment
+| | |21 |Hydrostatic Pressure Tester
+| | |22 |X-Ray Radiographic Equipment
+| | |23 |Gamma-Ray Radiographic Equipment
+| | |24 |Ultrasonic Flaw Detector
+| | |25 |Magnetic Particle Tester
+| | |26 |Leak Detector Equipment
+| | |27 |Bearing Bond Tester
+| | |28 |Dilatometer
+| | |29 |Fibro scope
+| | |30 |Weldability Tester
+| | |31 |Ultrasonic Cleaner
+| | |32 |Photo elastic Stress Measurement Equipment
+| | |33 |Strain Gauge Equipment
+| | |34 |Vibration Analysing Equipment
+| | |35 |Vibration Transducers
+| | |36 |Noise Measurement & Analysing Equipment
+| | |37 |Shock Pulse Meter
+| | |38 |Vibration Exciter Meter
+| | |39 |Tachometer
+| | |40 |Low Cycle Thermal Fatigue Testing Equipment
+| | |41 |Closed Loop Servo Controlled Fatigue Test System
+| | |42 |Acoustic Emission Test Equipment
+| | |43 |Ferrite Meter
+| | |44 |Constant Potential X-Ray Radiographic Equipment
+| | |45 |Computed Radiography System
+| | |46 |Manual Film Processing Tank
+| | |47 |Automatic Film Processor
+| | |48 |Radiographic Film Viewer (Illuminator)
+| | |49 |Radiographic Film Dryer
+| | |50 |Safelight
+| | |51 |Optical Densitometer
+| | |52 |Radiation Survey meter
+| | |53 |Gamma Area/Zone Monitor
+| | |54 |Personal Dosimeter
+| | |55 |Ultraviolet Lamp for Magnetic Particle Testing
+| | |56 |Magnetic Field Strength Meter
+| | |57 |Residual Field Strength Meter
+| | |58 |Endoscope
+| | |59 |Videoscope
+| | |60 |Repetitive Surge Oscillator
+| | |61 |Portable Ultrasonic Hardness Tester
+| | |62 |Portable Rebound Type Hardness Tester
+| | |63 |Digital Radiography System
+| | |64 |Master Density Strip
+| | |65 |Portable Metal Analyser
+| | |66 |Distance Meter
+| | |67 |Electromagnetic Yoke with Black Light
+| | |68 |Residual Stress Measurement System
+| | |69 |Profile Projector
+| | |70 |Portable Surface Roughness Tester
+| | |71 |XRF Analyser
+| | |72 |Magnetic Permeability Tester
+| | |73 |Laser Marking
+| | |74 |Microhardness Tester
+| | |75 |Borescope
+| | |76 |Pressure Guage
+| | |77 |Reserve
+| | |78 |Frequency Analyser
+| | |79 |Vibration Analyser
+| | |80 |Phased Array Ultrasonic Testing System
+| | |81 |FFT (Fast Fourier Transform) Analyser
+| | |82 |Digital Vibration Meter
+| | |83 |Digital Oscilloscope
+| | |84 |Measuring Tape Calibration Equipment (1000mm)
+| | |85 |Gear Tester
+| | |86 |Alignment Equipment
+| | |87 |Balancing
+| | |88 |3D CMM
+| | |89 |Sand Testing Equipment
+| | |90 |Pyrometer
+| | |91 |Mech Lab Equipment
+| | |92 |NDT Lab Equipment
+|11 |Electrical / Electronic Testing |01 |Motor Generator Set
+| | |02 |AC Drive Motors
+| | |03 |DC Drive Motors
+| | |04 |Static Power Supply Source
+| | |05 |Interposing & Testing Transformers
+| | |06 |Auto Transformers
+| | |07 |Phase Shifting Transformers
+| | |08 |Current Transformers
+| | |09 |Voltage Transformers
+| | |10 |Shunts
+| | |11 |Capacitors
+| | |12 |Variable Resistance
+| | |13 |Loading Resistors
+| | |14 |Small Inductance
+| | |15 |Loading Reactors
+| | |16 |DC High Voltage Test Sets
+| | |17 |High Voltage Test Kit (AC)
+| | |18 |High Current Test Sets Comparators and Ratio Meters
+| | |19 |Cable Fault Detector
+| | |20 |Inter Turn Tester
+| | |21 |Coil Turn Counter
+| | |22 |Oil Test sets
+| | |23 |Magnetic Property Tester
+| | |24 |Magnetising Equipment
+| | |25 |Iron Loss Tester/Ferrometer
+| | |26 |Carbon Brush Test Equipment
+| | |27 |Relay Tester
+| | |28 |Comparative Tracing Index Tester
+| | |29 |Insulation Resistance Tester (Megger)
+| | |30 |Short Circuit Switch
+| | |31 |Thyrister Tester
+| | |32 |Impulse Generator
+| | |33 |Function Generator
+| | |34 |Pulse Generator
+| | |35 |Recurrent Surge Generator
+| | |36 |Oscilloscopes
+| | |37 |Wave Analyser
+| | |38 |Data Loggers
+| | |39 |Conductivity Meter
+| | |40 |Electronic Metal Detector
+| | |41 |Voltmeter
+| | |42 |Ammeters
+| | |43 |Watt Meter
+| | |44 |Portable Frequency Measuring System
+| | |45 |Digital Mustimeter
+| | |46 |Impedance Measurement Equipment
+| | |47 |Digital Storage Oscilloscope
+| | |48 |Bench Top LCR Meter
+| | |49 |Earth Tester
+| | |50 |Ohm Meter
+| | |51 |Automatic Digital Schering Bridge
+| | |52 |Multi-Function Calibrator
+| | |53 |Insulation Resistance Tester (5 kV)
+| | |54 |Rotary Converter
+| | |55 |Facility for Impedence Test of TG Rotor at 500Hz
+| | |56 |Recurrent Surge Oscillograph
+| | |57 |Single Phase Servo Voltage Stabilizer (5 kVA)
+| | |58 |Three Phase Servo Voltage Stabilizer (15 kVA)
+| | |59 |Loss Measurement System
+| | |60 |Corona Camera
+| | |61 |Corona Shield
+| | |62 |Thermo Vision Camera
+| | |63 |Ten Delta Bridge Measurement Kit
+| | |64 |Sweep Frequency Analyzer
+| | |65 |1200 kV Series Resonant Transformer
+|12 |Chemical and Physical Property Testing Equipment |01 |Emission / Absorption Speemmission / Absorption Spectrograph
+| | |02 |Spectrometer
+| | |03 |Colorimeter
+| | |04 |X-Ray Fluoredscence Spectrometer
+| | |05 |Air Permeability Apparatus
+| | |06 |Temperature, Humidity & Pressure Meter
+| | |07 |Turbidity Meter
+| | |08 |Spectro Photometer
+| | |09 |UV Light Intensity Meter
+| | |10 |Coating Thickness Guage
+|13 |Thermal Property Testing Equipment |01 |Temperature Recorders
+| | |02 |Temperature Indicators
+| | |03 |Temperature Controllers
+| | |04 |Thermal Conductivity Apparatus
+| | |05 |Calibrator
+| | |06 |Black Body
+|14 |Fluid Dynamics Property Testing Equipment |01 |Restriction Type Flowmeters
+| | |02 |Pressure Transducers
+| | |03 |Differential Pressure Gauge/Manometers
+| | |04 |Ultrasonic Flow Meter
+| | |05 |Pressure Calibration Test Bench
+| | |06 |Hydrostatic Testing Equipment
+| | |07 |Nitrogen Leak Testing Equipment
+|15 |Metrology Equipment |01 |Universal Measuring Microscope
+| | |02 |Universal Length Measuring Machine
+| | |03 |Surface Finish Measuring Equipment
+| | |04 |Tool Makers Microscope
+| | |05 |Run Out Tester
+| | |06 |Level Indicators
+| | |07 |Boroscope
+| | |08 |Autocollimator
+| | |09 |Interferometer
+| | |10 |Electronic Level
+| | |11 |Ball Bar System
+| | |12 |Granite Master Square
+| | |13 |Granite Straight Edge
+| | |14 |Vision Measurement Machine
+|16 |Environment / Biological Monitoring Equipment |01 |Dissolved Oxygen Meter
+| | |02 |Conductivity Meter
+| | |03 |Turbidity Meter
+| | |04 |pH Meter
+| | |05 |Carbon Dioxide Monitor - Table Top
+| | |06 |VOC Monitor based on PID
+| | |07 |Work Zone Air sampler
+| | |08 |Illumination Meter
+| | |09 |Total Kjeldhal Assembly
+| | |10 |Viscometer
+| | |11 |Microwave Digestion System
+| | |12 |Ion Chromatograph
+| | |13 |Fuming Cupboard
+| | |14 |Water Bath
+| | |15 |Sieve Shaker with Sieve Cover & Receiver
+| | |16 |Oven Forced Draft Type
+| | |17 |Oven (ISO Temperature)
+| | |18 |Single Pan Balance
+| | |19 |Magnetic Stirrer
+| | |20 |Rotary Vacuum Evaporator
+| | |21 |Analytical Balance
+| | |22 |Digital Lux Meter
+| | |23 |Hydrocarbon Analyser
+| | |24 |Hand Held Portable Photosynthesis System
+| | |25 |HART Communicator
+| | |26 |Multi Gas Monitor for workplace Air Monitoring
+| | |27 |Portable Noise Dosimeter with Accessories
+| | |28 |UV Spectro Photometer
+| | |29 |Turbidity Meter
+| | |30 |pH Meter
+| | |31 |VOC Monitor
+| | |32 |Respirable Dust Sampler (PM10)
+| | |33 |Fine Particulate Sampler
+| | |34 |Digital Manometer for Static & Dynamic Pressure Measurement of Flue Gases
+| | |35 |Handy Sampler
+| | |36 |Electronic Balance (5 Digit Display)
+|16 |Environment / Biological Monitoring Equipment |37 |Portable Flue Gas Analyser
+| | |38 |Stack Monitoring Kit with Velocity Monitor
+| | |39 |Sound/Noise Level Meter with Calibrator
+| | |40 |Fine Particulate sampler
+| | |41 |Respirable Dust Sampler with Gaseous Attachment (RDS)
+| | |42 |Table Top Conductivity Meter
+| | |43 |BOD incubator
+| | |44 |Hot Air Oven
+| | |45 |UV VIS Spectrophotometer with Double Beam
+| | |46 |Water Double Distillation Assembly
+| | |47 |Portable Conductivity Meter
+| | |48 |Table Top pH Meter
+| | |49 |Chemical Oxygen Demand (COD) Apparatus
+| | |50 |Kjeldahl Apparatus
+| | |51 |Portable pH Meter
+| | |52 |Portable Flue Gas Analyser
+| | |53 |Water Bath
+| | |54 |Portable Chlorine Photometer
+| | |55 |PM 2.5 Sampler
+| | |56 |Deep Freezer
+| | |57 |Colour of Water Photometer
+| | |58 |Illumination Meter
+| | |59 |Dissolved Oxygen Meter
+| | |60 |Noise Level Meter
+| | |61 |Effluent Monitoring
+|17 |Jigs, Fixtures, Portable Tools, Tables and all other items of P&M not covered above |01 |Crimping Tools
+| | |02 |Tables
+| | |03 |Tools
+|18 |Material Handling & Storage Equipment |01 |EOT Cranes
+| | |02 |Jib Cranes
+| | |03 |Mobile Cranes
+| | |04 |Crawler Cranes
+| | |05 |Goliath Cranes
+| | |06 |Conveyors
+| | |07 |Floor Cranes
+| | |08 |Battery Operated Trolley
+| | |09 |Diesel Operated Fork Lifter
+| | |10 |Battery Operated Tow Masters
+| | |11 |4 Wheel Steel Trailors
+| | |12 |Battery Operated Fork Lifter
+| | |13 |Rail Transfer Trolley
+| | |14 |Trailors
+| | |15 |Battery Operated Motorized Trolley
+| | |16 |Tipper
+| | |17 |Lifting Magnets
+| | |18 |Bed Plates
+| | |19 |Hydraulic Hand Pallet
+| | |20 |Aluminium Ladder
+| | |21 |Hydraulic Scissor Platform
+| | |22 |Backhoe Loader
+| | |23 |Tractor
+| | |24 |Pickup Truck
+| | |25 |Mobile Shelving System
+| | |26 |Tool Cabinets
+| | |27 |Locker Unit
+| | |28 |Angle Rack
+| | |29 |Mobile Compactor
+| | |30 |Crane Suspended SGI Tundish Ladle
+| | |31 |Wagon
+| | |32 |Hydraulic Pallet Truck
+| | |33 |
+| | |34 |Open Pallet
+| | |35 |Prime Mover
+| | |36 |Two Side Material Storage Trolley
+|19 |Job Handling Devices |01 |Lifting Devices
+| | |02 |Reserve
+| | |03 |Rotators
+| | |04 |Articulated Boom Lift
+| | |05 |Hydraulic Jacks
+| | |06 |Pullers
+|20 |Electronic / Wafer / Solar Fabrication | |
+|21 |Special Equipment |01 |OSBT
+| | |02 |Test Beds
+| | |03 |Surface Treatment
+| | |04 |Elevating Platform
+| | |05 |Coil Assembly Platform
+| | |06 |Test Plant
+| | |07 |Dust Free Enclosure
+| | |08 |Shot Peening
+|21 |Special Equipment |09 |Hydraulic Tube Expander Machine
+| | |10 |Bandaging Machine
+| | |11 |Laser Shaft Alignment System
+|22-50 |Reserve | |
+|51 |Factory (RCC Structure) | |
+|52 |Factory (Steel Framed Structure) | |
+|53 |Factory (Load Bearing Masonry) | |
+|54 |Factory (others) | |
+|55 |Township Buildings | |
+|56 |Township other Structures | |
+|57 |Fences | |
+|58 |Wells, Tube Wells | |
+|59-65 |Reserve | |
+|66 |Air-Conditioning Equipment |01 |Window Type Air-Conditioners
+| | |02 |Split Type Air-Conditioners
+| | |03 |Cassette Type Air-Conditioners
+| | |04 |Floor Standing Type Air-Conditioners
+| | |05 |AC Plant
+|67 |Water-Conditioning Equipment |01 |Water Coolers for Drinking Water
+| | |02 |Cooling Towers
+|68 |Refrigeration Equipment |01 |Single Door Refrigerators
+| | |02 |Double Door Refrigerators
+| | |03 |Cold Storage System
+|69 |DM water / STP / ETP |01 |Sewage Treatment Plant
+| | |02 |Effluent Treatment Plant
+| | |03 |DM Water Plant
+|70 |Boilers | |
+|71 |Audio / Visual Equipment | |
+|72 |Process Equipment |01 |Gas Plants
+| | |02 |Power Supply Equipment
+| | |03 |Pumps & Compressors
+| | |04 |Fire Fighting Equipment
+| | |05 |Water Softening Unit
+| | |06 |Oil Chiller Unit
+| | |07 |Oil Chiller Unit
+| | |08 |Solar Power Plants
+| | |09 |Fume Extractors
+| | |10 |Oil Filtration Plant
+| | |11 |Pressurization Plant
+| | |12 |Balance of Plant
+|73-90 |Reserve | |
+|91 |Medical & Diagnostic Equipment |01 |General Medicine Equipment
+| | |02 |Surgical Equipment
+| | |03 |Gynaecology Surgery Equipment
+| | |04 |Ophthalmology Equipment
+| | |05 |Orthopaedics
+| | |06 |Paediatrics
+| | |07 |Anaesthesia
+| | |08 |Pathology
+| | |09 |ENT
+| | |10 |Dental
+| | |11 |OHS
+| | |12 |Radiology
+| | |13 |ICU Furniture
+| | |14 |Phaco Emulsification System
+| | |15 |Centralized Oxygen and Vacuum Pipe Line System
+|92 |Welfare Equipment |01 |Transport Vehicles
+| | |02 |Office Equipment
+| | |03 |Canteen Equipment
+| | |04 |Horticulture Equipment
+| | |05 |Security Equipment
+|93-99 |Reserve | |
+|===

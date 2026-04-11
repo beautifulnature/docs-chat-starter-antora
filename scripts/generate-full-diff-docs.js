@@ -22,6 +22,35 @@ function getFileContent(branch, file) {
 // Use diff-match-patch for inline markup on v2 base
 const DiffMatchPatch = require('diff-match-patch');
 
+// Helper to extract only the diff (additions and deletions) as a minimal diff-only AsciiDoc
+function getDiffOnlyAdoc(v1Content, v2Content) {
+  const dmp = new DiffMatchPatch();
+  const diffs = dmp.diff_main(v1Content, v2Content);
+  dmp.diff_cleanupSemantic(diffs);
+  let result = '';
+  for (const [op, data] of diffs) {
+    if (op === DiffMatchPatch.DIFF_INSERT) {
+      const match = data.match(/^(\s*)(.*?)(\s*)$/s);
+      if (match) {
+        const [, leading, core, trailing] = match;
+        result += leading + '[green]#' + core + '#' + trailing;
+      } else {
+        result += '[green]#' + data + '#';
+      }
+    } else if (op === DiffMatchPatch.DIFF_DELETE) {
+      const match = data.match(/^(\s*)(.*?)(\s*)$/s);
+      if (match) {
+        const [, leading, core, trailing] = match;
+        result += leading + '[line-through.red]#' + core + '#' + trailing;
+      } else {
+        result += '[line-through.red]#' + data + '#';
+      }
+    }
+    // Do not include unchanged text
+  }
+  return result.trim() ? result : null;
+}
+
 function getUnifiedDiff(v1Content, v2Content) {
   const dmp = new DiffMatchPatch();
   const diffs = dmp.diff_main(v1Content, v2Content);
@@ -29,11 +58,22 @@ function getUnifiedDiff(v1Content, v2Content) {
   let result = '';
   for (const [op, data] of diffs) {
     if (op === DiffMatchPatch.DIFF_INSERT) {
-      result += `[green]#${data}#`;
+      // Remove leading/trailing spaces inside the role markup, but preserve them outside
+      const match = data.match(/^(\s*)(.*?)(\s*)$/s);
+      if (match) {
+        const [, leading, core, trailing] = match;
+        result += leading + '[green]#' + core + '#' + trailing;
+      } else {
+        result += '[green]#' + data + '#';
+      }
     } else if (op === DiffMatchPatch.DIFF_DELETE) {
-      // Do not show deletions in v2 base, but you can optionally show as strike-through at the right place
-      // result += `[line-through red]#${data}#`;
-      // For true v2 base, skip
+      const match = data.match(/^(\s*)(.*?)(\s*)$/s);
+      if (match) {
+        const [, leading, core, trailing] = match;
+        result += leading + '[line-through.red]#' + core + '#' + trailing;
+      } else {
+        result += '[line-through.red]#' + data + '#';
+      }
     } else {
       result += data;
     }
@@ -46,6 +86,11 @@ function generateFullDiffDocs() {
   const v2Files = getAdocFiles('v2');
   const allFiles = new Set([...v1Files, ...v2Files]);
   const outputDir = path.join(__dirname, '..', 'manual', 'modules', 'ROOT', 'pages');
+
+  // For nav-redacted.adoc
+  const redactedNavEntries = [];
+  const redactedDir = path.join(outputDir, 'redacted');
+  fs.mkdirSync(redactedDir, { recursive: true });
 
   allFiles.forEach(file => {
     const fileName = path.basename(file);
@@ -60,13 +105,34 @@ function generateFullDiffDocs() {
       // Use v2 as base, apply diff markup for changes
       const unified = getUnifiedDiff(v1Content, v2Content);
       fs.writeFileSync(outputPath, unified);
+      // Generate redacted diff-only page if there is a diff
+      const diffOnly = getDiffOnlyAdoc(v1Content, v2Content);
+      if (diffOnly) {
+        const redactedPath = path.join(redactedDir, fileName);
+        // Add a title for context
+        const title = `= Diff for ${fileName}\n\n`;
+        fs.writeFileSync(redactedPath, title + diffOnly + '\n');
+        redactedNavEntries.push(`* xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
+        console.log(`Generated redacted diff for: ${fileName}`);
+      }
       console.log(`Generated v2-diff for: ${fileName}`);
     } else if (v1Content) {
       // Only in v1: mark as deleted
       fs.writeFileSync(outputPath, `// [line-through red]#This page was deleted in v2.#\n`);
+      // Mark as deleted in redacted diff
+      const redactedPath = path.join(redactedDir, fileName);
+      const title = `= Diff for ${fileName}\n\n`;
+      fs.writeFileSync(redactedPath, title + '[line-through.red]#This page was deleted in v2.#\n');
+      redactedNavEntries.push(`* xref:redacted/${fileName}[${fileName.replace('.adoc','')}]`);
       console.log(`Marked deleted: ${fileName}`);
     }
   });
+
+  // Write nav-redacted.adoc
+  const navPath = path.join(outputDir, '..', 'nav-redacted.adoc');
+  const navHeader = '// This file is auto-generated. Do not edit manually.\n// Redacted Diff Navigation\n\n= Redacted Diff Pages\n\n';
+  fs.writeFileSync(navPath, navHeader + redactedNavEntries.join('\n') + '\n');
+  console.log('Updated nav-redacted.adoc with redacted diff entries.');
 }
 
 generateFullDiffDocs();

@@ -330,3 +330,17 @@ main.article > .content img {
   visibility: visible;
   transform: translateY(0);
 }
+
+.green {
+  color: #008000;
+}
+.line-through {
+  text-decoration: line-through;
+}
+.red {
+  color: #d32f2f;
+}
+.line-through.red {
+  color: #d32f2f;
+  text-decoration: line-through;
+}

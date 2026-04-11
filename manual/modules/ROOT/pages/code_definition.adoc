@@ -1,0 +1,29 @@
+= Definition of Code and Material Codification Objectives
+
+Code is a particular form of identification or reference which serves the dual purpose of establishing in a systematic manner the complete identity of an individual product, bringing out at the same time its similarity with other products.
+
+It may consist of a brief and systematic combination of letters, numerals and / or symbols.
+
+A systematic code, used in conjunction with a key for decoding, can assist identification of a product and enable its characteristics to be known.
+
+Material codification is the process of transformation of lengthy word descriptions into brief Numeric / Alpha-numeric codes with the following objectives:
+
+== Identification
+
+Material codes precisely identify the complete parameters of materials in terms of specifications, sizes etc. and facilitate procurement, storing and issue of the right material for the intended application.
+
+== Classification
+
+Material codes groups similar
+
+* Systematic storing
+* Classified information retrieval
+* Standardization / Rationalization / Unification / Variety control
+
+== Digitization
+
+Material codes facilitate in
+
+* Proper Inventory Analysis / Reporting / Control
+* Computerised Indenting / Procurement / Issue
+* Computerised material accounting / Costing

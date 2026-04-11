@@ -1,0 +1,6 @@
+// This file is auto-generated. Do not edit manually.
+// Redacted Diff Navigation
+
+= Redacted Diff Pages
+
+* xref:redacted/1x-metals.adoc[1x-metals]
