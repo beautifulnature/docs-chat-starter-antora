@@ -19,6 +19,25 @@ function getFileContent(branch, file) {
   }
 }
 
+// Cross-platform file diff using temp files
+function getFileDiff(content1, content2) {
+  const os = require('os');
+  const tmp1 = path.join(os.tmpdir(), `v1_${Date.now()}_${Math.random()}.adoc`);
+  const tmp2 = path.join(os.tmpdir(), `v2_${Date.now()}_${Math.random()}.adoc`);
+  fs.writeFileSync(tmp1, content1, 'utf8');
+  fs.writeFileSync(tmp2, content2, 'utf8');
+  let diff = '';
+  try {
+    diff = execSync(`git diff --no-index --word-diff=plain "${tmp1}" "${tmp2}"`, { encoding: 'utf8' });
+  } catch (e) {
+    diff = e.stdout ? e.stdout.toString() : '';
+  }
+  // Clean up temp files
+  fs.unlinkSync(tmp1);
+  fs.unlinkSync(tmp2);
+  return diff;
+}
+
 function generateFullDiffDocs() {
   const v1Files = getAdocFiles('v1');
   const v2Files = getAdocFiles('v2');
@@ -33,7 +52,7 @@ function generateFullDiffDocs() {
 
     if (v1Content && v2Content) {
       // Both exist: generate diff
-      const diff = execSync(`git diff --no-index --word-diff=plain <(echo "${v1Content.replace(/"/g, '\\"')}") <(echo "${v2Content.replace(/"/g, '\\"')}")`, { encoding: 'utf8', shell: '/bin/bash' });
+      const diff = getFileDiff(v1Content, v2Content);
       let formattedDiff = diff
         .replace(/\[-([^\]]+)\]/g, '[line-through red]#$1#')
         .replace(/\{\+([^\}]+)\}/g, '[green]#$1#');
