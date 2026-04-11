@@ -4,7 +4,7 @@ site:
 content:
   sources:
     - url: .
-      branches: [v1, v2]
+      branches: [v1, v2, v2-diff]
       start_path: manual
 ui:
   bundle:
